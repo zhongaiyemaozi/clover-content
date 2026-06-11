@@ -3,7 +3,7 @@
 import json, hashlib, pathlib
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
-OWNER, REPO = "zhongaiyemaozi", "clover-content"
+GH_OWNER, GITEE_OWNER, REPO = "zhongaiyemaozi", "zhongaiyemaozi_admin", "clover-content"
 
 manifest = json.loads((ROOT / "manifest.json").read_text(encoding="utf-8"))
 known = {p["id"]: p for p in manifest["packs"]}
@@ -23,8 +23,8 @@ for path in sorted((ROOT / "packs").glob("*.json")):
         "sha256": hashlib.sha256(data).hexdigest(),
         "accessLevel": prev.get("accessLevel", "free"),
         "urls": {
-            "cn": f"https://gitee.com/{OWNER}/{REPO}/raw/main/packs/{pid}.json",
-            "global": f"https://raw.githubusercontent.com/{OWNER}/{REPO}/main/packs/{pid}.json",
+            "cn": f"https://gitee.com/{GITEE_OWNER}/{REPO}/raw/main/packs/{pid}.json",
+            "global": f"https://raw.githubusercontent.com/{GH_OWNER}/{REPO}/main/packs/{pid}.json",
         },
     })
 
