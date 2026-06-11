@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 1,
+  "minAppVersion": "2.0.0",
+  "announcement": {
+    "zh": "🎉 四叶草乐园 2.0 全新改版：吉祥物乐乐上线，六大学习岛屿等你探索！首批节日内容包已上架，欢迎下载。",
+    "en": "🎉 Clover Park 2.0 is here: meet Lucky the mascot and explore six learning islands! The first festival packs are now available.",
+    "validUntil": "2026-12-31"
+  },
+  "packs": [
+    {
+      "id": "festival-cny",
+      "version": 1,
+      "title": {
+        "zh": "春节认知包",
+        "en": "Chinese New Year Pack"
+      },
+      "summary": {
+        "zh": "认识春节习俗的 12 张双语学习卡",
+        "en": "12 bilingual cards about Chinese New Year"
+      },
+      "sizeBytes": 4889,
+      "sha256": "75f443692d16c7a126734d8218c4296cb5c0dbb4bb2d79bddac40ab81284367f",
+      "accessLevel": "free",
+      "urls": {
+        "cn": "https://gitee.com/zhongaiyemaozi/clover-content/raw/main/packs/festival-cny.json",
+        "global": "https://raw.githubusercontent.com/zhongaiyemaozi/clover-content/main/packs/festival-cny.json"
+      }
+    },
+    {
+      "id": "festival-midautumn",
+      "version": 1,
+      "title": {
+        "zh": "中秋认知包",
+        "en": "Mid-Autumn Festival Pack"
+      },
+      "summary": {
+        "zh": "认识中秋节的 10 张双语学习卡",
+        "en": "10 bilingual cards about the Mid-Autumn Festival"
+      },
+      "sizeBytes": 4088,
+      "sha256": "70197cb246764bb62fa55514a584ca46346bd42eafb6b9478d1a477d994c2c35",
+      "accessLevel": "free",
+      "urls": {
+        "cn": "https://gitee.com/zhongaiyemaozi/clover-content/raw/main/packs/festival-midautumn.json",
+        "global": "https://raw.githubusercontent.com/zhongaiyemaozi/clover-content/main/packs/festival-midautumn.json"
+      }
+    },
+    {
+      "id": "festival-christmas",
+      "version": 1,
+      "title": {
+        "zh": "圣诞认知包",
+        "en": "Christmas Pack"
+      },
+      "summary": {
+        "zh": "认识圣诞节的 10 张双语学习卡",
+        "en": "10 bilingual cards about Christmas"
+      },
+      "sizeBytes": 3993,
+      "sha256": "cc4b4dc367a5a4b0477647dc738af04510f8a9a5a81681fa236f124454fc5ac9",
+      "accessLevel": "free",
+      "urls": {
+        "cn": "https://gitee.com/zhongaiyemaozi/clover-content/raw/main/packs/festival-christmas.json",
+        "global": "https://raw.githubusercontent.com/zhongaiyemaozi/clover-content/main/packs/festival-christmas.json"
+      }
+    }
+  ]
+}

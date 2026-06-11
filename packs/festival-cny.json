@@ -1,0 +1,24 @@
+{
+  "categories": [
+    {
+      "id": "pack_festival_cny",
+      "titleKey": "春节乐园",
+      "icon": "sparkles",
+      "themeColor": "#FF8A80",
+      "items": [
+        { "id": "cny_chunjie", "type": "custom", "zhText": "春节", "enText": "Chinese New Year", "pinyin": "chūn jié", "emoji": "🧧", "descriptionZh": "春节是中国最重要的传统节日，家人团聚一起过年。", "descriptionEn": "Chinese New Year is the most important traditional festival, when families gather together.", "difficulty": 1, "tags": ["festival", "cny"], "hexColor": "#E53935", "example": null },
+        { "id": "cny_hongbao", "type": "custom", "zhText": "红包", "enText": "red envelope", "pinyin": "hóng bāo", "emoji": "🧧", "descriptionZh": "长辈把压岁钱装进红包送给小朋友，祝福平安健康。", "descriptionEn": "Elders give children lucky money in red envelopes for good fortune.", "difficulty": 1, "tags": ["festival", "cny"], "hexColor": "#E53935", "example": null },
+        { "id": "cny_chunlian", "type": "custom", "zhText": "春联", "enText": "spring couplets", "pinyin": "chūn lián", "emoji": "🏮", "descriptionZh": "红纸上写着吉祥话，贴在门两边迎接新年。", "descriptionEn": "Lucky words written on red paper are pasted beside doors to welcome the new year.", "difficulty": 2, "tags": ["festival", "cny"], "hexColor": "#E53935", "example": null },
+        { "id": "cny_jiaozi", "type": "custom", "zhText": "饺子", "enText": "dumplings", "pinyin": "jiǎo zi", "emoji": "🥟", "descriptionZh": "北方人过年吃饺子，形状像小元宝，代表福气。", "descriptionEn": "Dumplings look like little gold ingots and stand for good luck at New Year.", "difficulty": 1, "tags": ["festival", "cny", "food"], "hexColor": null, "example": null },
+        { "id": "cny_nianyefan", "type": "custom", "zhText": "年夜饭", "enText": "reunion dinner", "pinyin": "nián yè fàn", "emoji": "🍲", "descriptionZh": "除夕晚上全家人一起吃的团圆大餐。", "descriptionEn": "The big family dinner on New Year's Eve when everyone reunites.", "difficulty": 2, "tags": ["festival", "cny", "food"], "hexColor": null, "example": null },
+        { "id": "cny_wushi", "type": "custom", "zhText": "舞狮", "enText": "lion dance", "pinyin": "wǔ shī", "emoji": "🦁", "descriptionZh": "锣鼓声中狮子跳起舞，热热闹闹庆新年。", "descriptionEn": "Lions dance to drums and gongs to celebrate the new year.", "difficulty": 2, "tags": ["festival", "cny"], "hexColor": "#FFB300", "example": null },
+        { "id": "cny_denglong", "type": "custom", "zhText": "灯笼", "enText": "lantern", "pinyin": "dēng long", "emoji": "🏮", "descriptionZh": "红红的灯笼挂起来，节日的夜晚亮堂堂。", "descriptionEn": "Red lanterns light up the festival nights.", "difficulty": 1, "tags": ["festival", "cny"], "hexColor": "#E53935", "example": null },
+        { "id": "cny_yanhua", "type": "custom", "zhText": "烟花", "enText": "fireworks", "pinyin": "yān huā", "emoji": "🎆", "descriptionZh": "五彩的烟花在夜空绽放，像盛开的花朵。", "descriptionEn": "Colorful fireworks bloom in the night sky like flowers.", "difficulty": 1, "tags": ["festival", "cny"], "hexColor": null, "example": null },
+        { "id": "cny_bainian", "type": "custom", "zhText": "拜年", "enText": "New Year greetings", "pinyin": "bài nián", "emoji": "🙏", "descriptionZh": "见到长辈说一声「新年好」，送上新年的祝福。", "descriptionEn": "Say Happy New Year to elders and share good wishes.", "difficulty": 2, "tags": ["festival", "cny"], "hexColor": null, "example": "新年好！恭喜发财！" },
+        { "id": "cny_shengxiao", "type": "custom", "zhText": "生肖", "enText": "zodiac animals", "pinyin": "shēng xiào", "emoji": "🐲", "descriptionZh": "十二生肖轮流值年，每个小朋友都有自己的属相。", "descriptionEn": "Twelve zodiac animals take turns each year; every child has one.", "difficulty": 3, "tags": ["festival", "cny"], "hexColor": null, "example": null },
+        { "id": "cny_tangyuan", "type": "custom", "zhText": "汤圆", "enText": "sweet rice balls", "pinyin": "tāng yuán", "emoji": "🍡", "descriptionZh": "圆圆的汤圆甜又糯，象征一家人团团圆圆。", "descriptionEn": "Round sweet rice balls stand for family togetherness.", "difficulty": 1, "tags": ["festival", "cny", "food"], "hexColor": null, "example": null },
+        { "id": "cny_chuxi", "type": "custom", "zhText": "除夕", "enText": "New Year's Eve", "pinyin": "chú xī", "emoji": "🌙", "descriptionZh": "一年的最后一个晚上，全家守岁迎接新年。", "descriptionEn": "On the last night of the year, families stay up to welcome the new year.", "difficulty": 3, "tags": ["festival", "cny"], "hexColor": null, "example": null }
+      ]
+    }
+  ]
+}

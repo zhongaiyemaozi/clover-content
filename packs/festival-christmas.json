@@ -1,0 +1,22 @@
+{
+  "categories": [
+    {
+      "id": "pack_festival_christmas",
+      "titleKey": "圣诞乐园",
+      "icon": "gift.fill",
+      "themeColor": "#58C472",
+      "items": [
+        { "id": "xmas_shengdan", "type": "custom", "zhText": "圣诞节", "enText": "Christmas", "pinyin": "shèng dàn jié", "emoji": "🎄", "descriptionZh": "每年12月25日的西方节日，到处都是彩灯和礼物。", "descriptionEn": "Christmas falls on December 25th, with lights and gifts everywhere.", "difficulty": 1, "tags": ["festival", "christmas"], "hexColor": "#2E7D32", "example": null },
+        { "id": "xmas_laoren", "type": "custom", "zhText": "圣诞老人", "enText": "Santa Claus", "pinyin": "shèng dàn lǎo rén", "emoji": "🎅", "descriptionZh": "穿红衣服的白胡子爷爷，给乖孩子送礼物。", "descriptionEn": "The white-bearded man in red brings gifts to good children.", "difficulty": 1, "tags": ["festival", "christmas"], "hexColor": "#E53935", "example": null },
+        { "id": "xmas_shu", "type": "custom", "zhText": "圣诞树", "enText": "Christmas tree", "pinyin": "shèng dàn shù", "emoji": "🎄", "descriptionZh": "绿绿的松树挂满彩球和星星，真漂亮。", "descriptionEn": "A green tree decorated with baubles and stars looks beautiful.", "difficulty": 1, "tags": ["festival", "christmas"], "hexColor": "#2E7D32", "example": null },
+        { "id": "xmas_liwu", "type": "custom", "zhText": "礼物", "enText": "present", "pinyin": "lǐ wù", "emoji": "🎁", "descriptionZh": "包着彩纸系着丝带的盒子，里面装着惊喜。", "descriptionEn": "Boxes wrapped with paper and ribbons hold surprises inside.", "difficulty": 1, "tags": ["festival", "christmas"], "hexColor": null, "example": null },
+        { "id": "xmas_xunlu", "type": "custom", "zhText": "驯鹿", "enText": "reindeer", "pinyin": "xùn lù", "emoji": "🦌", "descriptionZh": "拉着圣诞老人雪橇的鹿，跑得飞快。", "descriptionEn": "Reindeer pull Santa's sleigh and run very fast.", "difficulty": 2, "tags": ["festival", "christmas", "animal"], "hexColor": null, "example": null },
+        { "id": "xmas_xueqiao", "type": "custom", "zhText": "雪橇", "enText": "sleigh", "pinyin": "xuě qiāo", "emoji": "🛷", "descriptionZh": "在雪地上滑行的小车，装满了礼物。", "descriptionEn": "A sled glides over snow, loaded with presents.", "difficulty": 2, "tags": ["festival", "christmas"], "hexColor": null, "example": null },
+        { "id": "xmas_wazi", "type": "custom", "zhText": "圣诞袜", "enText": "stocking", "pinyin": "shèng dàn wà", "emoji": "🧦", "descriptionZh": "挂在床头的大袜子，等着装下小礼物。", "descriptionEn": "A big stocking hangs by the bed waiting for little gifts.", "difficulty": 1, "tags": ["festival", "christmas"], "hexColor": null, "example": null },
+        { "id": "xmas_xuehua", "type": "custom", "zhText": "雪花", "enText": "snowflake", "pinyin": "xuě huā", "emoji": "❄️", "descriptionZh": "冬天从天上飘下来的小冰晶，每一片都不一样。", "descriptionEn": "Tiny ice crystals fall in winter; every snowflake is unique.", "difficulty": 1, "tags": ["festival", "christmas", "season"], "hexColor": null, "example": null },
+        { "id": "xmas_xueren", "type": "custom", "zhText": "雪人", "enText": "snowman", "pinyin": "xuě rén", "emoji": "⛄", "descriptionZh": "用雪堆成的小人，戴着帽子和胡萝卜鼻子。", "descriptionEn": "A snowman wears a hat and a carrot nose.", "difficulty": 1, "tags": ["festival", "christmas"], "hexColor": null, "example": null },
+        { "id": "xmas_lingdang", "type": "custom", "zhText": "铃铛", "enText": "jingle bell", "pinyin": "líng dāng", "emoji": "🔔", "descriptionZh": "叮叮当当的铃铛声，是圣诞节的声音。", "descriptionEn": "Jingle bells ring with the sound of Christmas.", "difficulty": 1, "tags": ["festival", "christmas"], "hexColor": null, "example": null }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "categories": [
+    {
+      "id": "pack_festival_midautumn",
+      "titleKey": "中秋乐园",
+      "icon": "moon.stars.fill",
+      "themeColor": "#FFC84A",
+      "items": [
+        { "id": "ma_zhongqiu", "type": "custom", "zhText": "中秋节", "enText": "Mid-Autumn Festival", "pinyin": "zhōng qiū jié", "emoji": "🌕", "descriptionZh": "农历八月十五，月亮最圆的节日，家人一起赏月。", "descriptionEn": "On the 15th day of the 8th lunar month, families admire the fullest moon together.", "difficulty": 1, "tags": ["festival", "midautumn"], "hexColor": "#FFB300", "example": null },
+        { "id": "ma_yuebing", "type": "custom", "zhText": "月饼", "enText": "mooncake", "pinyin": "yuè bǐng", "emoji": "🥮", "descriptionZh": "圆圆的月饼像月亮，甜甜的馅儿真好吃。", "descriptionEn": "Round mooncakes look like the moon and taste sweet.", "difficulty": 1, "tags": ["festival", "midautumn", "food"], "hexColor": null, "example": null },
+        { "id": "ma_yueliang", "type": "custom", "zhText": "月亮", "enText": "moon", "pinyin": "yuè liang", "emoji": "🌝", "descriptionZh": "中秋的月亮又大又圆，挂在夜空像玉盘。", "descriptionEn": "The Mid-Autumn moon is big and round like a jade plate in the sky.", "difficulty": 1, "tags": ["festival", "midautumn"], "hexColor": null, "example": null },
+        { "id": "ma_changee", "type": "custom", "zhText": "嫦娥", "enText": "Chang'e", "pinyin": "cháng é", "emoji": "👸", "descriptionZh": "传说中住在月亮上的仙女，陪着一只玉兔。", "descriptionEn": "In legend, the fairy Chang'e lives on the moon with a jade rabbit.", "difficulty": 2, "tags": ["festival", "midautumn", "story"], "hexColor": null, "example": null },
+        { "id": "ma_yutu", "type": "custom", "zhText": "玉兔", "enText": "jade rabbit", "pinyin": "yù tù", "emoji": "🐰", "descriptionZh": "月亮上捣药的小白兔，是嫦娥的好伙伴。", "descriptionEn": "The little white rabbit on the moon is Chang'e's companion.", "difficulty": 1, "tags": ["festival", "midautumn", "story"], "hexColor": null, "example": null },
+        { "id": "ma_tuanyuan", "type": "custom", "zhText": "团圆", "enText": "reunion", "pinyin": "tuán yuán", "emoji": "👨‍👩‍👧‍👦", "descriptionZh": "中秋节全家人聚在一起，开开心心吃饭赏月。", "descriptionEn": "Families gather happily to eat and watch the moon at Mid-Autumn.", "difficulty": 2, "tags": ["festival", "midautumn"], "hexColor": null, "example": null },
+        { "id": "ma_guihua", "type": "custom", "zhText": "桂花", "enText": "osmanthus", "pinyin": "guì huā", "emoji": "🌼", "descriptionZh": "秋天开放的小黄花，香香的还能做桂花糕。", "descriptionEn": "Tiny fragrant yellow flowers bloom in autumn and flavor sweet cakes.", "difficulty": 2, "tags": ["festival", "midautumn"], "hexColor": null, "example": null },
+        { "id": "ma_dengmi", "type": "custom", "zhText": "灯谜", "enText": "lantern riddles", "pinyin": "dēng mí", "emoji": "🏮", "descriptionZh": "挂在灯笼下的小谜语，猜对了特别开心。", "descriptionEn": "Riddles hang under lanterns; guessing right is great fun.", "difficulty": 3, "tags": ["festival", "midautumn"], "hexColor": null, "example": null },
+        { "id": "ma_shangyue", "type": "custom", "zhText": "赏月", "enText": "moon gazing", "pinyin": "shǎng yuè", "emoji": "🔭", "descriptionZh": "晚上和家人一起抬头看又圆又亮的月亮。", "descriptionEn": "Look up at the bright full moon together with family at night.", "difficulty": 2, "tags": ["festival", "midautumn"], "hexColor": null, "example": null },
+        { "id": "ma_qiutian", "type": "custom", "zhText": "秋天", "enText": "autumn", "pinyin": "qiū tiān", "emoji": "🍂", "descriptionZh": "中秋在秋天，天气凉爽，果实成熟了。", "descriptionEn": "Mid-Autumn comes in cool autumn when fruits ripen.", "difficulty": 1, "tags": ["festival", "midautumn", "season"], "hexColor": null, "example": null }
+      ]
+    }
+  ]
+}
