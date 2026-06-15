@@ -2,11 +2,87 @@
   "schemaVersion": 1,
   "minAppVersion": "2.0.0",
   "announcement": {
-    "zh": "🎉 宝宝早教乐园 2.2 全新改版：吉祥物乐乐上线，六大学习岛屿等你探索！首批节日内容包已上架，欢迎下载。",
-    "en": "🎉 Kids Learning Park 2.2 is here: meet Lucky the mascot and explore six learning islands! The first festival packs are now available.",
+    "zh": "🎉 新增 4 个核心成长包：安全守护、情绪社交、健康习惯、入园适应。适合日常反复练习，欢迎在家长区下载。",
+    "en": "🎉 Four new core packs are available: Safety, Emotions, Healthy Habits, and Kindergarten Readiness. Download them in the Parent Area for everyday practice.",
     "validUntil": "2026-12-31"
   },
   "packs": [
+    {
+      "id": "core-child-safety",
+      "version": 1,
+      "title": {
+        "zh": "安全守护包",
+        "en": "Child Safety Pack"
+      },
+      "summary": {
+        "zh": "12 张儿童安全场景双语学习卡，覆盖交通、居家、外出和求助表达",
+        "en": "12 bilingual cards for child safety, covering traffic, home, outings, and asking for help"
+      },
+      "sizeBytes": 5549,
+      "sha256": "c43394e41472f2431ba8d48e3f9dd0e5f51f5d2582cf6cb8500dc29be855c0b7",
+      "accessLevel": "free",
+      "urls": {
+        "cn": "https://gitee.com/zhongaiyemaozi_admin/clover-content/raw/main/packs/core-child-safety.json",
+        "global": "https://raw.githubusercontent.com/zhongaiyemaozi/clover-content/main/packs/core-child-safety.json"
+      }
+    },
+    {
+      "id": "core-emotions-social",
+      "version": 1,
+      "title": {
+        "zh": "情绪社交包",
+        "en": "Emotions and Social Skills Pack"
+      },
+      "summary": {
+        "zh": "12 张情绪识别与社交表达双语学习卡，帮助孩子说出感受和需要",
+        "en": "12 bilingual cards for recognizing feelings and using social words"
+      },
+      "sizeBytes": 5305,
+      "sha256": "f26b58a5d4743d7d1061806556d0b98ba1e8ed3b3bc107e7fc572fa5a18529df",
+      "accessLevel": "free",
+      "urls": {
+        "cn": "https://gitee.com/zhongaiyemaozi_admin/clover-content/raw/main/packs/core-emotions-social.json",
+        "global": "https://raw.githubusercontent.com/zhongaiyemaozi/clover-content/main/packs/core-emotions-social.json"
+      }
+    },
+    {
+      "id": "core-healthy-habits",
+      "version": 1,
+      "title": {
+        "zh": "健康习惯包",
+        "en": "Healthy Habits Pack"
+      },
+      "summary": {
+        "zh": "12 张卫生、饮食、作息和运动双语学习卡，适合每日习惯养成",
+        "en": "12 bilingual cards for hygiene, food, routines, and movement"
+      },
+      "sizeBytes": 5384,
+      "sha256": "dba63e00cbb8bd26192ae2f46af659b2ff9ec06f9f327a2cff027d0ba4f8e3f8",
+      "accessLevel": "free",
+      "urls": {
+        "cn": "https://gitee.com/zhongaiyemaozi_admin/clover-content/raw/main/packs/core-healthy-habits.json",
+        "global": "https://raw.githubusercontent.com/zhongaiyemaozi/clover-content/main/packs/core-healthy-habits.json"
+      }
+    },
+    {
+      "id": "core-kindergarten-readiness-plus",
+      "version": 1,
+      "title": {
+        "zh": "入园适应包",
+        "en": "Kindergarten Readiness Pack"
+      },
+      "summary": {
+        "zh": "12 张幼儿园日常流程双语学习卡，帮助孩子练习问好、排队、整理和求助",
+        "en": "12 bilingual cards for kindergarten routines such as greetings, lining up, tidying, and asking for help"
+      },
+      "sizeBytes": 5444,
+      "sha256": "c1d774fa1b321ce82546922d3d1e7e294ef63c4b0da58b6503cfdef44365136d",
+      "accessLevel": "free",
+      "urls": {
+        "cn": "https://gitee.com/zhongaiyemaozi_admin/clover-content/raw/main/packs/core-kindergarten-readiness-plus.json",
+        "global": "https://raw.githubusercontent.com/zhongaiyemaozi/clover-content/main/packs/core-kindergarten-readiness-plus.json"
+      }
+    },
     {
       "id": "festival-christmas",
       "version": 1,

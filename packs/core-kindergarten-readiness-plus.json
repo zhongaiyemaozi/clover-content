@@ -1,0 +1,24 @@
+{
+  "categories": [
+    {
+      "id": "pack_core_kindergarten_readiness_plus",
+      "titleKey": "入园适应",
+      "icon": "building.2.fill",
+      "themeColor": "#FFC84A",
+      "items": [
+        { "id": "kg_greet_teacher", "type": "custom", "zhText": "问好老师", "enText": "greet the teacher", "pinyin": "wèn hǎo lǎo shī", "emoji": "👋", "descriptionZh": "见到老师说早上好，用微笑开始幼儿园的一天。", "descriptionEn": "Say good morning to your teacher and start the school day with a smile.", "difficulty": 1, "tags": ["kindergarten", "manners"], "hexColor": "#FFC84A", "example": "老师早上好！" },
+        { "id": "kg_find_seat", "type": "custom", "zhText": "找到座位", "enText": "find your seat", "pinyin": "zhǎo dào zuò wèi", "emoji": "🪑", "descriptionZh": "看一看名字或小标记，找到自己的小座位。", "descriptionEn": "Look for your name or picture mark to find your own seat.", "difficulty": 1, "tags": ["kindergarten", "routine"], "hexColor": "#4FB6F5", "example": "我的座位在小星星旁边。" },
+        { "id": "kg_put_bag", "type": "custom", "zhText": "放好书包", "enText": "put away your bag", "pinyin": "fàng hǎo shū bāo", "emoji": "🎒", "descriptionZh": "进教室后，把书包放到自己的位置。", "descriptionEn": "After entering the classroom, put your bag in your own spot.", "difficulty": 1, "tags": ["kindergarten", "routine"], "hexColor": "#58C472", "example": "我把书包放进柜子里。" },
+        { "id": "kg_water_cup", "type": "custom", "zhText": "取水杯", "enText": "get your cup", "pinyin": "qǔ shuǐ bēi", "emoji": "🥤", "descriptionZh": "口渴时找到自己的水杯，排队接水。", "descriptionEn": "When thirsty, find your cup and line up for water.", "difficulty": 2, "tags": ["kindergarten", "routine", "health"], "hexColor": "#4FB6F5", "example": "这是我的水杯。" },
+        { "id": "kg_bathroom_line", "type": "custom", "zhText": "排队如厕", "enText": "line up for bathroom", "pinyin": "pái duì rú cè", "emoji": "🚻", "descriptionZh": "想上厕所时告诉老师，排队等待，不着急。", "descriptionEn": "Tell your teacher when you need the bathroom and wait calmly in line.", "difficulty": 2, "tags": ["kindergarten", "routine"], "hexColor": "#58C472", "example": "老师，我想上厕所。" },
+        { "id": "kg_clean_toys", "type": "custom", "zhText": "收拾玩具", "enText": "tidy toys", "pinyin": "shōu shi wán jù", "emoji": "🧸", "descriptionZh": "玩完以后，把玩具送回原来的家。", "descriptionEn": "After playing, put toys back where they belong.", "difficulty": 1, "tags": ["kindergarten", "routine"], "hexColor": "#FF9EC8", "example": "积木回到积木盒。" },
+        { "id": "kg_quiet_nap", "type": "custom", "zhText": "安静午睡", "enText": "quiet nap", "pinyin": "ān jìng wǔ shuì", "emoji": "😴", "descriptionZh": "午睡时轻声轻步，让身体休息一下。", "descriptionEn": "At nap time, use a quiet voice and let your body rest.", "difficulty": 2, "tags": ["kindergarten", "routine", "rest"], "hexColor": "#B08BF0", "example": "我躺好，闭上眼睛休息。" },
+        { "id": "kg_need_help", "type": "custom", "zhText": "我需要帮助", "enText": "I need help", "pinyin": "wǒ xū yào bāng zhù", "emoji": "🙋", "descriptionZh": "拉不上拉链、打不开盒子时，可以请老师帮忙。", "descriptionEn": "When a zipper or box is hard, you can ask your teacher for help.", "difficulty": 2, "tags": ["kindergarten", "language", "help"], "hexColor": "#4FB6F5", "example": "老师，请帮帮我。" },
+        { "id": "kg_make_friends", "type": "custom", "zhText": "和朋友打招呼", "enText": "say hello to friends", "pinyin": "hé péng you dǎ zhāo hu", "emoji": "🧒", "descriptionZh": "想和朋友一起玩，可以先说你好。", "descriptionEn": "When you want to play with a friend, start by saying hello.", "difficulty": 1, "tags": ["kindergarten", "social"], "hexColor": "#FF9EC8", "example": "你好，我们一起玩吗？" },
+        { "id": "kg_answer_name", "type": "custom", "zhText": "听到名字回应", "enText": "answer your name", "pinyin": "tīng dào míng zi huí yìng", "emoji": "📣", "descriptionZh": "老师叫到名字时，可以说：到！", "descriptionEn": "When your teacher calls your name, you can answer: Here!", "difficulty": 1, "tags": ["kindergarten", "routine", "language"], "hexColor": "#FFC84A", "example": "到！我在这里。" },
+        { "id": "kg_wait_pickup", "type": "custom", "zhText": "离园等待", "enText": "wait for pickup", "pinyin": "lí yuán děng dài", "emoji": "🏫", "descriptionZh": "放学时跟着老师等家人，不自己跑开。", "descriptionEn": "At pickup time, stay with your teacher and wait for your family.", "difficulty": 2, "tags": ["kindergarten", "safety"], "hexColor": "#FF8A80", "example": "我和老师一起等爸爸妈妈。" },
+        { "id": "kg_put_back", "type": "custom", "zhText": "物品归位", "enText": "put things back", "pinyin": "wù pǐn guī wèi", "emoji": "📦", "descriptionZh": "用完水彩笔、剪刀和图书，放回固定位置。", "descriptionEn": "After using markers, scissors, or books, put them back in their place.", "difficulty": 2, "tags": ["kindergarten", "routine"], "hexColor": "#58C472", "example": "图书回到书架上。" }
+      ]
+    }
+  ]
+}

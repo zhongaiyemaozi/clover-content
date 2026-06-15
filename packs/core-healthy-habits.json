@@ -1,0 +1,24 @@
+{
+  "categories": [
+    {
+      "id": "pack_core_healthy_habits",
+      "titleKey": "健康习惯",
+      "icon": "heart.fill",
+      "themeColor": "#58C472",
+      "items": [
+        { "id": "habit_wash_hands", "type": "custom", "zhText": "认真洗手", "enText": "wash hands well", "pinyin": "rèn zhēn xǐ shǒu", "emoji": "🧼", "descriptionZh": "饭前、便后、回家后，用肥皂把小手洗干净。", "descriptionEn": "Before meals, after the bathroom, and after coming home, wash your hands with soap.", "difficulty": 1, "tags": ["health", "habit"], "hexColor": "#4FB6F5", "example": "我搓搓手心和手背。" },
+        { "id": "habit_brush_teeth", "type": "custom", "zhText": "刷牙", "enText": "brush teeth", "pinyin": "shuā yá", "emoji": "🪥", "descriptionZh": "早晚刷牙，让牙齿干净又健康。", "descriptionEn": "Brush your teeth in the morning and at night to keep them clean and healthy.", "difficulty": 1, "tags": ["health", "habit"], "hexColor": "#4FB6F5", "example": "我睡前要刷牙。" },
+        { "id": "habit_drink_water", "type": "custom", "zhText": "喝白水", "enText": "drink water", "pinyin": "hē bái shuǐ", "emoji": "💧", "descriptionZh": "口渴时喝白水，身体会更舒服。", "descriptionEn": "Drink water when you are thirsty to help your body feel good.", "difficulty": 1, "tags": ["health", "habit"], "hexColor": "#4FB6F5", "example": "我运动后喝水。" },
+        { "id": "habit_vegetables", "type": "custom", "zhText": "吃蔬菜", "enText": "eat vegetables", "pinyin": "chī shū cài", "emoji": "🥦", "descriptionZh": "每天尝一尝不同颜色的蔬菜，身体长得棒。", "descriptionEn": "Try vegetables in different colors every day to help your body grow strong.", "difficulty": 1, "tags": ["health", "food"], "hexColor": "#58C472", "example": "今天我吃了绿色青菜。" },
+        { "id": "habit_less_sugar", "type": "custom", "zhText": "少吃糖", "enText": "less sugar", "pinyin": "shǎo chī táng", "emoji": "🍬", "descriptionZh": "甜食可以偶尔吃一点，吃完记得漱口或刷牙。", "descriptionEn": "Sweet treats are for sometimes, and clean your mouth afterward.", "difficulty": 2, "tags": ["health", "food"], "hexColor": "#FF9EC8", "example": "我吃完糖果后喝水漱口。" },
+        { "id": "habit_sleep_early", "type": "custom", "zhText": "早睡早起", "enText": "sleep early, wake early", "pinyin": "zǎo shuì zǎo qǐ", "emoji": "🌙", "descriptionZh": "晚上按时睡觉，早上精神满满。", "descriptionEn": "Go to bed on time at night so you can wake up with energy.", "difficulty": 2, "tags": ["health", "routine"], "hexColor": "#B08BF0", "example": "听完故事，我准备睡觉。" },
+        { "id": "habit_exercise", "type": "custom", "zhText": "天天运动", "enText": "move every day", "pinyin": "tiān tiān yùn dòng", "emoji": "🏃", "descriptionZh": "跑一跑、跳一跳，身体会更有力量。", "descriptionEn": "Run, jump, and move to help your body get stronger.", "difficulty": 1, "tags": ["health", "movement"], "hexColor": "#FFC84A", "example": "我今天跳了十下。" },
+        { "id": "habit_tissue", "type": "custom", "zhText": "纸巾擦鼻涕", "enText": "use a tissue", "pinyin": "zhǐ jīn cā bí ti", "emoji": "🤧", "descriptionZh": "流鼻涕时用纸巾擦干净，再把纸巾丢进垃圾桶。", "descriptionEn": "Use a tissue for a runny nose, then put it in the trash.", "difficulty": 1, "tags": ["health", "hygiene"], "hexColor": "#4FB6F5", "example": "我擦完鼻涕去洗手。" },
+        { "id": "habit_cough", "type": "custom", "zhText": "咳嗽礼仪", "enText": "cough manners", "pinyin": "ké sou lǐ yí", "emoji": "💪", "descriptionZh": "咳嗽或打喷嚏时，用手肘内侧轻轻挡住。", "descriptionEn": "Cover coughs and sneezes with the inside of your elbow.", "difficulty": 2, "tags": ["health", "hygiene", "manners"], "hexColor": "#58C472", "example": "我用手肘挡一挡。" },
+        { "id": "habit_eyes", "type": "custom", "zhText": "保护眼睛", "enText": "protect eyes", "pinyin": "bǎo hù yǎn jing", "emoji": "👀", "descriptionZh": "看书和看屏幕要保持距离，用眼一会儿就看看远处。", "descriptionEn": "Keep a good distance from books and screens, then look far away to rest your eyes.", "difficulty": 2, "tags": ["health", "eyes"], "hexColor": "#B08BF0", "example": "我看一会儿书，再看看窗外。" },
+        { "id": "habit_bathroom", "type": "custom", "zhText": "如厕后整理", "enText": "clean up after bathroom", "pinyin": "rú cè hòu zhěng lǐ", "emoji": "🚽", "descriptionZh": "如厕后冲水、洗手，把衣服整理好。", "descriptionEn": "After using the bathroom, flush, wash hands, and fix your clothes.", "difficulty": 2, "tags": ["health", "habit", "kindergarten"], "hexColor": "#58C472", "example": "我上完厕所会洗手。" },
+        { "id": "habit_sunshine", "type": "custom", "zhText": "晒太阳", "enText": "enjoy sunshine", "pinyin": "shài tài yáng", "emoji": "☀️", "descriptionZh": "天气合适时到户外玩一玩，晒晒温暖的太阳。", "descriptionEn": "When the weather is nice, play outside and enjoy the warm sunshine.", "difficulty": 1, "tags": ["health", "outside"], "hexColor": "#FFC84A", "example": "我在阳光下散步。" }
+      ]
+    }
+  ]
+}

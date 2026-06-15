@@ -1,0 +1,24 @@
+{
+  "categories": [
+    {
+      "id": "pack_core_child_safety",
+      "titleKey": "安全守护",
+      "icon": "shield.fill",
+      "themeColor": "#4FB6F5",
+      "items": [
+        { "id": "safety_traffic_light", "type": "custom", "zhText": "交通灯", "enText": "traffic light", "pinyin": "jiāo tōng dēng", "emoji": "🚦", "descriptionZh": "红灯停，绿灯行，黄灯亮了等一等。", "descriptionEn": "Stop on red, go on green, and wait when the yellow light shines.", "difficulty": 1, "tags": ["safety", "traffic"], "hexColor": "#4FB6F5", "example": "过马路前先看交通灯。" },
+        { "id": "safety_crosswalk", "type": "custom", "zhText": "人行横道", "enText": "crosswalk", "pinyin": "rén xíng héng dào", "emoji": "🚸", "descriptionZh": "过马路走人行横道，左右看看再前进。", "descriptionEn": "Use the crosswalk and look both ways before crossing.", "difficulty": 1, "tags": ["safety", "traffic"], "hexColor": "#4FB6F5", "example": "我走斑马线过马路。" },
+        { "id": "safety_hold_hands", "type": "custom", "zhText": "牵手过马路", "enText": "hold hands to cross", "pinyin": "qiān shǒu guò mǎ lù", "emoji": "🤝", "descriptionZh": "和大人一起过马路时，轻轻牵好手。", "descriptionEn": "Hold a grown-up's hand when crossing the road together.", "difficulty": 1, "tags": ["safety", "traffic", "family"], "hexColor": "#58C472", "example": "我牵着妈妈的手过马路。" },
+        { "id": "safety_seat_belt", "type": "custom", "zhText": "安全带", "enText": "seat belt", "pinyin": "ān quán dài", "emoji": "🚗", "descriptionZh": "坐车系好安全带，身体坐稳不乱动。", "descriptionEn": "Buckle your seat belt and sit still in the car.", "difficulty": 1, "tags": ["safety", "traffic"], "hexColor": "#4FB6F5", "example": "上车后先系安全带。" },
+        { "id": "safety_socket", "type": "custom", "zhText": "不碰插座", "enText": "do not touch sockets", "pinyin": "bù pèng chā zuò", "emoji": "🔌", "descriptionZh": "插座和电线让大人来处理，小手不要碰。", "descriptionEn": "Let grown-ups handle sockets and cords; little hands stay away.", "difficulty": 2, "tags": ["safety", "home"], "hexColor": "#FFC84A", "example": "看到插座，我会离远一点。" },
+        { "id": "safety_hot_water", "type": "custom", "zhText": "热水小心", "enText": "be careful with hot water", "pinyin": "rè shuǐ xiǎo xīn", "emoji": "☕️", "descriptionZh": "热水和热汤会烫手，先请大人帮忙。", "descriptionEn": "Hot water and soup can burn, so ask a grown-up for help first.", "difficulty": 2, "tags": ["safety", "home"], "hexColor": "#FF8A80", "example": "热汤来了，我等一等再喝。" },
+        { "id": "safety_small_things", "type": "custom", "zhText": "小物不入口", "enText": "keep small things out of mouth", "pinyin": "xiǎo wù bù rù kǒu", "emoji": "🧩", "descriptionZh": "硬币、珠子和小零件只用手玩，不放进嘴巴。", "descriptionEn": "Play with coins, beads, and small parts by hand, not in your mouth.", "difficulty": 2, "tags": ["safety", "home"], "hexColor": "#B08BF0", "example": "小积木不可以放进嘴里。" },
+        { "id": "safety_door", "type": "custom", "zhText": "不随便开门", "enText": "do not open the door alone", "pinyin": "bù suí biàn kāi mén", "emoji": "🚪", "descriptionZh": "听到敲门先找家人，不自己开门。", "descriptionEn": "When someone knocks, find your family first and do not open the door alone.", "difficulty": 2, "tags": ["safety", "home"], "hexColor": "#FF9EC8", "example": "有人敲门，我先叫爸爸妈妈。" },
+        { "id": "safety_lost_help", "type": "custom", "zhText": "迷路找帮忙", "enText": "ask for help when lost", "pinyin": "mí lù zhǎo bāng máng", "emoji": "🧭", "descriptionZh": "如果找不到家人，站在原地，找穿制服的工作人员帮忙。", "descriptionEn": "If you cannot find your family, stay in one place and ask a uniformed helper.", "difficulty": 3, "tags": ["safety", "outside"], "hexColor": "#58C472", "example": "我会说：请帮我找家人。" },
+        { "id": "safety_family_phone", "type": "custom", "zhText": "家人电话", "enText": "family phone number", "pinyin": "jiā rén diàn huà", "emoji": "☎️", "descriptionZh": "和家人一起练习记住一个重要电话。", "descriptionEn": "Practice one important family phone number with your grown-up.", "difficulty": 3, "tags": ["safety", "family"], "hexColor": "#4FB6F5", "example": "我会告诉老师家人的电话。" },
+        { "id": "safety_swimming", "type": "custom", "zhText": "游泳要陪伴", "enText": "swim with a grown-up", "pinyin": "yóu yǒng yào péi bàn", "emoji": "🏊", "descriptionZh": "游泳和玩水时，一定要有大人在身边。", "descriptionEn": "Always have a grown-up nearby when swimming or playing with water.", "difficulty": 2, "tags": ["safety", "water"], "hexColor": "#4FB6F5", "example": "我等大人一起下水。" },
+        { "id": "safety_say_no", "type": "custom", "zhText": "勇敢说不", "enText": "say no bravely", "pinyin": "yǒng gǎn shuō bù", "emoji": "✋", "descriptionZh": "不舒服或不愿意时，可以大声说不，并告诉信任的大人。", "descriptionEn": "When something feels wrong, you can say no and tell a trusted grown-up.", "difficulty": 3, "tags": ["safety", "body", "feelings"], "hexColor": "#FF8A80", "example": "我不喜欢这样，请停下。" }
+      ]
+    }
+  ]
+}

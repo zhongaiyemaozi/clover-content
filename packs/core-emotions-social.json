@@ -1,0 +1,24 @@
+{
+  "categories": [
+    {
+      "id": "pack_core_emotions_social",
+      "titleKey": "情绪社交",
+      "icon": "face.smiling",
+      "themeColor": "#FF9EC8",
+      "items": [
+        { "id": "emotion_happy", "type": "custom", "zhText": "开心", "enText": "happy", "pinyin": "kāi xīn", "emoji": "😊", "descriptionZh": "开心时可以微笑、拍手，把快乐分享给别人。", "descriptionEn": "When you feel happy, you can smile, clap, and share joy with others.", "difficulty": 1, "tags": ["emotion", "social"], "hexColor": "#FFC84A", "example": "我今天很开心。" },
+        { "id": "emotion_sad", "type": "custom", "zhText": "难过", "enText": "sad", "pinyin": "nán guò", "emoji": "😢", "descriptionZh": "难过时可以抱一抱，也可以慢慢说出原因。", "descriptionEn": "When you feel sad, you can ask for a hug and talk about why.", "difficulty": 1, "tags": ["emotion"], "hexColor": "#4FB6F5", "example": "我有点难过，想抱抱。" },
+        { "id": "emotion_angry", "type": "custom", "zhText": "生气", "enText": "angry", "pinyin": "shēng qì", "emoji": "😠", "descriptionZh": "生气时先停一停，保护自己和别人。", "descriptionEn": "When you feel angry, pause first and keep yourself and others safe.", "difficulty": 2, "tags": ["emotion", "self-control"], "hexColor": "#FF8A80", "example": "我生气了，我先停一下。" },
+        { "id": "emotion_worried", "type": "custom", "zhText": "担心", "enText": "worried", "pinyin": "dān xīn", "emoji": "😟", "descriptionZh": "担心时可以告诉大人：我需要帮助。", "descriptionEn": "When you feel worried, tell a grown-up: I need help.", "difficulty": 2, "tags": ["emotion", "help"], "hexColor": "#B08BF0", "example": "我有点担心，请帮帮我。" },
+        { "id": "social_take_turns", "type": "custom", "zhText": "轮流", "enText": "take turns", "pinyin": "lún liú", "emoji": "🔁", "descriptionZh": "你玩一会儿，我玩一会儿，大家都能开心玩。", "descriptionEn": "You play for a while, then I play for a while, so everyone gets a turn.", "difficulty": 2, "tags": ["social", "play"], "hexColor": "#58C472", "example": "我们轮流玩滑梯。" },
+        { "id": "social_share", "type": "custom", "zhText": "分享", "enText": "share", "pinyin": "fēn xiǎng", "emoji": "🧸", "descriptionZh": "愿意的时候，可以把玩具或点心和朋友一起分享。", "descriptionEn": "When you are ready, you can share toys or snacks with a friend.", "difficulty": 2, "tags": ["social", "play"], "hexColor": "#FFC84A", "example": "我可以和你一起看这本书。" },
+        { "id": "social_sorry", "type": "custom", "zhText": "道歉", "enText": "say sorry", "pinyin": "dào qiàn", "emoji": "🙏", "descriptionZh": "不小心影响别人时，说对不起，再想办法补救。", "descriptionEn": "When you accidentally bother someone, say sorry and try to make it better.", "difficulty": 2, "tags": ["social", "manners"], "hexColor": "#4FB6F5", "example": "对不起，我会帮你捡起来。" },
+        { "id": "social_thank_you", "type": "custom", "zhText": "谢谢", "enText": "thank you", "pinyin": "xiè xie", "emoji": "🌷", "descriptionZh": "别人帮助你时，说谢谢，让对方感到温暖。", "descriptionEn": "When someone helps you, say thank you to show kindness.", "difficulty": 1, "tags": ["social", "manners"], "hexColor": "#FF9EC8", "example": "谢谢你帮我拿水杯。" },
+        { "id": "social_help", "type": "custom", "zhText": "请求帮助", "enText": "ask for help", "pinyin": "qǐng qiú bāng zhù", "emoji": "🙋", "descriptionZh": "遇到困难时，可以举手或走到大人身边说出来。", "descriptionEn": "When something is hard, raise your hand or go to a grown-up and say it.", "difficulty": 2, "tags": ["social", "help"], "hexColor": "#58C472", "example": "请帮帮我，我打不开盒子。" },
+        { "id": "emotion_breathe", "type": "custom", "zhText": "深呼吸", "enText": "deep breath", "pinyin": "shēn hū xī", "emoji": "🌬️", "descriptionZh": "慢慢吸气，再慢慢呼气，身体会一点点放松。", "descriptionEn": "Breathe in slowly and breathe out slowly to help your body relax.", "difficulty": 2, "tags": ["emotion", "self-control"], "hexColor": "#4FB6F5", "example": "我吸气，呼气，再试一次。" },
+        { "id": "social_wait", "type": "custom", "zhText": "等一等", "enText": "wait a moment", "pinyin": "děng yī děng", "emoji": "⏳", "descriptionZh": "需要等待时，可以数一数、看一看，安静等轮到自己。", "descriptionEn": "When you need to wait, count or look around quietly until it is your turn.", "difficulty": 2, "tags": ["social", "self-control"], "hexColor": "#FFC84A", "example": "我等一等，马上就轮到我。" },
+        { "id": "social_words", "type": "custom", "zhText": "说出需要", "enText": "use words", "pinyin": "shuō chū xū yào", "emoji": "💬", "descriptionZh": "用清楚的话告诉别人：我想要什么、我不喜欢什么。", "descriptionEn": "Use clear words to tell others what you need or what you do not like.", "difficulty": 3, "tags": ["emotion", "social", "language"], "hexColor": "#B08BF0", "example": "我想自己试一试。" }
+      ]
+    }
+  ]
+}
