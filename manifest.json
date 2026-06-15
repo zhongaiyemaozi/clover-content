@@ -22,8 +22,10 @@
       "sha256": "c43394e41472f2431ba8d48e3f9dd0e5f51f5d2582cf6cb8500dc29be855c0b7",
       "accessLevel": "free",
       "urls": {
-        "cn": "https://gitee.com/zhongaiyemaozi_admin/clover-content/raw/main/packs/core-child-safety.json",
-        "global": "https://raw.githubusercontent.com/zhongaiyemaozi/clover-content/main/packs/core-child-safety.json"
+        "cn": "https://gitee.com/zhongaiyemaozi_admin/clover-content/raw/content-2026-06-15-1/packs/core-child-safety.json",
+        "global": "https://raw.githubusercontent.com/zhongaiyemaozi/clover-content/content-2026-06-15-1/packs/core-child-safety.json",
+        "cdn": "https://fastly.jsdelivr.net/gh/zhongaiyemaozi/clover-content@content-2026-06-15-1/packs/core-child-safety.json",
+        "gcore": "https://gcore.jsdelivr.net/gh/zhongaiyemaozi/clover-content@content-2026-06-15-1/packs/core-child-safety.json"
       }
     },
     {
@@ -41,8 +43,10 @@
       "sha256": "f26b58a5d4743d7d1061806556d0b98ba1e8ed3b3bc107e7fc572fa5a18529df",
       "accessLevel": "free",
       "urls": {
-        "cn": "https://gitee.com/zhongaiyemaozi_admin/clover-content/raw/main/packs/core-emotions-social.json",
-        "global": "https://raw.githubusercontent.com/zhongaiyemaozi/clover-content/main/packs/core-emotions-social.json"
+        "cn": "https://gitee.com/zhongaiyemaozi_admin/clover-content/raw/content-2026-06-15-1/packs/core-emotions-social.json",
+        "global": "https://raw.githubusercontent.com/zhongaiyemaozi/clover-content/content-2026-06-15-1/packs/core-emotions-social.json",
+        "cdn": "https://fastly.jsdelivr.net/gh/zhongaiyemaozi/clover-content@content-2026-06-15-1/packs/core-emotions-social.json",
+        "gcore": "https://gcore.jsdelivr.net/gh/zhongaiyemaozi/clover-content@content-2026-06-15-1/packs/core-emotions-social.json"
       }
     },
     {
@@ -60,8 +64,10 @@
       "sha256": "dba63e00cbb8bd26192ae2f46af659b2ff9ec06f9f327a2cff027d0ba4f8e3f8",
       "accessLevel": "free",
       "urls": {
-        "cn": "https://gitee.com/zhongaiyemaozi_admin/clover-content/raw/main/packs/core-healthy-habits.json",
-        "global": "https://raw.githubusercontent.com/zhongaiyemaozi/clover-content/main/packs/core-healthy-habits.json"
+        "cn": "https://gitee.com/zhongaiyemaozi_admin/clover-content/raw/content-2026-06-15-1/packs/core-healthy-habits.json",
+        "global": "https://raw.githubusercontent.com/zhongaiyemaozi/clover-content/content-2026-06-15-1/packs/core-healthy-habits.json",
+        "cdn": "https://fastly.jsdelivr.net/gh/zhongaiyemaozi/clover-content@content-2026-06-15-1/packs/core-healthy-habits.json",
+        "gcore": "https://gcore.jsdelivr.net/gh/zhongaiyemaozi/clover-content@content-2026-06-15-1/packs/core-healthy-habits.json"
       }
     },
     {
@@ -79,8 +85,10 @@
       "sha256": "c1d774fa1b321ce82546922d3d1e7e294ef63c4b0da58b6503cfdef44365136d",
       "accessLevel": "free",
       "urls": {
-        "cn": "https://gitee.com/zhongaiyemaozi_admin/clover-content/raw/main/packs/core-kindergarten-readiness-plus.json",
-        "global": "https://raw.githubusercontent.com/zhongaiyemaozi/clover-content/main/packs/core-kindergarten-readiness-plus.json"
+        "cn": "https://gitee.com/zhongaiyemaozi_admin/clover-content/raw/content-2026-06-15-1/packs/core-kindergarten-readiness-plus.json",
+        "global": "https://raw.githubusercontent.com/zhongaiyemaozi/clover-content/content-2026-06-15-1/packs/core-kindergarten-readiness-plus.json",
+        "cdn": "https://fastly.jsdelivr.net/gh/zhongaiyemaozi/clover-content@content-2026-06-15-1/packs/core-kindergarten-readiness-plus.json",
+        "gcore": "https://gcore.jsdelivr.net/gh/zhongaiyemaozi/clover-content@content-2026-06-15-1/packs/core-kindergarten-readiness-plus.json"
       }
     },
     {
@@ -98,8 +106,10 @@
       "sha256": "cc4b4dc367a5a4b0477647dc738af04510f8a9a5a81681fa236f124454fc5ac9",
       "accessLevel": "free",
       "urls": {
-        "cn": "https://gitee.com/zhongaiyemaozi_admin/clover-content/raw/main/packs/festival-christmas.json",
-        "global": "https://raw.githubusercontent.com/zhongaiyemaozi/clover-content/main/packs/festival-christmas.json"
+        "cn": "https://gitee.com/zhongaiyemaozi_admin/clover-content/raw/content-2026-06-15-1/packs/festival-christmas.json",
+        "global": "https://raw.githubusercontent.com/zhongaiyemaozi/clover-content/content-2026-06-15-1/packs/festival-christmas.json",
+        "cdn": "https://fastly.jsdelivr.net/gh/zhongaiyemaozi/clover-content@content-2026-06-15-1/packs/festival-christmas.json",
+        "gcore": "https://gcore.jsdelivr.net/gh/zhongaiyemaozi/clover-content@content-2026-06-15-1/packs/festival-christmas.json"
       }
     },
     {
@@ -117,8 +127,10 @@
       "sha256": "75f443692d16c7a126734d8218c4296cb5c0dbb4bb2d79bddac40ab81284367f",
       "accessLevel": "free",
       "urls": {
-        "cn": "https://gitee.com/zhongaiyemaozi_admin/clover-content/raw/main/packs/festival-cny.json",
-        "global": "https://raw.githubusercontent.com/zhongaiyemaozi/clover-content/main/packs/festival-cny.json"
+        "cn": "https://gitee.com/zhongaiyemaozi_admin/clover-content/raw/content-2026-06-15-1/packs/festival-cny.json",
+        "global": "https://raw.githubusercontent.com/zhongaiyemaozi/clover-content/content-2026-06-15-1/packs/festival-cny.json",
+        "cdn": "https://fastly.jsdelivr.net/gh/zhongaiyemaozi/clover-content@content-2026-06-15-1/packs/festival-cny.json",
+        "gcore": "https://gcore.jsdelivr.net/gh/zhongaiyemaozi/clover-content@content-2026-06-15-1/packs/festival-cny.json"
       }
     },
     {
@@ -136,8 +148,10 @@
       "sha256": "70197cb246764bb62fa55514a584ca46346bd42eafb6b9478d1a477d994c2c35",
       "accessLevel": "free",
       "urls": {
-        "cn": "https://gitee.com/zhongaiyemaozi_admin/clover-content/raw/main/packs/festival-midautumn.json",
-        "global": "https://raw.githubusercontent.com/zhongaiyemaozi/clover-content/main/packs/festival-midautumn.json"
+        "cn": "https://gitee.com/zhongaiyemaozi_admin/clover-content/raw/content-2026-06-15-1/packs/festival-midautumn.json",
+        "global": "https://raw.githubusercontent.com/zhongaiyemaozi/clover-content/content-2026-06-15-1/packs/festival-midautumn.json",
+        "cdn": "https://fastly.jsdelivr.net/gh/zhongaiyemaozi/clover-content@content-2026-06-15-1/packs/festival-midautumn.json",
+        "gcore": "https://gcore.jsdelivr.net/gh/zhongaiyemaozi/clover-content@content-2026-06-15-1/packs/festival-midautumn.json"
       }
     }
   ]
