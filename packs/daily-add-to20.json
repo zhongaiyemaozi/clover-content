@@ -1,0 +1,29 @@
+{
+  "_meta": {
+    "version": 1,
+    "title": {
+      "zh": "每日挑战·加法20",
+      "en": "Daily · Add to 20"
+    },
+    "summary": {
+      "zh": "20 以内加法挑战",
+      "en": "Addition within 20"
+    },
+    "accessLevel": "free",
+    "contentTypes": [
+      "game.dailyChallenge"
+    ]
+  },
+  "schemaVersion": 2,
+  "payloads": {
+    "dailyChallengeSets": [
+      {
+        "id": "dc_add20",
+        "operation": "addition",
+        "range": "tenToTwenty",
+        "questionCount": 5,
+        "starsPerCorrect": 2
+      }
+    ]
+  }
+}

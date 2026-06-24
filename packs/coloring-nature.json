@@ -1,0 +1,42 @@
+{
+  "_meta": {
+    "version": 1,
+    "title": {
+      "zh": "涂色·自然",
+      "en": "Coloring · Nature"
+    },
+    "summary": {
+      "zh": "4 张自然涂色画",
+      "en": "Four nature coloring pages"
+    },
+    "accessLevel": "free",
+    "contentTypes": [
+      "game.coloring"
+    ]
+  },
+  "schemaVersion": 2,
+  "payloads": {
+    "coloringPages": [
+      {
+        "id": "color_tree",
+        "titleKey": "games_coloring_title",
+        "regionCount": 4
+      },
+      {
+        "id": "color_flower",
+        "titleKey": "games_coloring_title",
+        "regionCount": 5
+      },
+      {
+        "id": "color_sun",
+        "titleKey": "games_coloring_title",
+        "regionCount": 3
+      },
+      {
+        "id": "color_rainbow",
+        "titleKey": "games_coloring_title",
+        "regionCount": 7
+      }
+    ]
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "_meta": {
+    "version": 1,
+    "title": {
+      "zh": "每日一词·学习",
+      "en": "Daily Word · School"
+    },
+    "summary": {
+      "zh": "学习每日词",
+      "en": "Daily school words"
+    },
+    "accessLevel": "free",
+    "contentTypes": [
+      "widget.dailyWords"
+    ]
+  },
+  "schemaVersion": 2,
+  "payloads": {
+    "widgetDailyWords": [
+      {
+        "id": "ww_book",
+        "zh": "书",
+        "en": "Book",
+        "icon": "book.fill"
+      },
+      {
+        "id": "ww_pencil",
+        "zh": "铅笔",
+        "en": "Pencil",
+        "icon": "pencil"
+      },
+      {
+        "id": "ww_bag",
+        "zh": "书包",
+        "en": "Backpack",
+        "icon": "backpack.fill"
+      },
+      {
+        "id": "ww_ruler",
+        "zh": "尺子",
+        "en": "Ruler",
+        "icon": "ruler.fill"
+      },
+      {
+        "id": "ww_clock",
+        "zh": "时钟",
+        "en": "Clock",
+        "icon": "clock.fill"
+      },
+      {
+        "id": "ww_globe",
+        "zh": "地球仪",
+        "en": "Globe",
+        "icon": "globe.asia.australia.fill"
+      }
+    ]
+  }
+}

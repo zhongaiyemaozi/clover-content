@@ -1,0 +1,72 @@
+{
+  "_meta": {
+    "version": 1,
+    "title": {
+      "zh": "连线成图·爱心",
+      "en": "Connect the Dots · Heart"
+    },
+    "summary": {
+      "zh": "连线画出一颗爱心",
+      "en": "Connect dots to draw a heart"
+    },
+    "accessLevel": "free",
+    "contentTypes": [
+      "game.numberConnect"
+    ]
+  },
+  "schemaVersion": 2,
+  "payloads": {
+    "numberConnectBoards": [
+      {
+        "id": "nc_heart",
+        "titleKey": "games_number_connect_title",
+        "numbers": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "nodes": [
+          {
+            "number": 1,
+            "x": 0.5,
+            "y": 0.35
+          },
+          {
+            "number": 2,
+            "x": 0.35,
+            "y": 0.2
+          },
+          {
+            "number": 3,
+            "x": 0.2,
+            "y": 0.35
+          },
+          {
+            "number": 4,
+            "x": 0.3,
+            "y": 0.6
+          },
+          {
+            "number": 5,
+            "x": 0.5,
+            "y": 0.85
+          },
+          {
+            "number": 6,
+            "x": 0.7,
+            "y": 0.6
+          },
+          {
+            "number": 7,
+            "x": 0.8,
+            "y": 0.35
+          }
+        ]
+      }
+    ]
+  }
+}

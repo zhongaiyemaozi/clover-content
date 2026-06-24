@@ -1,0 +1,58 @@
+{
+  "_meta": {
+    "version": 1,
+    "title": {
+      "zh": "每日一词·动物",
+      "en": "Daily Word · Animals"
+    },
+    "summary": {
+      "zh": "动物每日词",
+      "en": "Daily animal words"
+    },
+    "accessLevel": "free",
+    "contentTypes": [
+      "widget.dailyWords"
+    ]
+  },
+  "schemaVersion": 2,
+  "payloads": {
+    "widgetDailyWords": [
+      {
+        "id": "ww_cat",
+        "zh": "猫",
+        "en": "Cat",
+        "icon": "cat.fill"
+      },
+      {
+        "id": "ww_dog",
+        "zh": "狗",
+        "en": "Dog",
+        "icon": "dog.fill"
+      },
+      {
+        "id": "ww_bird",
+        "zh": "鸟",
+        "en": "Bird",
+        "icon": "bird.fill"
+      },
+      {
+        "id": "ww_fish",
+        "zh": "鱼",
+        "en": "Fish",
+        "icon": "fish.fill"
+      },
+      {
+        "id": "ww_rabbit",
+        "zh": "兔",
+        "en": "Rabbit",
+        "icon": "hare.fill"
+      },
+      {
+        "id": "ww_turtle",
+        "zh": "龟",
+        "en": "Turtle",
+        "icon": "tortoise.fill"
+      }
+    ]
+  }
+}

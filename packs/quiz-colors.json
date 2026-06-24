@@ -1,0 +1,36 @@
+{
+  "_meta": {
+    "version": 1,
+    "title": {
+      "zh": "测验·颜色",
+      "en": "Quiz · Colors"
+    },
+    "summary": {
+      "zh": "颜色认知测验",
+      "en": "Quiz about colors"
+    },
+    "accessLevel": "free",
+    "contentTypes": [
+      "quiz.packs"
+    ]
+  },
+  "schemaVersion": 2,
+  "payloads": {
+    "quizPacks": [
+      {
+        "id": "quiz_colors",
+        "title": "颜色测验 Colors Quiz",
+        "subtitle": "认一认各种颜色 / Name the colors",
+        "icon": "paintpalette.fill",
+        "themeColor": "#A88BEB",
+        "categoryIDs": [
+          "colors"
+        ],
+        "supportedTypes": [
+          "colorToName",
+          "findSame"
+        ]
+      }
+    ]
+  }
+}

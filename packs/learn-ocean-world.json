@@ -1,0 +1,187 @@
+{
+  "_meta": {
+    "version": 1,
+    "title": {
+      "zh": "海洋世界包",
+      "en": "Ocean World"
+    },
+    "summary": {
+      "zh": "认识鲸鱼、海豚、章鱼等 10 个海洋动物",
+      "en": "10 ocean animals: whale, dolphin, octopus and more"
+    },
+    "accessLevel": "free",
+    "contentTypes": [
+      "learning.categories"
+    ]
+  },
+  "categories": [
+    {
+      "id": "pack_ocean",
+      "titleKey": "海洋世界",
+      "icon": "water.waves",
+      "themeColor": "#4FB6F5",
+      "items": [
+        {
+          "id": "ocean_whale",
+          "type": "custom",
+          "zhText": "鲸鱼",
+          "enText": "Whale",
+          "pinyin": null,
+          "emoji": "🐳",
+          "descriptionZh": "鲸鱼是海里最大的动物。",
+          "descriptionEn": "The whale is the biggest animal in the ocean.",
+          "difficulty": 1,
+          "tags": [
+            "theme"
+          ],
+          "hexColor": null,
+          "example": null
+        },
+        {
+          "id": "ocean_dolphin",
+          "type": "custom",
+          "zhText": "海豚",
+          "enText": "Dolphin",
+          "pinyin": null,
+          "emoji": "🐬",
+          "descriptionZh": "海豚很聪明，喜欢跳出水面。",
+          "descriptionEn": "Dolphins are clever and love to leap out of the water.",
+          "difficulty": 1,
+          "tags": [
+            "theme"
+          ],
+          "hexColor": null,
+          "example": null
+        },
+        {
+          "id": "ocean_fish",
+          "type": "custom",
+          "zhText": "鱼",
+          "enText": "Fish",
+          "pinyin": null,
+          "emoji": "🐟",
+          "descriptionZh": "鱼用鳍游泳，用鳃呼吸。",
+          "descriptionEn": "Fish swim with fins and breathe with gills.",
+          "difficulty": 1,
+          "tags": [
+            "theme"
+          ],
+          "hexColor": null,
+          "example": null
+        },
+        {
+          "id": "ocean_octopus",
+          "type": "custom",
+          "zhText": "章鱼",
+          "enText": "Octopus",
+          "pinyin": null,
+          "emoji": "🐙",
+          "descriptionZh": "章鱼有八条灵活的腕。",
+          "descriptionEn": "An octopus has eight bendy arms.",
+          "difficulty": 1,
+          "tags": [
+            "theme"
+          ],
+          "hexColor": null,
+          "example": null
+        },
+        {
+          "id": "ocean_crab",
+          "type": "custom",
+          "zhText": "螃蟹",
+          "enText": "Crab",
+          "pinyin": null,
+          "emoji": "🦀",
+          "descriptionZh": "螃蟹横着走，有一对大钳子。",
+          "descriptionEn": "A crab walks sideways and has two big claws.",
+          "difficulty": 1,
+          "tags": [
+            "theme"
+          ],
+          "hexColor": null,
+          "example": null
+        },
+        {
+          "id": "ocean_shark",
+          "type": "custom",
+          "zhText": "鲨鱼",
+          "enText": "Shark",
+          "pinyin": null,
+          "emoji": "🦈",
+          "descriptionZh": "鲨鱼游得很快，牙齿很锋利。",
+          "descriptionEn": "Sharks swim fast and have sharp teeth.",
+          "difficulty": 1,
+          "tags": [
+            "theme"
+          ],
+          "hexColor": null,
+          "example": null
+        },
+        {
+          "id": "ocean_turtle",
+          "type": "custom",
+          "zhText": "海龟",
+          "enText": "Sea Turtle",
+          "pinyin": null,
+          "emoji": "🐢",
+          "descriptionZh": "海龟背着硬硬的壳，能游很远。",
+          "descriptionEn": "A sea turtle carries a hard shell and swims far.",
+          "difficulty": 1,
+          "tags": [
+            "theme"
+          ],
+          "hexColor": null,
+          "example": null
+        },
+        {
+          "id": "ocean_starfish",
+          "type": "custom",
+          "zhText": "海星",
+          "enText": "Starfish",
+          "pinyin": null,
+          "emoji": "⭐",
+          "descriptionZh": "海星住在海底，长得像星星。",
+          "descriptionEn": "A starfish lives on the sea floor and looks like a star.",
+          "difficulty": 1,
+          "tags": [
+            "theme"
+          ],
+          "hexColor": null,
+          "example": null
+        },
+        {
+          "id": "ocean_jellyfish",
+          "type": "custom",
+          "zhText": "水母",
+          "enText": "Jellyfish",
+          "pinyin": null,
+          "emoji": "🎐",
+          "descriptionZh": "水母软软的，在水里轻轻飘。",
+          "descriptionEn": "A jellyfish is soft and drifts gently in the water.",
+          "difficulty": 1,
+          "tags": [
+            "theme"
+          ],
+          "hexColor": null,
+          "example": null
+        },
+        {
+          "id": "ocean_seahorse",
+          "type": "custom",
+          "zhText": "海马",
+          "enText": "Seahorse",
+          "pinyin": null,
+          "emoji": "🐴",
+          "descriptionZh": "海马游得很慢，尾巴能卷住水草。",
+          "descriptionEn": "A seahorse swims slowly and curls its tail around plants.",
+          "difficulty": 1,
+          "tags": [
+            "theme"
+          ],
+          "hexColor": null,
+          "example": null
+        }
+      ]
+    }
+  ]
+}

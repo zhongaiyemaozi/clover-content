@@ -1,0 +1,36 @@
+{
+  "_meta": {
+    "version": 1,
+    "title": {
+      "zh": "测验·数字",
+      "en": "Quiz · Numbers"
+    },
+    "summary": {
+      "zh": "数字与数量测验",
+      "en": "Quiz about numbers and quantity"
+    },
+    "accessLevel": "free",
+    "contentTypes": [
+      "quiz.packs"
+    ]
+  },
+  "schemaVersion": 2,
+  "payloads": {
+    "quizPacks": [
+      {
+        "id": "quiz_numbers",
+        "title": "数字测验 Numbers Quiz",
+        "subtitle": "数一数、听一听 / Count and listen",
+        "icon": "123.rectangle.fill",
+        "themeColor": "#FFC857",
+        "categoryIDs": [
+          "numbers_basic"
+        ],
+        "supportedTypes": [
+          "numberToQuantity",
+          "hearAndPick"
+        ]
+      }
+    ]
+  }
+}

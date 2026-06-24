@@ -1,0 +1,29 @@
+{
+  "_meta": {
+    "version": 1,
+    "title": {
+      "zh": "每日挑战·减法10",
+      "en": "Daily · Subtract to 10"
+    },
+    "summary": {
+      "zh": "10 以内减法挑战",
+      "en": "Subtraction within 10"
+    },
+    "accessLevel": "free",
+    "contentTypes": [
+      "game.dailyChallenge"
+    ]
+  },
+  "schemaVersion": 2,
+  "payloads": {
+    "dailyChallengeSets": [
+      {
+        "id": "dc_sub10",
+        "operation": "subtraction",
+        "range": "oneToTen",
+        "questionCount": 5,
+        "starsPerCorrect": 2
+      }
+    ]
+  }
+}

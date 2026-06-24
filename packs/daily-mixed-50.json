@@ -1,0 +1,29 @@
+{
+  "_meta": {
+    "version": 1,
+    "title": {
+      "zh": "每日挑战·进阶50",
+      "en": "Daily · Mixed to 50"
+    },
+    "summary": {
+      "zh": "50 以内加减混合挑战",
+      "en": "Mixed add & subtract within 50"
+    },
+    "accessLevel": "free",
+    "contentTypes": [
+      "game.dailyChallenge"
+    ]
+  },
+  "schemaVersion": 2,
+  "payloads": {
+    "dailyChallengeSets": [
+      {
+        "id": "dc_mix50",
+        "operation": "mixed",
+        "range": "twentyToFifty",
+        "questionCount": 6,
+        "starsPerCorrect": 3
+      }
+    ]
+  }
+}

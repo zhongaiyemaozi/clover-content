@@ -1,0 +1,118 @@
+{
+  "_meta": {
+    "version": 1,
+    "title": {
+      "zh": "中文跟读·动物",
+      "en": "Read Aloud · Chinese Animals"
+    },
+    "summary": {
+      "zh": "8 个动物名跟读",
+      "en": "Read 8 Chinese animal words"
+    },
+    "accessLevel": "free",
+    "contentTypes": [
+      "voice.practice"
+    ]
+  },
+  "schemaVersion": 2,
+  "payloads": {
+    "voicePracticeItems": [
+      {
+        "id": "v_zha_xiaomao",
+        "displayText": "小猫",
+        "spokenTarget": "小猫",
+        "hint": "跟我读：小猫",
+        "pinyin": "xiǎo māo",
+        "phonetic": null,
+        "type": "animal",
+        "category": "animal",
+        "difficulty": 1,
+        "languageCode": "zh-CN"
+      },
+      {
+        "id": "v_zha_xiaogou",
+        "displayText": "小狗",
+        "spokenTarget": "小狗",
+        "hint": "跟我读：小狗",
+        "pinyin": "xiǎo gǒu",
+        "phonetic": null,
+        "type": "animal",
+        "category": "animal",
+        "difficulty": 1,
+        "languageCode": "zh-CN"
+      },
+      {
+        "id": "v_zha_xiaoniao",
+        "displayText": "小鸟",
+        "spokenTarget": "小鸟",
+        "hint": "跟我读：小鸟",
+        "pinyin": "xiǎo niǎo",
+        "phonetic": null,
+        "type": "animal",
+        "category": "animal",
+        "difficulty": 1,
+        "languageCode": "zh-CN"
+      },
+      {
+        "id": "v_zha_xiaoyu",
+        "displayText": "小鱼",
+        "spokenTarget": "小鱼",
+        "hint": "跟我读：小鱼",
+        "pinyin": "xiǎo yú",
+        "phonetic": null,
+        "type": "animal",
+        "category": "animal",
+        "difficulty": 1,
+        "languageCode": "zh-CN"
+      },
+      {
+        "id": "v_zha_daxiang",
+        "displayText": "大象",
+        "spokenTarget": "大象",
+        "hint": "跟我读：大象",
+        "pinyin": "dà xiàng",
+        "phonetic": null,
+        "type": "animal",
+        "category": "animal",
+        "difficulty": 1,
+        "languageCode": "zh-CN"
+      },
+      {
+        "id": "v_zha_laohu",
+        "displayText": "老虎",
+        "spokenTarget": "老虎",
+        "hint": "跟我读：老虎",
+        "pinyin": "lǎo hǔ",
+        "phonetic": null,
+        "type": "animal",
+        "category": "animal",
+        "difficulty": 1,
+        "languageCode": "zh-CN"
+      },
+      {
+        "id": "v_zha_xiongmao",
+        "displayText": "熊猫",
+        "spokenTarget": "熊猫",
+        "hint": "跟我读：熊猫",
+        "pinyin": "xióng māo",
+        "phonetic": null,
+        "type": "animal",
+        "category": "animal",
+        "difficulty": 1,
+        "languageCode": "zh-CN"
+      },
+      {
+        "id": "v_zha_houzi",
+        "displayText": "猴子",
+        "spokenTarget": "猴子",
+        "hint": "跟我读：猴子",
+        "pinyin": "hóu zi",
+        "phonetic": null,
+        "type": "animal",
+        "category": "animal",
+        "difficulty": 1,
+        "languageCode": "zh-CN"
+      }
+    ]
+  }
+}

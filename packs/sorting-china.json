@@ -1,0 +1,24 @@
+{
+  "_meta": {
+    "version": 1,
+    "title": {
+      "zh": "故事排序·中国",
+      "en": "Story Sorting · Chinese"
+    },
+    "summary": {
+      "zh": "中国传统故事排序",
+      "en": "Sort Chinese folk tales"
+    },
+    "accessLevel": "free",
+    "contentTypes": [
+      "game.storySorting"
+    ]
+  },
+  "schemaVersion": 2,
+  "payloads": {
+    "storySortingStoryIDs": [
+      "story_kong_rong",
+      "story_sima_guang"
+    ]
+  }
+}

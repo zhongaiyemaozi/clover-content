@@ -1,0 +1,167 @@
+{
+  "_meta": {
+    "version": 1,
+    "title": {
+      "zh": "伟人·艺术与文学",
+      "en": "Great People · Artists & Writers"
+    },
+    "summary": {
+      "zh": "5 位用艺术打动世界的人",
+      "en": "Five who touched the world with art and words"
+    },
+    "accessLevel": "free",
+    "contentTypes": [
+      "great.figures"
+    ]
+  },
+  "schemaVersion": 2,
+  "payloads": {
+    "greatFigures": [
+      {
+        "id": "fig_li_bai",
+        "nameZh": "李白",
+        "nameEn": "Li Bai",
+        "emoji": "🧑‍🎤",
+        "region": "china",
+        "years": "701–762",
+        "fieldZh": "唐代伟大的诗人",
+        "fieldEn": "Great Tang-dynasty poet",
+        "achievementEmoji": "📜",
+        "themeColor": "#4FB6F5",
+        "sections": [
+          {
+            "zh": "李白是中国唐朝最有名的诗人之一，人称「诗仙」。",
+            "en": "Li Bai was one of the most famous poets of China's Tang dynasty.",
+            "emoji": "📜"
+          },
+          {
+            "zh": "他喜欢游山玩水，写下许多优美的诗。",
+            "en": "He loved to travel among mountains and rivers, writing many beautiful poems.",
+            "emoji": "🏔️"
+          },
+          {
+            "zh": "他的诗到今天还被小朋友们朗朗背诵。",
+            "en": "Children still recite his poems happily today.",
+            "emoji": "🎶"
+          }
+        ]
+      },
+      {
+        "id": "fig_wang_xizhi",
+        "nameZh": "王羲之",
+        "nameEn": "Wang Xizhi",
+        "emoji": "🧑‍🎨",
+        "region": "china",
+        "years": "303–361",
+        "fieldZh": "「书圣」，著名书法家",
+        "fieldEn": "The Sage of Calligraphy",
+        "achievementEmoji": "🖌️",
+        "themeColor": "#58C472",
+        "sections": [
+          {
+            "zh": "王羲之是中国古代最伟大的书法家，被称为「书圣」。",
+            "en": "Wang Xizhi was ancient China's greatest calligrapher, the Sage of Calligraphy.",
+            "emoji": "🖌️"
+          },
+          {
+            "zh": "他从小苦练写字，传说把一池水都洗笔洗黑了。",
+            "en": "He practiced writing so much that, legend says, he turned a whole pond black washing his brush.",
+            "emoji": "🖋️"
+          },
+          {
+            "zh": "他写的字优美流畅，成为后人学习书法的榜样。",
+            "en": "His graceful writing became the model that calligraphers still study today.",
+            "emoji": "📜"
+          }
+        ]
+      },
+      {
+        "id": "fig_shakespeare",
+        "nameZh": "莎士比亚",
+        "nameEn": "William Shakespeare",
+        "emoji": "🧔",
+        "region": "world",
+        "years": "1564–1616",
+        "fieldZh": "伟大的剧作家",
+        "fieldEn": "Great playwright",
+        "achievementEmoji": "🎭",
+        "themeColor": "#B08BF0",
+        "sections": [
+          {
+            "zh": "莎士比亚是英国最伟大的剧作家。",
+            "en": "William Shakespeare was England's greatest playwright.",
+            "emoji": "🎭"
+          },
+          {
+            "zh": "他写了很多戏剧和诗歌，故事里有国王、小丑和精灵。",
+            "en": "He wrote many plays and poems full of kings, clowns, and fairies.",
+            "emoji": "👑"
+          },
+          {
+            "zh": "四百多年后，他的戏剧仍在世界各地上演。",
+            "en": "More than 400 years later, his plays are still performed all over the world.",
+            "emoji": "🌍"
+          }
+        ]
+      },
+      {
+        "id": "fig_beethoven",
+        "nameZh": "贝多芬",
+        "nameEn": "Ludwig van Beethoven",
+        "emoji": "🧑‍🎤",
+        "region": "world",
+        "years": "1770–1827",
+        "fieldZh": "伟大的音乐家",
+        "fieldEn": "Great composer",
+        "achievementEmoji": "🎹",
+        "themeColor": "#FFC84A",
+        "sections": [
+          {
+            "zh": "贝多芬是德国伟大的音乐家。",
+            "en": "Ludwig van Beethoven was a great German composer.",
+            "emoji": "🎹"
+          },
+          {
+            "zh": "后来他的耳朵听不见了，却仍然坚持作曲。",
+            "en": "Later he lost his hearing, but he kept on writing music anyway.",
+            "emoji": "🎼"
+          },
+          {
+            "zh": "他创作了许多动人的乐曲，至今还在世界各地演奏。",
+            "en": "He wrote many moving pieces that are still played everywhere today.",
+            "emoji": "🎵"
+          }
+        ]
+      },
+      {
+        "id": "fig_van_gogh",
+        "nameZh": "梵高",
+        "nameEn": "Vincent van Gogh",
+        "emoji": "🧑‍🎨",
+        "region": "world",
+        "years": "1853–1890",
+        "fieldZh": "著名画家",
+        "fieldEn": "Famous painter",
+        "achievementEmoji": "🎨",
+        "themeColor": "#FF8A80",
+        "sections": [
+          {
+            "zh": "梵高是荷兰著名的画家。",
+            "en": "Vincent van Gogh was a famous painter from the Netherlands.",
+            "emoji": "🎨"
+          },
+          {
+            "zh": "他用明亮的颜色和大胆的笔触画出星空和向日葵。",
+            "en": "He painted starry skies and sunflowers with bright colors and bold strokes.",
+            "emoji": "🌻"
+          },
+          {
+            "zh": "他的画如今被全世界的人喜爱和欣赏。",
+            "en": "His paintings are loved and admired by people all over the world today.",
+            "emoji": "🖼️"
+          }
+        ]
+      }
+    ]
+  }
+}

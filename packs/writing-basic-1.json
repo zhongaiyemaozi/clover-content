@@ -1,0 +1,114 @@
+{
+  "_meta": {
+    "version": 1,
+    "title": {
+      "zh": "练字·口日",
+      "en": "Writing · 口 日"
+    },
+    "summary": {
+      "zh": "练写 口 日 两个字",
+      "en": "Practice writing 口 日"
+    },
+    "accessLevel": "free",
+    "contentTypes": [
+      "writing.practice"
+    ]
+  },
+  "schemaVersion": 2,
+  "payloads": {
+    "writingPracticeItems": [
+      {
+        "id": "w_kou",
+        "level": "gradeOne",
+        "character": "口",
+        "pinyin": "kǒu",
+        "meaning": "mouth",
+        "targetStrokeCount": 3,
+        "guidePoints": [
+          {
+            "x": 0.25,
+            "y": 0.25
+          },
+          {
+            "x": 0.25,
+            "y": 0.8
+          },
+          {
+            "x": 0.25,
+            "y": 0.25
+          },
+          {
+            "x": 0.75,
+            "y": 0.25
+          },
+          {
+            "x": 0.75,
+            "y": 0.25
+          },
+          {
+            "x": 0.75,
+            "y": 0.8
+          },
+          {
+            "x": 0.25,
+            "y": 0.8
+          },
+          {
+            "x": 0.75,
+            "y": 0.8
+          }
+        ]
+      },
+      {
+        "id": "w_ri",
+        "level": "gradeOne",
+        "character": "日",
+        "pinyin": "rì",
+        "meaning": "sun",
+        "targetStrokeCount": 4,
+        "guidePoints": [
+          {
+            "x": 0.3,
+            "y": 0.2
+          },
+          {
+            "x": 0.3,
+            "y": 0.85
+          },
+          {
+            "x": 0.3,
+            "y": 0.2
+          },
+          {
+            "x": 0.7,
+            "y": 0.2
+          },
+          {
+            "x": 0.7,
+            "y": 0.2
+          },
+          {
+            "x": 0.7,
+            "y": 0.85
+          },
+          {
+            "x": 0.3,
+            "y": 0.52
+          },
+          {
+            "x": 0.7,
+            "y": 0.52
+          },
+          {
+            "x": 0.3,
+            "y": 0.85
+          },
+          {
+            "x": 0.7,
+            "y": 0.85
+          }
+        ]
+      }
+    ]
+  }
+}

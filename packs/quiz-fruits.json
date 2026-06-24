@@ -1,0 +1,36 @@
+{
+  "_meta": {
+    "version": 1,
+    "title": {
+      "zh": "测验·水果蔬菜",
+      "en": "Quiz · Fruits & Veggies"
+    },
+    "summary": {
+      "zh": "水果蔬菜测验",
+      "en": "Quiz about fruits and vegetables"
+    },
+    "accessLevel": "free",
+    "contentTypes": [
+      "quiz.packs"
+    ]
+  },
+  "schemaVersion": 2,
+  "payloads": {
+    "quizPacks": [
+      {
+        "id": "quiz_fruits",
+        "title": "水果蔬菜测验 Fruits Quiz",
+        "subtitle": "看图认水果蔬菜 / Name fruits and veggies",
+        "icon": "leaf.fill",
+        "themeColor": "#7BC96F",
+        "categoryIDs": [
+          "fruits_vegetables"
+        ],
+        "supportedTypes": [
+          "pictureToWord",
+          "hearAndPick"
+        ]
+      }
+    ]
+  }
+}

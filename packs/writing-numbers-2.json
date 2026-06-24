@@ -1,0 +1,74 @@
+{
+  "_meta": {
+    "version": 1,
+    "title": {
+      "zh": "练字·十丁",
+      "en": "Writing · 十 丁"
+    },
+    "summary": {
+      "zh": "练写 十 丁 两个字",
+      "en": "Practice writing 十 丁"
+    },
+    "accessLevel": "free",
+    "contentTypes": [
+      "writing.practice"
+    ]
+  },
+  "schemaVersion": 2,
+  "payloads": {
+    "writingPracticeItems": [
+      {
+        "id": "w_shi",
+        "level": "kindergarten",
+        "character": "十",
+        "pinyin": "shí",
+        "meaning": "ten",
+        "targetStrokeCount": 2,
+        "guidePoints": [
+          {
+            "x": 0.15,
+            "y": 0.5
+          },
+          {
+            "x": 0.85,
+            "y": 0.5
+          },
+          {
+            "x": 0.5,
+            "y": 0.15
+          },
+          {
+            "x": 0.5,
+            "y": 0.85
+          }
+        ]
+      },
+      {
+        "id": "w_ding",
+        "level": "gradeOne",
+        "character": "丁",
+        "pinyin": "dīng",
+        "meaning": "fourth",
+        "targetStrokeCount": 2,
+        "guidePoints": [
+          {
+            "x": 0.15,
+            "y": 0.3
+          },
+          {
+            "x": 0.85,
+            "y": 0.3
+          },
+          {
+            "x": 0.55,
+            "y": 0.3
+          },
+          {
+            "x": 0.55,
+            "y": 0.85
+          }
+        ]
+      }
+    ]
+  }
+}

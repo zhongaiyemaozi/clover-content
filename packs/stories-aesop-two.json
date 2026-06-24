@@ -1,0 +1,80 @@
+{
+  "_meta": {
+    "version": 1,
+    "title": {
+      "zh": "寓言故事·二",
+      "en": "Fables · Volume Two"
+    },
+    "summary": {
+      "zh": "2 篇双语寓言",
+      "en": "Two more bilingual fables"
+    },
+    "accessLevel": "free",
+    "contentTypes": [
+      "stories"
+    ]
+  },
+  "schemaVersion": 2,
+  "payloads": {
+    "stories": [
+      {
+        "id": "story_crow_fox",
+        "titleZh": "乌鸦和狐狸",
+        "titleEn": "The Crow and the Fox",
+        "emoji": "🐦‍⬛",
+        "themeColor": "#3A3325",
+        "pages": [
+          {
+            "zh": "乌鸦嘴里叼着一块奶酪，站在树上。",
+            "en": "A crow sat in a tree with a piece of cheese in her beak.",
+            "emoji": "🧀"
+          },
+          {
+            "zh": "狐狸想要奶酪，就夸乌鸦唱歌好听。",
+            "en": "A fox wanted the cheese, so he praised the crow's singing.",
+            "emoji": "🦊"
+          },
+          {
+            "zh": "乌鸦一开口唱歌，奶酪就掉了下来。",
+            "en": "The moment the crow opened her beak to sing, the cheese fell.",
+            "emoji": "🎶"
+          },
+          {
+            "zh": "狐狸叼起奶酪跑了。原来不能轻信好听的话。",
+            "en": "The fox grabbed it and ran. Do not trust flattery too easily.",
+            "emoji": "💨"
+          }
+        ]
+      },
+      {
+        "id": "story_boy_wolf",
+        "titleZh": "狼来了",
+        "titleEn": "The Boy Who Cried Wolf",
+        "emoji": "🐺",
+        "themeColor": "#8A7E62",
+        "pages": [
+          {
+            "zh": "放羊的男孩觉得无聊，大喊：「狼来了！」",
+            "en": "A bored shepherd boy shouted, \"Wolf! Wolf!\"",
+            "emoji": "🐑"
+          },
+          {
+            "zh": "村民们跑来帮忙，却发现根本没有狼。",
+            "en": "The villagers ran to help, but there was no wolf at all.",
+            "emoji": "🏃"
+          },
+          {
+            "zh": "男孩骗了好几次，大家就再也不相信他了。",
+            "en": "He tricked them again and again, so they stopped believing him.",
+            "emoji": "🙄"
+          },
+          {
+            "zh": "真的狼来时，没有人来帮忙。诚实最重要。",
+            "en": "When a real wolf came, nobody helped. Honesty matters most.",
+            "emoji": "🐺"
+          }
+        ]
+      }
+    ]
+  }
+}

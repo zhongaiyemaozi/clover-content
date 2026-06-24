@@ -1,0 +1,80 @@
+{
+  "_meta": {
+    "version": 1,
+    "title": {
+      "zh": "中国传统故事",
+      "en": "Chinese Folk Tales"
+    },
+    "summary": {
+      "zh": "2 篇双语中国传统故事",
+      "en": "Two bilingual Chinese folk tales"
+    },
+    "accessLevel": "free",
+    "contentTypes": [
+      "stories"
+    ]
+  },
+  "schemaVersion": 2,
+  "payloads": {
+    "stories": [
+      {
+        "id": "story_kong_rong",
+        "titleZh": "孔融让梨",
+        "titleEn": "Kong Rong Shares the Pears",
+        "emoji": "🍐",
+        "themeColor": "#58C472",
+        "pages": [
+          {
+            "zh": "古时候有个小男孩叫孔融，家里有很多兄弟。",
+            "en": "Long ago a little boy named Kong Rong had many brothers.",
+            "emoji": "🍐"
+          },
+          {
+            "zh": "分梨的时候，他主动挑了最小的一个。",
+            "en": "When sharing pears, he chose the smallest one for himself.",
+            "emoji": "🤲"
+          },
+          {
+            "zh": "大人问为什么，他说：「我年纪小，应该让哥哥们。」",
+            "en": "Asked why, he said, \"I am younger, so my brothers should have the big ones.\"",
+            "emoji": "💬"
+          },
+          {
+            "zh": "孔融让梨的故事，教我们要懂得谦让和分享。",
+            "en": "Kong Rong's story teaches us to be humble and to share.",
+            "emoji": "💗"
+          }
+        ]
+      },
+      {
+        "id": "story_sima_guang",
+        "titleZh": "司马光砸缸",
+        "titleEn": "Sima Guang Breaks the Vat",
+        "emoji": "🪨",
+        "themeColor": "#4FB6F5",
+        "pages": [
+          {
+            "zh": "小朋友们在院子里玩，一个孩子掉进了大水缸。",
+            "en": "Children were playing in a yard when one fell into a huge water vat.",
+            "emoji": "💧"
+          },
+          {
+            "zh": "大家都吓坏了，不知道怎么办。",
+            "en": "Everyone was frightened and did not know what to do.",
+            "emoji": "😱"
+          },
+          {
+            "zh": "聪明的司马光搬起一块石头，砸破了水缸。",
+            "en": "Clever Sima Guang lifted a stone and smashed the vat open.",
+            "emoji": "🪨"
+          },
+          {
+            "zh": "水流出来，孩子得救了。遇事要冷静动脑筋。",
+            "en": "The water rushed out and the child was saved. Stay calm and think!",
+            "emoji": "💡"
+          }
+        ]
+      }
+    ]
+  }
+}

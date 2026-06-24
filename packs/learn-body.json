@@ -1,0 +1,188 @@
+{
+  "_meta": {
+    "version": 1,
+    "title": {
+      "zh": "身体认知包",
+      "en": "My Body"
+    },
+    "summary": {
+      "zh": "认识 10 个身体部位",
+      "en": "10 parts of the body"
+    },
+    "accessLevel": "free",
+    "contentTypes": [
+      "learning.categories"
+    ]
+  },
+  "schemaVersion": 2,
+  "categories": [
+    {
+      "id": "pack_body",
+      "titleKey": "身体认知",
+      "icon": "figure.stand",
+      "themeColor": "#FFC84A",
+      "items": [
+        {
+          "id": "body_head",
+          "type": "custom",
+          "zhText": "头",
+          "enText": "Head",
+          "pinyin": null,
+          "emoji": "🧑",
+          "descriptionZh": "头在身体的最上面。",
+          "descriptionEn": "Your head is at the top of your body.",
+          "difficulty": 1,
+          "tags": [
+            "theme"
+          ],
+          "hexColor": null,
+          "example": null
+        },
+        {
+          "id": "body_eye",
+          "type": "custom",
+          "zhText": "眼睛",
+          "enText": "Eyes",
+          "pinyin": null,
+          "emoji": "👀",
+          "descriptionZh": "眼睛用来看东西。",
+          "descriptionEn": "We use our eyes to see.",
+          "difficulty": 1,
+          "tags": [
+            "theme"
+          ],
+          "hexColor": null,
+          "example": null
+        },
+        {
+          "id": "body_ear",
+          "type": "custom",
+          "zhText": "耳朵",
+          "enText": "Ears",
+          "pinyin": null,
+          "emoji": "👂",
+          "descriptionZh": "耳朵用来听声音。",
+          "descriptionEn": "We use our ears to hear.",
+          "difficulty": 1,
+          "tags": [
+            "theme"
+          ],
+          "hexColor": null,
+          "example": null
+        },
+        {
+          "id": "body_nose",
+          "type": "custom",
+          "zhText": "鼻子",
+          "enText": "Nose",
+          "pinyin": null,
+          "emoji": "👃",
+          "descriptionZh": "鼻子用来闻气味、呼吸。",
+          "descriptionEn": "We use our nose to smell and breathe.",
+          "difficulty": 1,
+          "tags": [
+            "theme"
+          ],
+          "hexColor": null,
+          "example": null
+        },
+        {
+          "id": "body_mouth",
+          "type": "custom",
+          "zhText": "嘴巴",
+          "enText": "Mouth",
+          "pinyin": null,
+          "emoji": "👄",
+          "descriptionZh": "嘴巴用来说话和吃饭。",
+          "descriptionEn": "We use our mouth to talk and eat.",
+          "difficulty": 1,
+          "tags": [
+            "theme"
+          ],
+          "hexColor": null,
+          "example": null
+        },
+        {
+          "id": "body_hand",
+          "type": "custom",
+          "zhText": "手",
+          "enText": "Hands",
+          "pinyin": null,
+          "emoji": "✋",
+          "descriptionZh": "手用来拿东西、写字。",
+          "descriptionEn": "We use our hands to hold and write.",
+          "difficulty": 1,
+          "tags": [
+            "theme"
+          ],
+          "hexColor": null,
+          "example": null
+        },
+        {
+          "id": "body_foot",
+          "type": "custom",
+          "zhText": "脚",
+          "enText": "Feet",
+          "pinyin": null,
+          "emoji": "🦶",
+          "descriptionZh": "脚用来走路和跑步。",
+          "descriptionEn": "We use our feet to walk and run.",
+          "difficulty": 1,
+          "tags": [
+            "theme"
+          ],
+          "hexColor": null,
+          "example": null
+        },
+        {
+          "id": "body_arm",
+          "type": "custom",
+          "zhText": "手臂",
+          "enText": "Arms",
+          "pinyin": null,
+          "emoji": "💪",
+          "descriptionZh": "手臂可以抱抱和举高。",
+          "descriptionEn": "We use our arms to hug and lift.",
+          "difficulty": 1,
+          "tags": [
+            "theme"
+          ],
+          "hexColor": null,
+          "example": null
+        },
+        {
+          "id": "body_hair",
+          "type": "custom",
+          "zhText": "头发",
+          "enText": "Hair",
+          "pinyin": null,
+          "emoji": "💇",
+          "descriptionZh": "头发长在头上。",
+          "descriptionEn": "Hair grows on top of your head.",
+          "difficulty": 1,
+          "tags": [
+            "theme"
+          ],
+          "hexColor": null,
+          "example": null
+        },
+        {
+          "id": "body_tooth",
+          "type": "custom",
+          "zhText": "牙齿",
+          "enText": "Teeth",
+          "pinyin": null,
+          "emoji": "🦷",
+          "descriptionZh": "牙齿用来咀嚼食物，要刷干净。",
+          "descriptionEn": "We use our teeth to chew, so keep them clean.",
+          "difficulty": 1,
+          "tags": [
+            "theme"
+          ],
+          "hexColor": null,
+          "example": null
+        }
+      ]
+    }
+  ]
+}

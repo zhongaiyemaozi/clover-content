@@ -1,0 +1,60 @@
+{
+  "_meta": {
+    "version": 1,
+    "title": {
+      "zh": "连线成图·小船",
+      "en": "Connect the Dots · Boat"
+    },
+    "summary": {
+      "zh": "连线画出一只小船",
+      "en": "Connect dots to draw a boat"
+    },
+    "accessLevel": "free",
+    "contentTypes": [
+      "game.numberConnect"
+    ]
+  },
+  "schemaVersion": 2,
+  "payloads": {
+    "numberConnectBoards": [
+      {
+        "id": "nc_boat",
+        "titleKey": "games_number_connect_title",
+        "numbers": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "nodes": [
+          {
+            "number": 1,
+            "x": 0.2,
+            "y": 0.55
+          },
+          {
+            "number": 2,
+            "x": 0.8,
+            "y": 0.55
+          },
+          {
+            "number": 3,
+            "x": 0.68,
+            "y": 0.78
+          },
+          {
+            "number": 4,
+            "x": 0.32,
+            "y": 0.78
+          },
+          {
+            "number": 5,
+            "x": 0.2,
+            "y": 0.55
+          }
+        ]
+      }
+    ]
+  }
+}

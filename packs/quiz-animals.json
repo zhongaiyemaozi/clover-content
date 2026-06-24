@@ -1,0 +1,37 @@
+{
+  "_meta": {
+    "version": 1,
+    "title": {
+      "zh": "测验·动物",
+      "en": "Quiz · Animals"
+    },
+    "summary": {
+      "zh": "动物图文听音测验",
+      "en": "Picture and sound quiz about animals"
+    },
+    "accessLevel": "free",
+    "contentTypes": [
+      "quiz.packs"
+    ]
+  },
+  "schemaVersion": 2,
+  "payloads": {
+    "quizPacks": [
+      {
+        "id": "quiz_animals",
+        "title": "动物测验 Animals Quiz",
+        "subtitle": "看图、听音认动物 / See and hear animals",
+        "icon": "pawprint.fill",
+        "themeColor": "#FF8A80",
+        "categoryIDs": [
+          "animals"
+        ],
+        "supportedTypes": [
+          "pictureToWord",
+          "hearAndPick",
+          "findSame"
+        ]
+      }
+    ]
+  }
+}

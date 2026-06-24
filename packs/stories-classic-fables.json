@@ -1,0 +1,109 @@
+{
+  "_meta": {
+    "version": 1,
+    "title": {
+      "zh": "经典寓言故事",
+      "en": "Classic Fables"
+    },
+    "summary": {
+      "zh": "3 篇双语伊索寓言：狮子与老鼠、蚂蚁与蚱蜢、太阳与风",
+      "en": "Three bilingual Aesop fables for read-aloud time"
+    },
+    "accessLevel": "free",
+    "contentTypes": [
+      "stories"
+    ]
+  },
+  "schemaVersion": 2,
+  "payloads": {
+    "stories": [
+      {
+        "id": "story_lion_mouse",
+        "titleZh": "狮子和老鼠",
+        "titleEn": "The Lion and the Mouse",
+        "emoji": "🦁",
+        "themeColor": "#FFC84A",
+        "pages": [
+          {
+            "zh": "一只小老鼠不小心跑到了睡着的狮子身上。",
+            "en": "A little mouse accidentally ran across a sleeping lion.",
+            "emoji": "🐭"
+          },
+          {
+            "zh": "狮子醒了，很生气，但老鼠求他放自己一条生路。",
+            "en": "The lion woke up angry, but the mouse begged him to let her go.",
+            "emoji": "🦁"
+          },
+          {
+            "zh": "狮子笑着放走了小老鼠。后来狮子被猎人的网困住了。",
+            "en": "The lion laughed and let her go. Later, the lion was caught in a hunter's net.",
+            "emoji": "🕸️"
+          },
+          {
+            "zh": "小老鼠咬断了网，救出了狮子。原来小小的朋友也能帮上大忙！",
+            "en": "The little mouse chewed the net and freed the lion. Even small friends can help a lot!",
+            "emoji": "🤝"
+          }
+        ]
+      },
+      {
+        "id": "story_ant_grasshopper",
+        "titleZh": "蚂蚁和蚱蜢",
+        "titleEn": "The Ant and the Grasshopper",
+        "emoji": "🐜",
+        "themeColor": "#58C472",
+        "pages": [
+          {
+            "zh": "夏天，蚂蚁忙着收集粮食，蚱蜢却只顾着唱歌玩耍。",
+            "en": "In summer the ant gathered food, while the grasshopper only sang and played.",
+            "emoji": "🌞"
+          },
+          {
+            "zh": "蚱蜢笑蚂蚁太辛苦，蚂蚁说：「冬天就要来了。」",
+            "en": "The grasshopper laughed at the busy ant. The ant said, \"Winter is coming.\"",
+            "emoji": "🎶"
+          },
+          {
+            "zh": "冬天到了，又冷又饿的蚱蜢找不到食物。",
+            "en": "When winter came, the cold and hungry grasshopper could find no food.",
+            "emoji": "❄️"
+          },
+          {
+            "zh": "蚂蚁分给他一些粮食。蚱蜢明白了：早做准备最重要。",
+            "en": "The ant shared some food. The grasshopper learned: it is best to prepare ahead.",
+            "emoji": "🌾"
+          }
+        ]
+      },
+      {
+        "id": "story_sun_wind",
+        "titleZh": "太阳和风",
+        "titleEn": "The Sun and the Wind",
+        "emoji": "☀️",
+        "themeColor": "#4FB6F5",
+        "pages": [
+          {
+            "zh": "太阳和风争论谁更厉害，看见一个穿外套的旅人。",
+            "en": "The Sun and the Wind argued who was stronger, and saw a traveler in a coat.",
+            "emoji": "🧥"
+          },
+          {
+            "zh": "风说：「谁能让他脱下外套，谁就更厉害。」",
+            "en": "The Wind said, \"Whoever makes him take off his coat is stronger.\"",
+            "emoji": "💨"
+          },
+          {
+            "zh": "风用力地吹，旅人却把外套裹得更紧了。",
+            "en": "The Wind blew hard, but the traveler only wrapped his coat tighter.",
+            "emoji": "🌬️"
+          },
+          {
+            "zh": "太阳暖暖地照着，旅人热了，自己脱下了外套。温柔比强硬更有力量。",
+            "en": "The Sun shone warmly, the traveler grew hot and took off his coat. Gentleness can be stronger than force.",
+            "emoji": "☀️"
+          }
+        ]
+      }
+    ]
+  }
+}

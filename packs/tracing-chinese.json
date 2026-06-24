@@ -1,0 +1,118 @@
+{
+  "_meta": {
+    "version": 1,
+    "title": {
+      "zh": "描红·汉字一二三",
+      "en": "Tracing · Chinese 一二三"
+    },
+    "summary": {
+      "zh": "描红汉字 一 二 三 十",
+      "en": "Trace Chinese 一 二 三 十"
+    },
+    "accessLevel": "free",
+    "contentTypes": [
+      "game.tracing"
+    ]
+  },
+  "schemaVersion": 2,
+  "payloads": {
+    "tracePrompts": [
+      {
+        "id": "t_zh_yi",
+        "set": "chinese",
+        "displayText": "一",
+        "subtitleKey": "trace_set_chinese",
+        "guidePoints": [
+          {
+            "x": 0.15,
+            "y": 0.5
+          },
+          {
+            "x": 0.85,
+            "y": 0.5
+          }
+        ]
+      },
+      {
+        "id": "t_zh_er",
+        "set": "chinese",
+        "displayText": "二",
+        "subtitleKey": "trace_set_chinese",
+        "guidePoints": [
+          {
+            "x": 0.2,
+            "y": 0.35
+          },
+          {
+            "x": 0.8,
+            "y": 0.35
+          },
+          {
+            "x": 0.15,
+            "y": 0.65
+          },
+          {
+            "x": 0.85,
+            "y": 0.65
+          }
+        ]
+      },
+      {
+        "id": "t_zh_san",
+        "set": "chinese",
+        "displayText": "三",
+        "subtitleKey": "trace_set_chinese",
+        "guidePoints": [
+          {
+            "x": 0.2,
+            "y": 0.3
+          },
+          {
+            "x": 0.8,
+            "y": 0.3
+          },
+          {
+            "x": 0.25,
+            "y": 0.5
+          },
+          {
+            "x": 0.75,
+            "y": 0.5
+          },
+          {
+            "x": 0.15,
+            "y": 0.7
+          },
+          {
+            "x": 0.85,
+            "y": 0.7
+          }
+        ]
+      },
+      {
+        "id": "t_zh_shi",
+        "set": "chinese",
+        "displayText": "十",
+        "subtitleKey": "trace_set_chinese",
+        "guidePoints": [
+          {
+            "x": 0.15,
+            "y": 0.5
+          },
+          {
+            "x": 0.85,
+            "y": 0.5
+          },
+          {
+            "x": 0.5,
+            "y": 0.15
+          },
+          {
+            "x": 0.5,
+            "y": 0.85
+          }
+        ]
+      }
+    ]
+  }
+}

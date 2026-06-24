@@ -1,0 +1,118 @@
+{
+  "_meta": {
+    "version": 1,
+    "title": {
+      "zh": "中文跟读·句子",
+      "en": "Read Aloud · Chinese Sentences"
+    },
+    "summary": {
+      "zh": "8 句中文日常句",
+      "en": "Read 8 everyday Chinese sentences"
+    },
+    "accessLevel": "free",
+    "contentTypes": [
+      "voice.practice"
+    ]
+  },
+  "schemaVersion": 2,
+  "payloads": {
+    "voicePracticeItems": [
+      {
+        "id": "v_zhs_nihao",
+        "displayText": "你好！",
+        "spokenTarget": "你好",
+        "hint": "跟我读：你好",
+        "pinyin": "nǐ hǎo",
+        "phonetic": null,
+        "type": "sentence",
+        "category": "sentence",
+        "difficulty": 1,
+        "languageCode": "zh-CN"
+      },
+      {
+        "id": "v_zhs_xiexie",
+        "displayText": "谢谢你。",
+        "spokenTarget": "谢谢你",
+        "hint": "跟我读：谢谢你",
+        "pinyin": "xiè xie nǐ",
+        "phonetic": null,
+        "type": "sentence",
+        "category": "sentence",
+        "difficulty": 1,
+        "languageCode": "zh-CN"
+      },
+      {
+        "id": "v_zhs_zaoshanghao",
+        "displayText": "早上好。",
+        "spokenTarget": "早上好",
+        "hint": "跟我读：早上好",
+        "pinyin": "zǎo shang hǎo",
+        "phonetic": null,
+        "type": "sentence",
+        "category": "sentence",
+        "difficulty": 1,
+        "languageCode": "zh-CN"
+      },
+      {
+        "id": "v_zhs_wanan",
+        "displayText": "晚安。",
+        "spokenTarget": "晚安",
+        "hint": "跟我读：晚安",
+        "pinyin": "wǎn ān",
+        "phonetic": null,
+        "type": "sentence",
+        "category": "sentence",
+        "difficulty": 1,
+        "languageCode": "zh-CN"
+      },
+      {
+        "id": "v_zhs_woaini",
+        "displayText": "我爱你。",
+        "spokenTarget": "我爱你",
+        "hint": "跟我读：我爱你",
+        "pinyin": "wǒ ài nǐ",
+        "phonetic": null,
+        "type": "sentence",
+        "category": "sentence",
+        "difficulty": 1,
+        "languageCode": "zh-CN"
+      },
+      {
+        "id": "v_zhs_qing",
+        "displayText": "请帮帮我。",
+        "spokenTarget": "请帮帮我",
+        "hint": "跟我读：请帮帮我",
+        "pinyin": "qǐng bāng bāng wǒ",
+        "phonetic": null,
+        "type": "sentence",
+        "category": "sentence",
+        "difficulty": 1,
+        "languageCode": "zh-CN"
+      },
+      {
+        "id": "v_zhs_duibuqi",
+        "displayText": "对不起。",
+        "spokenTarget": "对不起",
+        "hint": "跟我读：对不起",
+        "pinyin": "duì bu qǐ",
+        "phonetic": null,
+        "type": "sentence",
+        "category": "sentence",
+        "difficulty": 1,
+        "languageCode": "zh-CN"
+      },
+      {
+        "id": "v_zhs_chifan",
+        "displayText": "该吃饭了。",
+        "spokenTarget": "该吃饭了",
+        "hint": "跟我读：该吃饭了",
+        "pinyin": "gāi chī fàn le",
+        "phonetic": null,
+        "type": "sentence",
+        "category": "sentence",
+        "difficulty": 1,
+        "languageCode": "zh-CN"
+      }
+    ]
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "_meta": {
+    "version": 1,
+    "title": {
+      "zh": "睡前小故事",
+      "en": "Bedtime Tales"
+    },
+    "summary": {
+      "zh": "2 篇温馨双语小故事",
+      "en": "Two gentle bilingual bedtime stories"
+    },
+    "accessLevel": "free",
+    "contentTypes": [
+      "stories"
+    ]
+  },
+  "schemaVersion": 2,
+  "payloads": {
+    "stories": [
+      {
+        "id": "story_little_star",
+        "titleZh": "小星星找朋友",
+        "titleEn": "Little Star Finds a Friend",
+        "emoji": "⭐",
+        "themeColor": "#4FB6F5",
+        "pages": [
+          {
+            "zh": "天上有一颗小星星，一个人闪呀闪，有点孤单。",
+            "en": "High in the sky a little star twinkled all alone, feeling lonely.",
+            "emoji": "⭐"
+          },
+          {
+            "zh": "她对月亮说：「我想要一个朋友。」",
+            "en": "She said to the Moon, \"I wish I had a friend.\"",
+            "emoji": "🌙"
+          },
+          {
+            "zh": "月亮请来许多星星，一起组成了亮亮的星座。",
+            "en": "The Moon gathered many stars to form a bright constellation.",
+            "emoji": "✨"
+          },
+          {
+            "zh": "小星星笑了，原来朋友就在身边。晚安！",
+            "en": "The little star smiled — friends were right beside her. Good night!",
+            "emoji": "😴"
+          }
+        ]
+      },
+      {
+        "id": "story_seed",
+        "titleZh": "一颗小种子",
+        "titleEn": "The Little Seed",
+        "emoji": "🌱",
+        "themeColor": "#58C472",
+        "pages": [
+          {
+            "zh": "一颗小种子睡在泥土里。",
+            "en": "A little seed slept deep in the soil.",
+            "emoji": "🌰"
+          },
+          {
+            "zh": "春天来了，雨水和阳光把它叫醒。",
+            "en": "When spring came, rain and sunshine woke it up.",
+            "emoji": "🌧️"
+          },
+          {
+            "zh": "小种子慢慢长出嫩芽，越长越高。",
+            "en": "The seed slowly grew a sprout, taller and taller.",
+            "emoji": "🌱"
+          },
+          {
+            "zh": "最后开出一朵美丽的花。耐心等待，就会有惊喜。",
+            "en": "At last it bloomed into a beautiful flower. Patience brings wonderful surprises.",
+            "emoji": "🌸"
+          }
+        ]
+      }
+    ]
+  }
+}

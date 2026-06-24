@@ -1,0 +1,42 @@
+{
+  "_meta": {
+    "version": 1,
+    "title": {
+      "zh": "涂色·节日",
+      "en": "Coloring · Festivals"
+    },
+    "summary": {
+      "zh": "4 张节日涂色画",
+      "en": "Four festival coloring pages"
+    },
+    "accessLevel": "free",
+    "contentTypes": [
+      "game.coloring"
+    ]
+  },
+  "schemaVersion": 2,
+  "payloads": {
+    "coloringPages": [
+      {
+        "id": "color_lantern",
+        "titleKey": "games_coloring_title",
+        "regionCount": 5
+      },
+      {
+        "id": "color_tree_xmas",
+        "titleKey": "games_coloring_title",
+        "regionCount": 6
+      },
+      {
+        "id": "color_mooncake",
+        "titleKey": "games_coloring_title",
+        "regionCount": 4
+      },
+      {
+        "id": "color_firework",
+        "titleKey": "games_coloring_title",
+        "regionCount": 7
+      }
+    ]
+  }
+}

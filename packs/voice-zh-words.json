@@ -1,0 +1,142 @@
+{
+  "_meta": {
+    "version": 1,
+    "title": {
+      "zh": "中文跟读·词语",
+      "en": "Read Aloud · Chinese Words"
+    },
+    "summary": {
+      "zh": "10 个中文词语跟读",
+      "en": "Read 10 Chinese words aloud"
+    },
+    "accessLevel": "free",
+    "contentTypes": [
+      "voice.practice"
+    ]
+  },
+  "schemaVersion": 2,
+  "payloads": {
+    "voicePracticeItems": [
+      {
+        "id": "v_zhw_mama",
+        "displayText": "妈妈",
+        "spokenTarget": "妈妈",
+        "hint": "跟我读：妈妈",
+        "pinyin": "mā ma",
+        "phonetic": null,
+        "type": "word",
+        "category": "word",
+        "difficulty": 1,
+        "languageCode": "zh-CN"
+      },
+      {
+        "id": "v_zhw_baba",
+        "displayText": "爸爸",
+        "spokenTarget": "爸爸",
+        "hint": "跟我读：爸爸",
+        "pinyin": "bà ba",
+        "phonetic": null,
+        "type": "word",
+        "category": "word",
+        "difficulty": 1,
+        "languageCode": "zh-CN"
+      },
+      {
+        "id": "v_zhw_pengyou",
+        "displayText": "朋友",
+        "spokenTarget": "朋友",
+        "hint": "跟我读：朋友",
+        "pinyin": "péng you",
+        "phonetic": null,
+        "type": "word",
+        "category": "word",
+        "difficulty": 1,
+        "languageCode": "zh-CN"
+      },
+      {
+        "id": "v_zhw_laoshi",
+        "displayText": "老师",
+        "spokenTarget": "老师",
+        "hint": "跟我读：老师",
+        "pinyin": "lǎo shī",
+        "phonetic": null,
+        "type": "word",
+        "category": "word",
+        "difficulty": 1,
+        "languageCode": "zh-CN"
+      },
+      {
+        "id": "v_zhw_xiexie",
+        "displayText": "谢谢",
+        "spokenTarget": "谢谢",
+        "hint": "跟我读：谢谢",
+        "pinyin": "xiè xie",
+        "phonetic": null,
+        "type": "word",
+        "category": "word",
+        "difficulty": 1,
+        "languageCode": "zh-CN"
+      },
+      {
+        "id": "v_zhw_nihao",
+        "displayText": "你好",
+        "spokenTarget": "你好",
+        "hint": "跟我读：你好",
+        "pinyin": "nǐ hǎo",
+        "phonetic": null,
+        "type": "word",
+        "category": "word",
+        "difficulty": 1,
+        "languageCode": "zh-CN"
+      },
+      {
+        "id": "v_zhw_xuexiao",
+        "displayText": "学校",
+        "spokenTarget": "学校",
+        "hint": "跟我读：学校",
+        "pinyin": "xué xiào",
+        "phonetic": null,
+        "type": "word",
+        "category": "word",
+        "difficulty": 1,
+        "languageCode": "zh-CN"
+      },
+      {
+        "id": "v_zhw_kaixin",
+        "displayText": "开心",
+        "spokenTarget": "开心",
+        "hint": "跟我读：开心",
+        "pinyin": "kāi xīn",
+        "phonetic": null,
+        "type": "word",
+        "category": "word",
+        "difficulty": 1,
+        "languageCode": "zh-CN"
+      },
+      {
+        "id": "v_zhw_pingguo",
+        "displayText": "苹果",
+        "spokenTarget": "苹果",
+        "hint": "跟我读：苹果",
+        "pinyin": "píng guǒ",
+        "phonetic": null,
+        "type": "word",
+        "category": "word",
+        "difficulty": 1,
+        "languageCode": "zh-CN"
+      },
+      {
+        "id": "v_zhw_xiaogou",
+        "displayText": "小狗",
+        "spokenTarget": "小狗",
+        "hint": "跟我读：小狗",
+        "pinyin": "xiǎo gǒu",
+        "phonetic": null,
+        "type": "word",
+        "category": "word",
+        "difficulty": 1,
+        "languageCode": "zh-CN"
+      }
+    ]
+  }
+}

@@ -1,0 +1,167 @@
+{
+  "_meta": {
+    "version": 1,
+    "title": {
+      "zh": "伟人·探索与远航",
+      "en": "Great People · Explorers & Pioneers"
+    },
+    "summary": {
+      "zh": "5 位勇敢探索世界的人",
+      "en": "Five brave people who explored the world"
+    },
+    "accessLevel": "free",
+    "contentTypes": [
+      "great.figures"
+    ]
+  },
+  "schemaVersion": 2,
+  "payloads": {
+    "greatFigures": [
+      {
+        "id": "fig_zheng_he",
+        "nameZh": "郑和",
+        "nameEn": "Zheng He",
+        "emoji": "🧑‍✈️",
+        "region": "china",
+        "years": "1371–1433",
+        "fieldZh": "明代伟大的航海家",
+        "fieldEn": "Great Ming-dynasty navigator",
+        "achievementEmoji": "⛵",
+        "themeColor": "#4FB6F5",
+        "sections": [
+          {
+            "zh": "郑和是中国明朝伟大的航海家。",
+            "en": "Zheng He was a great navigator in China's Ming dynasty.",
+            "emoji": "⛵"
+          },
+          {
+            "zh": "他带着庞大的船队七次下西洋，到过很多遥远的国家。",
+            "en": "He led a huge fleet on seven great voyages to many faraway lands.",
+            "emoji": "🌊"
+          },
+          {
+            "zh": "他把中国的友谊和货物带到世界各地，比哥伦布还早。",
+            "en": "He carried China's friendship and goods around the world, even before Columbus.",
+            "emoji": "🧭"
+          }
+        ]
+      },
+      {
+        "id": "fig_zhang_qian",
+        "nameZh": "张骞",
+        "nameEn": "Zhang Qian",
+        "emoji": "🧔",
+        "region": "china",
+        "years": "？–前114",
+        "fieldZh": "开辟丝绸之路的使者",
+        "fieldEn": "Opened the Silk Road",
+        "achievementEmoji": "🐫",
+        "themeColor": "#58C472",
+        "sections": [
+          {
+            "zh": "张骞是中国汉朝的探险家和使者。",
+            "en": "Zhang Qian was an explorer and envoy in China's Han dynasty.",
+            "emoji": "🧔"
+          },
+          {
+            "zh": "他骑着骆驼走过沙漠，去往很远很远的西方。",
+            "en": "He rode camels across the desert to lands far to the west.",
+            "emoji": "🐫"
+          },
+          {
+            "zh": "他开辟了丝绸之路，让东方和西方能够交流贸易。",
+            "en": "He opened the Silk Road, connecting East and West for trade and friendship.",
+            "emoji": "🛤️"
+          }
+        ]
+      },
+      {
+        "id": "fig_armstrong",
+        "nameZh": "阿姆斯特朗",
+        "nameEn": "Neil Armstrong",
+        "emoji": "🧑‍🚀",
+        "region": "world",
+        "years": "1930–2012",
+        "fieldZh": "第一个登上月球的人",
+        "fieldEn": "First person on the Moon",
+        "achievementEmoji": "🌕",
+        "themeColor": "#B08BF0",
+        "sections": [
+          {
+            "zh": "阿姆斯特朗是美国的宇航员。",
+            "en": "Neil Armstrong was an American astronaut.",
+            "emoji": "🧑‍🚀"
+          },
+          {
+            "zh": "1969 年，他乘坐飞船飞向月球。",
+            "en": "In 1969 he flew on a spaceship all the way to the Moon.",
+            "emoji": "🚀"
+          },
+          {
+            "zh": "他成为第一个在月球上行走的人，说这是「人类的一大步」。",
+            "en": "He became the first person to walk on the Moon — one giant leap for humankind.",
+            "emoji": "🌕"
+          }
+        ]
+      },
+      {
+        "id": "fig_earhart",
+        "nameZh": "埃尔哈特",
+        "nameEn": "Amelia Earhart",
+        "emoji": "👩‍✈️",
+        "region": "world",
+        "years": "1897–1937",
+        "fieldZh": "勇敢的女飞行员",
+        "fieldEn": "Brave woman pilot",
+        "achievementEmoji": "🛩️",
+        "themeColor": "#FF9EC8",
+        "sections": [
+          {
+            "zh": "埃尔哈特是美国勇敢的女飞行员。",
+            "en": "Amelia Earhart was a brave American pilot.",
+            "emoji": "👩‍✈️"
+          },
+          {
+            "zh": "在很少有女性开飞机的年代，她却飞越了大西洋。",
+            "en": "In a time when few women flew planes, she flew across the Atlantic Ocean.",
+            "emoji": "🛩️"
+          },
+          {
+            "zh": "她鼓励女孩们勇敢追梦，做自己想做的事。",
+            "en": "She inspired girls everywhere to be brave and chase their dreams.",
+            "emoji": "💫"
+          }
+        ]
+      },
+      {
+        "id": "fig_marco_polo",
+        "nameZh": "马可·波罗",
+        "nameEn": "Marco Polo",
+        "emoji": "🧔",
+        "region": "world",
+        "years": "1254–1324",
+        "fieldZh": "到过中国的旅行家",
+        "fieldEn": "Traveler who journeyed to China",
+        "achievementEmoji": "🧭",
+        "themeColor": "#FFC84A",
+        "sections": [
+          {
+            "zh": "马可·波罗是意大利的旅行家。",
+            "en": "Marco Polo was a traveler from Italy.",
+            "emoji": "🧭"
+          },
+          {
+            "zh": "他年轻时沿着丝绸之路，一路来到遥远的中国。",
+            "en": "As a young man he traveled the Silk Road all the way to faraway China.",
+            "emoji": "🐫"
+          },
+          {
+            "zh": "他把在东方的见闻写成书，让欧洲人认识了中国。",
+            "en": "He wrote a book about the East that taught Europe about China.",
+            "emoji": "📕"
+          }
+        ]
+      }
+    ]
+  }
+}

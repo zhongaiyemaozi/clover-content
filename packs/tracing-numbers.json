@@ -1,0 +1,182 @@
+{
+  "_meta": {
+    "version": 1,
+    "title": {
+      "zh": "描红·数字 1-5",
+      "en": "Tracing · Numbers 1–5"
+    },
+    "summary": {
+      "zh": "描红数字 1 到 5",
+      "en": "Trace numbers 1 to 5"
+    },
+    "accessLevel": "free",
+    "contentTypes": [
+      "game.tracing"
+    ]
+  },
+  "schemaVersion": 2,
+  "payloads": {
+    "tracePrompts": [
+      {
+        "id": "t_1",
+        "set": "letters",
+        "displayText": "1",
+        "subtitleKey": "trace_set_letters",
+        "guidePoints": [
+          {
+            "x": 0.4,
+            "y": 0.3
+          },
+          {
+            "x": 0.5,
+            "y": 0.2
+          },
+          {
+            "x": 0.5,
+            "y": 0.2
+          },
+          {
+            "x": 0.5,
+            "y": 0.8
+          }
+        ]
+      },
+      {
+        "id": "t_4",
+        "set": "letters",
+        "displayText": "4",
+        "subtitleKey": "trace_set_letters",
+        "guidePoints": [
+          {
+            "x": 0.6,
+            "y": 0.2
+          },
+          {
+            "x": 0.3,
+            "y": 0.6
+          },
+          {
+            "x": 0.3,
+            "y": 0.6
+          },
+          {
+            "x": 0.75,
+            "y": 0.6
+          },
+          {
+            "x": 0.6,
+            "y": 0.2
+          },
+          {
+            "x": 0.6,
+            "y": 0.8
+          }
+        ]
+      },
+      {
+        "id": "t_7",
+        "set": "letters",
+        "displayText": "7",
+        "subtitleKey": "trace_set_letters",
+        "guidePoints": [
+          {
+            "x": 0.3,
+            "y": 0.2
+          },
+          {
+            "x": 0.7,
+            "y": 0.2
+          },
+          {
+            "x": 0.7,
+            "y": 0.2
+          },
+          {
+            "x": 0.45,
+            "y": 0.8
+          }
+        ]
+      },
+      {
+        "id": "t_2",
+        "set": "letters",
+        "displayText": "2",
+        "subtitleKey": "trace_set_letters",
+        "guidePoints": [
+          {
+            "x": 0.3,
+            "y": 0.3
+          },
+          {
+            "x": 0.5,
+            "y": 0.2
+          },
+          {
+            "x": 0.5,
+            "y": 0.2
+          },
+          {
+            "x": 0.7,
+            "y": 0.4
+          },
+          {
+            "x": 0.7,
+            "y": 0.4
+          },
+          {
+            "x": 0.3,
+            "y": 0.8
+          },
+          {
+            "x": 0.3,
+            "y": 0.8
+          },
+          {
+            "x": 0.7,
+            "y": 0.8
+          }
+        ]
+      },
+      {
+        "id": "t_3",
+        "set": "letters",
+        "displayText": "3",
+        "subtitleKey": "trace_set_letters",
+        "guidePoints": [
+          {
+            "x": 0.3,
+            "y": 0.25
+          },
+          {
+            "x": 0.65,
+            "y": 0.25
+          },
+          {
+            "x": 0.65,
+            "y": 0.25
+          },
+          {
+            "x": 0.45,
+            "y": 0.5
+          },
+          {
+            "x": 0.45,
+            "y": 0.5
+          },
+          {
+            "x": 0.7,
+            "y": 0.65
+          },
+          {
+            "x": 0.7,
+            "y": 0.65
+          },
+          {
+            "x": 0.3,
+            "y": 0.8
+          }
+        ]
+      }
+    ]
+  }
+}

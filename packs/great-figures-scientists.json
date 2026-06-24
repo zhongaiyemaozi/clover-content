@@ -1,0 +1,167 @@
+{
+  "_meta": {
+    "version": 1,
+    "title": {
+      "zh": "伟人·科学与思想",
+      "en": "Great People · Scientists & Thinkers"
+    },
+    "summary": {
+      "zh": "5 位探索世界奥秘的科学家",
+      "en": "Five scientists who explored the mysteries of the world"
+    },
+    "accessLevel": "free",
+    "contentTypes": [
+      "great.figures"
+    ]
+  },
+  "schemaVersion": 2,
+  "payloads": {
+    "greatFigures": [
+      {
+        "id": "fig_hua_luogeng",
+        "nameZh": "华罗庚",
+        "nameEn": "Hua Luogeng",
+        "emoji": "🧑‍🏫",
+        "region": "china",
+        "years": "1910–1985",
+        "fieldZh": "著名数学家",
+        "fieldEn": "Famous mathematician",
+        "achievementEmoji": "➗",
+        "themeColor": "#4FB6F5",
+        "sections": [
+          {
+            "zh": "华罗庚是中国著名的数学家。",
+            "en": "Hua Luogeng was a famous Chinese mathematician.",
+            "emoji": "➗"
+          },
+          {
+            "zh": "他小时候家里穷，靠自学钻研数学，非常努力。",
+            "en": "He grew up poor and taught himself math, working very hard.",
+            "emoji": "📐"
+          },
+          {
+            "zh": "他把数学用到工厂和生产中，帮助国家发展。",
+            "en": "He used math to help factories and the country grow.",
+            "emoji": "🏭"
+          }
+        ]
+      },
+      {
+        "id": "fig_li_siguang",
+        "nameZh": "李四光",
+        "nameEn": "Li Siguang",
+        "emoji": "🧑‍🔬",
+        "region": "china",
+        "years": "1889–1971",
+        "fieldZh": "地质学家",
+        "fieldEn": "Geologist",
+        "achievementEmoji": "🪨",
+        "themeColor": "#58C472",
+        "sections": [
+          {
+            "zh": "李四光是中国杰出的地质学家。",
+            "en": "Li Siguang was an outstanding Chinese geologist.",
+            "emoji": "🪨"
+          },
+          {
+            "zh": "他研究岩石和大地，想找到祖国地下的宝藏。",
+            "en": "He studied rocks and the earth to find treasures underground.",
+            "emoji": "⛏️"
+          },
+          {
+            "zh": "他帮助中国找到了石油，让人们不再担心没有油用。",
+            "en": "He helped China find oil, so the country no longer worried about running out.",
+            "emoji": "🛢️"
+          }
+        ]
+      },
+      {
+        "id": "fig_hawking",
+        "nameZh": "霍金",
+        "nameEn": "Stephen Hawking",
+        "emoji": "🧑‍🦽",
+        "region": "world",
+        "years": "1942–2018",
+        "fieldZh": "研究宇宙和黑洞的物理学家",
+        "fieldEn": "Physicist who studied the universe",
+        "achievementEmoji": "🕳️",
+        "themeColor": "#B08BF0",
+        "sections": [
+          {
+            "zh": "霍金是英国伟大的物理学家。",
+            "en": "Stephen Hawking was a great British physicist.",
+            "emoji": "🌌"
+          },
+          {
+            "zh": "虽然身体生病不能动，他仍然用大脑思考宇宙的奥秘。",
+            "en": "Even though illness left him unable to move, he still explored the universe with his mind.",
+            "emoji": "🧠"
+          },
+          {
+            "zh": "他研究黑洞和宇宙，写的科普书让很多人爱上了科学。",
+            "en": "He studied black holes and the universe, and his books made many people love science.",
+            "emoji": "🕳️"
+          }
+        ]
+      },
+      {
+        "id": "fig_mendel",
+        "nameZh": "孟德尔",
+        "nameEn": "Gregor Mendel",
+        "emoji": "🧑‍🌾",
+        "region": "world",
+        "years": "1822–1884",
+        "fieldZh": "遗传学的奠基人",
+        "fieldEn": "Founder of genetics",
+        "achievementEmoji": "🌱",
+        "themeColor": "#FFC84A",
+        "sections": [
+          {
+            "zh": "孟德尔是一位喜欢观察的修道士和科学家。",
+            "en": "Gregor Mendel was a curious monk and scientist.",
+            "emoji": "🧑‍🌾"
+          },
+          {
+            "zh": "他种了很多豌豆，仔细观察它们一代代的变化。",
+            "en": "He grew many pea plants and watched carefully how they changed over generations.",
+            "emoji": "🌱"
+          },
+          {
+            "zh": "他发现了遗传的规律，告诉我们为什么孩子像父母。",
+            "en": "He discovered the rules of heredity — why children look like their parents.",
+            "emoji": "🧬"
+          }
+        ]
+      },
+      {
+        "id": "fig_archimedes",
+        "nameZh": "阿基米德",
+        "nameEn": "Archimedes",
+        "emoji": "🧓",
+        "region": "world",
+        "years": "约前287–前212",
+        "fieldZh": "古希腊数学家、发明家",
+        "fieldEn": "Ancient Greek mathematician and inventor",
+        "achievementEmoji": "📐",
+        "themeColor": "#FF8A80",
+        "sections": [
+          {
+            "zh": "阿基米德是两千多年前古希腊的数学家。",
+            "en": "Archimedes was a mathematician in ancient Greece, over 2,000 years ago.",
+            "emoji": "📐"
+          },
+          {
+            "zh": "传说他在洗澡时发现了浮力的秘密，高兴得跳了起来。",
+            "en": "The story says he discovered why things float while taking a bath, and jumped for joy.",
+            "emoji": "🛁"
+          },
+          {
+            "zh": "他发现了杠杆和浮力的原理，说：「给我一个支点，我能撬起地球。」",
+            "en": "He found the rules of levers and floating, saying: give me a place to stand and I can move the Earth.",
+            "emoji": "🌍"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,188 @@
+{
+  "_meta": {
+    "version": 1,
+    "title": {
+      "zh": "天气认知包",
+      "en": "Weather & Sky"
+    },
+    "summary": {
+      "zh": "认识 10 种天气",
+      "en": "10 kinds of weather"
+    },
+    "accessLevel": "free",
+    "contentTypes": [
+      "learning.categories"
+    ]
+  },
+  "schemaVersion": 2,
+  "categories": [
+    {
+      "id": "pack_weather",
+      "titleKey": "天气认知",
+      "icon": "cloud.sun.fill",
+      "themeColor": "#4FB6F5",
+      "items": [
+        {
+          "id": "wx_sunny",
+          "type": "custom",
+          "zhText": "晴天",
+          "enText": "Sunny",
+          "pinyin": null,
+          "emoji": "☀️",
+          "descriptionZh": "晴天太阳高照，适合出去玩。",
+          "descriptionEn": "On a sunny day the sun shines bright.",
+          "difficulty": 1,
+          "tags": [
+            "theme"
+          ],
+          "hexColor": null,
+          "example": null
+        },
+        {
+          "id": "wx_cloudy",
+          "type": "custom",
+          "zhText": "多云",
+          "enText": "Cloudy",
+          "pinyin": null,
+          "emoji": "☁️",
+          "descriptionZh": "多云时天上有很多云朵。",
+          "descriptionEn": "On a cloudy day clouds fill the sky.",
+          "difficulty": 1,
+          "tags": [
+            "theme"
+          ],
+          "hexColor": null,
+          "example": null
+        },
+        {
+          "id": "wx_rainy",
+          "type": "custom",
+          "zhText": "下雨",
+          "enText": "Rainy",
+          "pinyin": null,
+          "emoji": "🌧️",
+          "descriptionZh": "下雨时要记得带伞。",
+          "descriptionEn": "On a rainy day, remember your umbrella.",
+          "difficulty": 1,
+          "tags": [
+            "theme"
+          ],
+          "hexColor": null,
+          "example": null
+        },
+        {
+          "id": "wx_snowy",
+          "type": "custom",
+          "zhText": "下雪",
+          "enText": "Snowy",
+          "pinyin": null,
+          "emoji": "🌨️",
+          "descriptionZh": "下雪时大地变成白色。",
+          "descriptionEn": "On a snowy day the ground turns white.",
+          "difficulty": 1,
+          "tags": [
+            "theme"
+          ],
+          "hexColor": null,
+          "example": null
+        },
+        {
+          "id": "wx_windy",
+          "type": "custom",
+          "zhText": "刮风",
+          "enText": "Windy",
+          "pinyin": null,
+          "emoji": "💨",
+          "descriptionZh": "刮风时树叶到处飞。",
+          "descriptionEn": "On a windy day leaves fly around.",
+          "difficulty": 1,
+          "tags": [
+            "theme"
+          ],
+          "hexColor": null,
+          "example": null
+        },
+        {
+          "id": "wx_thunder",
+          "type": "custom",
+          "zhText": "打雷",
+          "enText": "Thunder",
+          "pinyin": null,
+          "emoji": "⛈️",
+          "descriptionZh": "打雷时会听到轰隆隆的声音。",
+          "descriptionEn": "Thunder makes a loud rumbling sound.",
+          "difficulty": 1,
+          "tags": [
+            "theme"
+          ],
+          "hexColor": null,
+          "example": null
+        },
+        {
+          "id": "wx_rainbow",
+          "type": "custom",
+          "zhText": "彩虹",
+          "enText": "Rainbow",
+          "pinyin": null,
+          "emoji": "🌈",
+          "descriptionZh": "雨后有时会出现美丽的彩虹。",
+          "descriptionEn": "After rain a beautiful rainbow may appear.",
+          "difficulty": 1,
+          "tags": [
+            "theme"
+          ],
+          "hexColor": null,
+          "example": null
+        },
+        {
+          "id": "wx_foggy",
+          "type": "custom",
+          "zhText": "雾",
+          "enText": "Foggy",
+          "pinyin": null,
+          "emoji": "🌫️",
+          "descriptionZh": "起雾时看东西会模模糊糊。",
+          "descriptionEn": "On a foggy day things look blurry.",
+          "difficulty": 1,
+          "tags": [
+            "theme"
+          ],
+          "hexColor": null,
+          "example": null
+        },
+        {
+          "id": "wx_hot",
+          "type": "custom",
+          "zhText": "炎热",
+          "enText": "Hot",
+          "pinyin": null,
+          "emoji": "🥵",
+          "descriptionZh": "炎热的天气要多喝水。",
+          "descriptionEn": "On a hot day, drink lots of water.",
+          "difficulty": 1,
+          "tags": [
+            "theme"
+          ],
+          "hexColor": null,
+          "example": null
+        },
+        {
+          "id": "wx_cold",
+          "type": "custom",
+          "zhText": "寒冷",
+          "enText": "Cold",
+          "pinyin": null,
+          "emoji": "🥶",
+          "descriptionZh": "寒冷的天气要穿暖和。",
+          "descriptionEn": "On a cold day, dress warmly.",
+          "difficulty": 1,
+          "tags": [
+            "theme"
+          ],
+          "hexColor": null,
+          "example": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "_meta": {
+    "version": 1,
+    "title": {
+      "zh": "涂色·交通工具",
+      "en": "Coloring · Vehicles"
+    },
+    "summary": {
+      "zh": "4 张交通工具涂色画",
+      "en": "Four vehicle coloring pages"
+    },
+    "accessLevel": "free",
+    "contentTypes": [
+      "game.coloring"
+    ]
+  },
+  "schemaVersion": 2,
+  "payloads": {
+    "coloringPages": [
+      {
+        "id": "color_car",
+        "titleKey": "games_coloring_title",
+        "regionCount": 5
+      },
+      {
+        "id": "color_bus",
+        "titleKey": "games_coloring_title",
+        "regionCount": 6
+      },
+      {
+        "id": "color_boat",
+        "titleKey": "games_coloring_title",
+        "regionCount": 4
+      },
+      {
+        "id": "color_plane",
+        "titleKey": "games_coloring_title",
+        "regionCount": 5
+      }
+    ]
+  }
+}

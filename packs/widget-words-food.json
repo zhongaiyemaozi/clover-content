@@ -1,0 +1,58 @@
+{
+  "_meta": {
+    "version": 1,
+    "title": {
+      "zh": "每日一词·食物",
+      "en": "Daily Word · Food"
+    },
+    "summary": {
+      "zh": "食物每日词",
+      "en": "Daily food words"
+    },
+    "accessLevel": "free",
+    "contentTypes": [
+      "widget.dailyWords"
+    ]
+  },
+  "schemaVersion": 2,
+  "payloads": {
+    "widgetDailyWords": [
+      {
+        "id": "ww_apple",
+        "zh": "苹果",
+        "en": "Apple",
+        "icon": "applelogo"
+      },
+      {
+        "id": "ww_bread",
+        "zh": "面包",
+        "en": "Bread",
+        "icon": "birthday.cake.fill"
+      },
+      {
+        "id": "ww_milk",
+        "zh": "牛奶",
+        "en": "Milk",
+        "icon": "cup.and.saucer.fill"
+      },
+      {
+        "id": "ww_egg",
+        "zh": "鸡蛋",
+        "en": "Egg",
+        "icon": "oval.fill"
+      },
+      {
+        "id": "ww_carrot",
+        "zh": "胡萝卜",
+        "en": "Carrot",
+        "icon": "carrot.fill"
+      },
+      {
+        "id": "ww_fish_food",
+        "zh": "鱼",
+        "en": "Fish",
+        "icon": "fish.fill"
+      }
+    ]
+  }
+}

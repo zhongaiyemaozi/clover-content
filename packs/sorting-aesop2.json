@@ -1,0 +1,24 @@
+{
+  "_meta": {
+    "version": 1,
+    "title": {
+      "zh": "故事排序·寓言二",
+      "en": "Story Sorting · Fables 2"
+    },
+    "summary": {
+      "zh": "更多寓言排序",
+      "en": "Sort more fables"
+    },
+    "accessLevel": "free",
+    "contentTypes": [
+      "game.storySorting"
+    ]
+  },
+  "schemaVersion": 2,
+  "payloads": {
+    "storySortingStoryIDs": [
+      "story_crow_fox",
+      "story_boy_wolf"
+    ]
+  }
+}

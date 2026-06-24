@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "version": 1,
+    "title": {
+      "zh": "练字·人大",
+      "en": "Writing · 人 大"
+    },
+    "summary": {
+      "zh": "练写 人 大 两个字",
+      "en": "Practice writing 人 大"
+    },
+    "accessLevel": "free",
+    "contentTypes": [
+      "writing.practice"
+    ]
+  },
+  "schemaVersion": 2,
+  "payloads": {
+    "writingPracticeItems": [
+      {
+        "id": "w_ren",
+        "level": "kindergarten",
+        "character": "人",
+        "pinyin": "rén",
+        "meaning": "person",
+        "targetStrokeCount": 2,
+        "guidePoints": [
+          {
+            "x": 0.5,
+            "y": 0.2
+          },
+          {
+            "x": 0.25,
+            "y": 0.85
+          },
+          {
+            "x": 0.5,
+            "y": 0.2
+          },
+          {
+            "x": 0.75,
+            "y": 0.85
+          }
+        ]
+      },
+      {
+        "id": "w_da",
+        "level": "gradeOne",
+        "character": "大",
+        "pinyin": "dà",
+        "meaning": "big",
+        "targetStrokeCount": 3,
+        "guidePoints": [
+          {
+            "x": 0.15,
+            "y": 0.4
+          },
+          {
+            "x": 0.85,
+            "y": 0.4
+          },
+          {
+            "x": 0.5,
+            "y": 0.18
+          },
+          {
+            "x": 0.25,
+            "y": 0.85
+          },
+          {
+            "x": 0.5,
+            "y": 0.4
+          },
+          {
+            "x": 0.78,
+            "y": 0.85
+          }
+        ]
+      }
+    ]
+  }
+}

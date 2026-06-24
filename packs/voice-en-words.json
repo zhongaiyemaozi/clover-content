@@ -1,0 +1,142 @@
+{
+  "_meta": {
+    "version": 1,
+    "title": {
+      "zh": "英文跟读·常用词",
+      "en": "Read Aloud · English Words"
+    },
+    "summary": {
+      "zh": "10 个英文常用词跟读",
+      "en": "Read 10 common English words"
+    },
+    "accessLevel": "free",
+    "contentTypes": [
+      "voice.practice"
+    ]
+  },
+  "schemaVersion": 2,
+  "payloads": {
+    "voicePracticeItems": [
+      {
+        "id": "v_enw_apple",
+        "displayText": "Apple",
+        "spokenTarget": "Apple",
+        "hint": "Say: Apple",
+        "pinyin": null,
+        "phonetic": null,
+        "type": "word",
+        "category": "word",
+        "difficulty": 1,
+        "languageCode": "en-US"
+      },
+      {
+        "id": "v_enw_ball",
+        "displayText": "Ball",
+        "spokenTarget": "Ball",
+        "hint": "Say: Ball",
+        "pinyin": null,
+        "phonetic": null,
+        "type": "word",
+        "category": "word",
+        "difficulty": 1,
+        "languageCode": "en-US"
+      },
+      {
+        "id": "v_enw_cat",
+        "displayText": "Cat",
+        "spokenTarget": "Cat",
+        "hint": "Say: Cat",
+        "pinyin": null,
+        "phonetic": null,
+        "type": "word",
+        "category": "word",
+        "difficulty": 1,
+        "languageCode": "en-US"
+      },
+      {
+        "id": "v_enw_dog",
+        "displayText": "Dog",
+        "spokenTarget": "Dog",
+        "hint": "Say: Dog",
+        "pinyin": null,
+        "phonetic": null,
+        "type": "word",
+        "category": "word",
+        "difficulty": 1,
+        "languageCode": "en-US"
+      },
+      {
+        "id": "v_enw_egg",
+        "displayText": "Egg",
+        "spokenTarget": "Egg",
+        "hint": "Say: Egg",
+        "pinyin": null,
+        "phonetic": null,
+        "type": "word",
+        "category": "word",
+        "difficulty": 1,
+        "languageCode": "en-US"
+      },
+      {
+        "id": "v_enw_fish",
+        "displayText": "Fish",
+        "spokenTarget": "Fish",
+        "hint": "Say: Fish",
+        "pinyin": null,
+        "phonetic": null,
+        "type": "word",
+        "category": "word",
+        "difficulty": 1,
+        "languageCode": "en-US"
+      },
+      {
+        "id": "v_enw_hat",
+        "displayText": "Hat",
+        "spokenTarget": "Hat",
+        "hint": "Say: Hat",
+        "pinyin": null,
+        "phonetic": null,
+        "type": "word",
+        "category": "word",
+        "difficulty": 1,
+        "languageCode": "en-US"
+      },
+      {
+        "id": "v_enw_sun",
+        "displayText": "Sun",
+        "spokenTarget": "Sun",
+        "hint": "Say: Sun",
+        "pinyin": null,
+        "phonetic": null,
+        "type": "word",
+        "category": "word",
+        "difficulty": 1,
+        "languageCode": "en-US"
+      },
+      {
+        "id": "v_enw_tree",
+        "displayText": "Tree",
+        "spokenTarget": "Tree",
+        "hint": "Say: Tree",
+        "pinyin": null,
+        "phonetic": null,
+        "type": "word",
+        "category": "word",
+        "difficulty": 1,
+        "languageCode": "en-US"
+      },
+      {
+        "id": "v_enw_water",
+        "displayText": "Water",
+        "spokenTarget": "Water",
+        "hint": "Say: Water",
+        "pinyin": null,
+        "phonetic": null,
+        "type": "word",
+        "category": "word",
+        "difficulty": 1,
+        "languageCode": "en-US"
+      }
+    ]
+  }
+}

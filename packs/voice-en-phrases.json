@@ -1,0 +1,118 @@
+{
+  "_meta": {
+    "version": 1,
+    "title": {
+      "zh": "英文跟读·日常句",
+      "en": "Read Aloud · English Phrases"
+    },
+    "summary": {
+      "zh": "8 句英文日常用语",
+      "en": "Read 8 everyday English phrases"
+    },
+    "accessLevel": "free",
+    "contentTypes": [
+      "voice.practice"
+    ]
+  },
+  "schemaVersion": 2,
+  "payloads": {
+    "voicePracticeItems": [
+      {
+        "id": "v_enp_hello",
+        "displayText": "Hello!",
+        "spokenTarget": "Hello",
+        "hint": "Say hello",
+        "pinyin": null,
+        "phonetic": null,
+        "type": "sentence",
+        "category": "sentence",
+        "difficulty": 1,
+        "languageCode": "en-US"
+      },
+      {
+        "id": "v_enp_thanks",
+        "displayText": "Thank you.",
+        "spokenTarget": "Thank you",
+        "hint": "Say thank you",
+        "pinyin": null,
+        "phonetic": null,
+        "type": "sentence",
+        "category": "sentence",
+        "difficulty": 1,
+        "languageCode": "en-US"
+      },
+      {
+        "id": "v_enp_please",
+        "displayText": "Please.",
+        "spokenTarget": "Please",
+        "hint": "Say please",
+        "pinyin": null,
+        "phonetic": null,
+        "type": "sentence",
+        "category": "sentence",
+        "difficulty": 1,
+        "languageCode": "en-US"
+      },
+      {
+        "id": "v_enp_sorry",
+        "displayText": "I am sorry.",
+        "spokenTarget": "I am sorry",
+        "hint": "Say sorry",
+        "pinyin": null,
+        "phonetic": null,
+        "type": "sentence",
+        "category": "sentence",
+        "difficulty": 1,
+        "languageCode": "en-US"
+      },
+      {
+        "id": "v_enp_goodmorning",
+        "displayText": "Good morning.",
+        "spokenTarget": "Good morning",
+        "hint": "Greet the morning",
+        "pinyin": null,
+        "phonetic": null,
+        "type": "sentence",
+        "category": "sentence",
+        "difficulty": 1,
+        "languageCode": "en-US"
+      },
+      {
+        "id": "v_enp_goodnight",
+        "displayText": "Good night.",
+        "spokenTarget": "Good night",
+        "hint": "Say good night",
+        "pinyin": null,
+        "phonetic": null,
+        "type": "sentence",
+        "category": "sentence",
+        "difficulty": 1,
+        "languageCode": "en-US"
+      },
+      {
+        "id": "v_enp_howareyou",
+        "displayText": "How are you?",
+        "spokenTarget": "How are you",
+        "hint": "Ask how are you",
+        "pinyin": null,
+        "phonetic": null,
+        "type": "sentence",
+        "category": "sentence",
+        "difficulty": 1,
+        "languageCode": "en-US"
+      },
+      {
+        "id": "v_enp_iloveyou",
+        "displayText": "I love you.",
+        "spokenTarget": "I love you",
+        "hint": "Say I love you",
+        "pinyin": null,
+        "phonetic": null,
+        "type": "sentence",
+        "category": "sentence",
+        "difficulty": 1,
+        "languageCode": "en-US"
+      }
+    ]
+  }
+}

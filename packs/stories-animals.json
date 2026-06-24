@@ -1,0 +1,80 @@
+{
+  "_meta": {
+    "version": 1,
+    "title": {
+      "zh": "动物小故事",
+      "en": "Animal Stories"
+    },
+    "summary": {
+      "zh": "2 篇双语动物故事",
+      "en": "Two bilingual animal stories"
+    },
+    "accessLevel": "free",
+    "contentTypes": [
+      "stories"
+    ]
+  },
+  "schemaVersion": 2,
+  "payloads": {
+    "stories": [
+      {
+        "id": "story_duckling",
+        "titleZh": "丑小鸭",
+        "titleEn": "The Ugly Duckling",
+        "emoji": "🦆",
+        "themeColor": "#FFC84A",
+        "pages": [
+          {
+            "zh": "鸭妈妈的孩子里，有一只长得和别人不一样。",
+            "en": "Among the mother duck's babies, one looked different from the rest.",
+            "emoji": "🦆"
+          },
+          {
+            "zh": "大家都笑他，他很伤心，独自离开了。",
+            "en": "The others laughed at him, so he sadly went away alone.",
+            "emoji": "😢"
+          },
+          {
+            "zh": "过了一个冬天，他在湖里看到了自己。",
+            "en": "After a long winter, he saw his reflection in the lake.",
+            "emoji": "❄️"
+          },
+          {
+            "zh": "原来他变成了美丽的天鹅！每个人都会有闪光的时候。",
+            "en": "He had become a beautiful swan! Everyone has their moment to shine.",
+            "emoji": "🦢"
+          }
+        ]
+      },
+      {
+        "id": "story_mouse_city",
+        "titleZh": "城里老鼠和乡下老鼠",
+        "titleEn": "Town Mouse and Country Mouse",
+        "emoji": "🐭",
+        "themeColor": "#FF8A80",
+        "pages": [
+          {
+            "zh": "乡下老鼠请城里老鼠吃简单的饭菜。",
+            "en": "The country mouse served the town mouse a simple meal.",
+            "emoji": "🌾"
+          },
+          {
+            "zh": "城里老鼠说：「来我家吃大餐吧！」",
+            "en": "The town mouse said, \"Come to my house for a feast!\"",
+            "emoji": "🧀"
+          },
+          {
+            "zh": "城里的食物很丰富，却总有猫和危险。",
+            "en": "The town had rich food, but also cats and danger.",
+            "emoji": "🐱"
+          },
+          {
+            "zh": "乡下老鼠回家了，平安简单的生活最快乐。",
+            "en": "The country mouse went home — a safe, simple life is happiest.",
+            "emoji": "🏡"
+          }
+        ]
+      }
+    ]
+  }
+}

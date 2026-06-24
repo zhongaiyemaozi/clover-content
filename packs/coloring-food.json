@@ -1,0 +1,42 @@
+{
+  "_meta": {
+    "version": 1,
+    "title": {
+      "zh": "涂色·食物",
+      "en": "Coloring · Food"
+    },
+    "summary": {
+      "zh": "4 张食物涂色画",
+      "en": "Four food coloring pages"
+    },
+    "accessLevel": "free",
+    "contentTypes": [
+      "game.coloring"
+    ]
+  },
+  "schemaVersion": 2,
+  "payloads": {
+    "coloringPages": [
+      {
+        "id": "color_cake",
+        "titleKey": "games_coloring_title",
+        "regionCount": 5
+      },
+      {
+        "id": "color_apple",
+        "titleKey": "games_coloring_title",
+        "regionCount": 3
+      },
+      {
+        "id": "color_icecream",
+        "titleKey": "games_coloring_title",
+        "regionCount": 4
+      },
+      {
+        "id": "color_pizza",
+        "titleKey": "games_coloring_title",
+        "regionCount": 6
+      }
+    ]
+  }
+}

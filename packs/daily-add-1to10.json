@@ -1,0 +1,29 @@
+{
+  "_meta": {
+    "version": 1,
+    "title": {
+      "zh": "每日挑战·加法10",
+      "en": "Daily · Add to 10"
+    },
+    "summary": {
+      "zh": "10 以内加法挑战",
+      "en": "Addition within 10"
+    },
+    "accessLevel": "free",
+    "contentTypes": [
+      "game.dailyChallenge"
+    ]
+  },
+  "schemaVersion": 2,
+  "payloads": {
+    "dailyChallengeSets": [
+      {
+        "id": "dc_add10",
+        "operation": "addition",
+        "range": "oneToTen",
+        "questionCount": 5,
+        "starsPerCorrect": 2
+      }
+    ]
+  }
+}

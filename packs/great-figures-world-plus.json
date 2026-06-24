@@ -1,0 +1,167 @@
+{
+  "_meta": {
+    "version": 1,
+    "title": {
+      "zh": "伟人殿堂·更多人物",
+      "en": "Great People · More Heroes"
+    },
+    "summary": {
+      "zh": "再认识 5 位中外伟人：孔子、蔡伦、伽利略、特斯拉、南丁格尔",
+      "en": "Meet 5 more great people from China and the world"
+    },
+    "accessLevel": "free",
+    "contentTypes": [
+      "great.figures"
+    ]
+  },
+  "schemaVersion": 2,
+  "payloads": {
+    "greatFigures": [
+      {
+        "id": "fig_confucius",
+        "nameZh": "孔子",
+        "nameEn": "Confucius",
+        "emoji": "🧓",
+        "region": "china",
+        "years": "551–479 BC",
+        "fieldZh": "古代伟大的教育家、思想家",
+        "fieldEn": "Great ancient teacher and thinker",
+        "achievementEmoji": "📚",
+        "themeColor": "#58C472",
+        "sections": [
+          {
+            "zh": "孔子是中国古代伟大的老师和思想家，生活在两千五百多年前。",
+            "en": "Confucius was a great teacher and thinker in ancient China, more than 2,500 years ago.",
+            "emoji": "🧓"
+          },
+          {
+            "zh": "他相信每个人都应该学习，一生教过很多很多学生。",
+            "en": "He believed everyone should learn, and he taught many, many students in his life.",
+            "emoji": "📖"
+          },
+          {
+            "zh": "他的思想影响了中国和世界，直到今天人们还在学习他的道理。",
+            "en": "His ideas shaped China and the world, and people still learn from him today.",
+            "emoji": "🌏"
+          }
+        ]
+      },
+      {
+        "id": "fig_cai_lun",
+        "nameZh": "蔡伦",
+        "nameEn": "Cai Lun",
+        "emoji": "🧑‍🔧",
+        "region": "china",
+        "years": "约50–121",
+        "fieldZh": "改进造纸术的发明家",
+        "fieldEn": "Inventor who improved papermaking",
+        "achievementEmoji": "📜",
+        "themeColor": "#FFC84A",
+        "sections": [
+          {
+            "zh": "蔡伦是中国古代的发明家。",
+            "en": "Cai Lun was an inventor in ancient China.",
+            "emoji": "🧑‍🔧"
+          },
+          {
+            "zh": "那时候写字的材料又贵又重，他想做出更好用的纸。",
+            "en": "Back then, writing materials were heavy and costly, so he wanted to make better paper.",
+            "emoji": "🪶"
+          },
+          {
+            "zh": "他改进了造纸的方法，让纸变得便宜好用，知识从此更容易传播。",
+            "en": "He improved papermaking so paper became cheap and easy to use, helping knowledge spread.",
+            "emoji": "📜"
+          }
+        ]
+      },
+      {
+        "id": "fig_galileo",
+        "nameZh": "伽利略",
+        "nameEn": "Galileo Galilei",
+        "emoji": "🔭",
+        "region": "world",
+        "years": "1564–1642",
+        "fieldZh": "用望远镜观察星空的科学家",
+        "fieldEn": "Astronomer who studied the stars",
+        "achievementEmoji": "🪐",
+        "themeColor": "#4FB6F5",
+        "sections": [
+          {
+            "zh": "伽利略是意大利的科学家，被称为「现代科学之父」。",
+            "en": "Galileo was an Italian scientist, called the father of modern science.",
+            "emoji": "🔭"
+          },
+          {
+            "zh": "他用自己改进的望远镜，第一次仔细观察了月亮和木星。",
+            "en": "With a telescope he improved, he was the first to study the Moon and Jupiter closely.",
+            "emoji": "🌙"
+          },
+          {
+            "zh": "他发现行星都绕着太阳转，改变了人们看世界的方式。",
+            "en": "He found that planets circle the Sun, changing how people saw the world.",
+            "emoji": "🪐"
+          }
+        ]
+      },
+      {
+        "id": "fig_tesla",
+        "nameZh": "特斯拉",
+        "nameEn": "Nikola Tesla",
+        "emoji": "⚡",
+        "region": "world",
+        "years": "1856–1943",
+        "fieldZh": "交流电系统的发明家",
+        "fieldEn": "Inventor who shaped electricity",
+        "achievementEmoji": "🔌",
+        "themeColor": "#B08BF0",
+        "sections": [
+          {
+            "zh": "特斯拉是一位了不起的发明家和工程师。",
+            "en": "Nikola Tesla was an amazing inventor and engineer.",
+            "emoji": "⚡"
+          },
+          {
+            "zh": "他研究电，想让电能送到很远很远的地方。",
+            "en": "He studied electricity and wanted to send power across long distances.",
+            "emoji": "🔌"
+          },
+          {
+            "zh": "他发明的交流电系统，今天还在为千家万户送去电力。",
+            "en": "His alternating-current system still powers homes everywhere today.",
+            "emoji": "🏙️"
+          }
+        ]
+      },
+      {
+        "id": "fig_nightingale",
+        "nameZh": "南丁格尔",
+        "nameEn": "Florence Nightingale",
+        "emoji": "👩‍⚕️",
+        "region": "world",
+        "years": "1820–1910",
+        "fieldZh": "现代护理事业创始人",
+        "fieldEn": "Founder of modern nursing",
+        "achievementEmoji": "🕯️",
+        "themeColor": "#FF9EC8",
+        "sections": [
+          {
+            "zh": "南丁格尔是英国的护士，被人们称为「提灯女神」。",
+            "en": "Florence Nightingale was a British nurse, known as the Lady with the Lamp.",
+            "emoji": "🕯️"
+          },
+          {
+            "zh": "在战争中，她夜里提着灯，细心照顾受伤的士兵。",
+            "en": "During a war, she carried a lamp at night to care for wounded soldiers.",
+            "emoji": "🛏️"
+          },
+          {
+            "zh": "她让医院变得更干净、更安全，开创了现代护理事业。",
+            "en": "She made hospitals cleaner and safer, and founded modern nursing.",
+            "emoji": "💗"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "_meta": {
+    "version": 1,
+    "title": {
+      "zh": "故事排序·睡前",
+      "en": "Story Sorting · Bedtime"
+    },
+    "summary": {
+      "zh": "睡前故事排序",
+      "en": "Sort bedtime stories"
+    },
+    "accessLevel": "free",
+    "contentTypes": [
+      "game.storySorting"
+    ]
+  },
+  "schemaVersion": 2,
+  "payloads": {
+    "storySortingStoryIDs": [
+      "story_little_star",
+      "story_seed"
+    ]
+  }
+}

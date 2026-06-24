@@ -1,0 +1,187 @@
+{
+  "_meta": {
+    "version": 1,
+    "title": {
+      "zh": "太空探索包",
+      "en": "Space Explorers"
+    },
+    "summary": {
+      "zh": "认识太阳、月亮、行星和火箭等 10 个太空主题词",
+      "en": "10 space words: sun, moon, planets, rockets and more"
+    },
+    "accessLevel": "free",
+    "contentTypes": [
+      "learning.categories"
+    ]
+  },
+  "categories": [
+    {
+      "id": "pack_space",
+      "titleKey": "太空探索",
+      "icon": "sparkles",
+      "themeColor": "#4FB6F5",
+      "items": [
+        {
+          "id": "space_sun",
+          "type": "custom",
+          "zhText": "太阳",
+          "enText": "Sun",
+          "pinyin": null,
+          "emoji": "☀️",
+          "descriptionZh": "太阳是一颗会发光发热的恒星。",
+          "descriptionEn": "The Sun is a star that gives us light and heat.",
+          "difficulty": 1,
+          "tags": [
+            "theme"
+          ],
+          "hexColor": null,
+          "example": null
+        },
+        {
+          "id": "space_moon",
+          "type": "custom",
+          "zhText": "月亮",
+          "enText": "Moon",
+          "pinyin": null,
+          "emoji": "🌙",
+          "descriptionZh": "月亮绕着地球转，晚上常常能看到它。",
+          "descriptionEn": "The Moon circles Earth and we often see it at night.",
+          "difficulty": 1,
+          "tags": [
+            "theme"
+          ],
+          "hexColor": null,
+          "example": null
+        },
+        {
+          "id": "space_earth",
+          "type": "custom",
+          "zhText": "地球",
+          "enText": "Earth",
+          "pinyin": null,
+          "emoji": "🌍",
+          "descriptionZh": "地球是我们生活的蓝色星球。",
+          "descriptionEn": "Earth is the blue planet where we live.",
+          "difficulty": 1,
+          "tags": [
+            "theme"
+          ],
+          "hexColor": null,
+          "example": null
+        },
+        {
+          "id": "space_star",
+          "type": "custom",
+          "zhText": "星星",
+          "enText": "Star",
+          "pinyin": null,
+          "emoji": "⭐",
+          "descriptionZh": "夜空里一闪一闪的是星星。",
+          "descriptionEn": "Stars are the twinkling lights in the night sky.",
+          "difficulty": 1,
+          "tags": [
+            "theme"
+          ],
+          "hexColor": null,
+          "example": null
+        },
+        {
+          "id": "space_rocket",
+          "type": "custom",
+          "zhText": "火箭",
+          "enText": "Rocket",
+          "pinyin": null,
+          "emoji": "🚀",
+          "descriptionZh": "火箭能带着人和卫星飞向太空。",
+          "descriptionEn": "A rocket carries people and satellites into space.",
+          "difficulty": 1,
+          "tags": [
+            "theme"
+          ],
+          "hexColor": null,
+          "example": null
+        },
+        {
+          "id": "space_astronaut",
+          "type": "custom",
+          "zhText": "宇航员",
+          "enText": "Astronaut",
+          "pinyin": null,
+          "emoji": "🧑‍🚀",
+          "descriptionZh": "宇航员是去太空工作的人。",
+          "descriptionEn": "An astronaut is a person who travels and works in space.",
+          "difficulty": 1,
+          "tags": [
+            "theme"
+          ],
+          "hexColor": null,
+          "example": null
+        },
+        {
+          "id": "space_planet",
+          "type": "custom",
+          "zhText": "行星",
+          "enText": "Planet",
+          "pinyin": null,
+          "emoji": "🪐",
+          "descriptionZh": "行星绕着太阳转，地球也是一颗行星。",
+          "descriptionEn": "Planets circle the Sun. Earth is a planet too.",
+          "difficulty": 1,
+          "tags": [
+            "theme"
+          ],
+          "hexColor": null,
+          "example": null
+        },
+        {
+          "id": "space_satellite",
+          "type": "custom",
+          "zhText": "卫星",
+          "enText": "Satellite",
+          "pinyin": null,
+          "emoji": "🛰️",
+          "descriptionZh": "卫星在太空里帮我们传信号、看天气。",
+          "descriptionEn": "Satellites in space help send signals and watch the weather.",
+          "difficulty": 1,
+          "tags": [
+            "theme"
+          ],
+          "hexColor": null,
+          "example": null
+        },
+        {
+          "id": "space_comet",
+          "type": "custom",
+          "zhText": "彗星",
+          "enText": "Comet",
+          "pinyin": null,
+          "emoji": "☄️",
+          "descriptionZh": "彗星拖着长长的尾巴划过天空。",
+          "descriptionEn": "A comet has a long tail as it flies across the sky.",
+          "difficulty": 1,
+          "tags": [
+            "theme"
+          ],
+          "hexColor": null,
+          "example": null
+        },
+        {
+          "id": "space_galaxy",
+          "type": "custom",
+          "zhText": "银河",
+          "enText": "Galaxy",
+          "pinyin": null,
+          "emoji": "🌌",
+          "descriptionZh": "无数星星聚在一起组成了银河。",
+          "descriptionEn": "A galaxy is made of countless stars together.",
+          "difficulty": 1,
+          "tags": [
+            "theme"
+          ],
+          "hexColor": null,
+          "example": null
+        }
+      ]
+    }
+  ]
+}

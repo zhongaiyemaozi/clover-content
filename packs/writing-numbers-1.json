@@ -1,0 +1,100 @@
+{
+  "_meta": {
+    "version": 1,
+    "title": {
+      "zh": "练字·一二三",
+      "en": "Writing · 1 2 3"
+    },
+    "summary": {
+      "zh": "练写 一二三 三个字",
+      "en": "Practice writing 一 二 三"
+    },
+    "accessLevel": "free",
+    "contentTypes": [
+      "writing.practice"
+    ]
+  },
+  "schemaVersion": 2,
+  "payloads": {
+    "writingPracticeItems": [
+      {
+        "id": "w_yi",
+        "level": "kindergarten",
+        "character": "一",
+        "pinyin": "yī",
+        "meaning": "one",
+        "targetStrokeCount": 1,
+        "guidePoints": [
+          {
+            "x": 0.15,
+            "y": 0.5
+          },
+          {
+            "x": 0.85,
+            "y": 0.5
+          }
+        ]
+      },
+      {
+        "id": "w_er",
+        "level": "kindergarten",
+        "character": "二",
+        "pinyin": "èr",
+        "meaning": "two",
+        "targetStrokeCount": 2,
+        "guidePoints": [
+          {
+            "x": 0.15,
+            "y": 0.35
+          },
+          {
+            "x": 0.85,
+            "y": 0.35
+          },
+          {
+            "x": 0.15,
+            "y": 0.65
+          },
+          {
+            "x": 0.85,
+            "y": 0.65
+          }
+        ]
+      },
+      {
+        "id": "w_san",
+        "level": "kindergarten",
+        "character": "三",
+        "pinyin": "sān",
+        "meaning": "three",
+        "targetStrokeCount": 3,
+        "guidePoints": [
+          {
+            "x": 0.15,
+            "y": 0.3
+          },
+          {
+            "x": 0.85,
+            "y": 0.3
+          },
+          {
+            "x": 0.15,
+            "y": 0.5
+          },
+          {
+            "x": 0.85,
+            "y": 0.5
+          },
+          {
+            "x": 0.15,
+            "y": 0.7
+          },
+          {
+            "x": 0.85,
+            "y": 0.7
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,150 @@
+{
+  "_meta": {
+    "version": 1,
+    "title": {
+      "zh": "描红·字母 L-T",
+      "en": "Tracing · Letters L–T"
+    },
+    "summary": {
+      "zh": "描红大写字母 L 到 T",
+      "en": "Trace uppercase letters L to T"
+    },
+    "accessLevel": "free",
+    "contentTypes": [
+      "game.tracing"
+    ]
+  },
+  "schemaVersion": 2,
+  "payloads": {
+    "tracePrompts": [
+      {
+        "id": "t_L",
+        "set": "letters",
+        "displayText": "L",
+        "subtitleKey": "trace_set_letters",
+        "guidePoints": [
+          {
+            "x": 0.3,
+            "y": 0.2
+          },
+          {
+            "x": 0.3,
+            "y": 0.8
+          },
+          {
+            "x": 0.3,
+            "y": 0.8
+          },
+          {
+            "x": 0.7,
+            "y": 0.8
+          }
+        ]
+      },
+      {
+        "id": "t_T",
+        "set": "letters",
+        "displayText": "T",
+        "subtitleKey": "trace_set_letters",
+        "guidePoints": [
+          {
+            "x": 0.2,
+            "y": 0.2
+          },
+          {
+            "x": 0.8,
+            "y": 0.2
+          },
+          {
+            "x": 0.5,
+            "y": 0.2
+          },
+          {
+            "x": 0.5,
+            "y": 0.8
+          }
+        ]
+      },
+      {
+        "id": "t_V",
+        "set": "letters",
+        "displayText": "V",
+        "subtitleKey": "trace_set_letters",
+        "guidePoints": [
+          {
+            "x": 0.2,
+            "y": 0.2
+          },
+          {
+            "x": 0.5,
+            "y": 0.8
+          },
+          {
+            "x": 0.5,
+            "y": 0.8
+          },
+          {
+            "x": 0.8,
+            "y": 0.2
+          }
+        ]
+      },
+      {
+        "id": "t_X",
+        "set": "letters",
+        "displayText": "X",
+        "subtitleKey": "trace_set_letters",
+        "guidePoints": [
+          {
+            "x": 0.2,
+            "y": 0.2
+          },
+          {
+            "x": 0.8,
+            "y": 0.8
+          },
+          {
+            "x": 0.8,
+            "y": 0.2
+          },
+          {
+            "x": 0.2,
+            "y": 0.8
+          }
+        ]
+      },
+      {
+        "id": "t_Y",
+        "set": "letters",
+        "displayText": "Y",
+        "subtitleKey": "trace_set_letters",
+        "guidePoints": [
+          {
+            "x": 0.2,
+            "y": 0.2
+          },
+          {
+            "x": 0.5,
+            "y": 0.5
+          },
+          {
+            "x": 0.8,
+            "y": 0.2
+          },
+          {
+            "x": 0.5,
+            "y": 0.5
+          },
+          {
+            "x": 0.5,
+            "y": 0.5
+          },
+          {
+            "x": 0.5,
+            "y": 0.8
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "_meta": {
+    "version": 1,
+    "title": {
+      "zh": "故事排序·动物",
+      "en": "Story Sorting · Animals"
+    },
+    "summary": {
+      "zh": "动物故事排序",
+      "en": "Sort animal stories"
+    },
+    "accessLevel": "free",
+    "contentTypes": [
+      "game.storySorting"
+    ]
+  },
+  "schemaVersion": 2,
+  "payloads": {
+    "storySortingStoryIDs": [
+      "story_duckling",
+      "story_mouse_city"
+    ]
+  }
+}

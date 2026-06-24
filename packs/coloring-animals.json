@@ -1,0 +1,42 @@
+{
+  "_meta": {
+    "version": 1,
+    "title": {
+      "zh": "涂色·动物",
+      "en": "Coloring · Animals"
+    },
+    "summary": {
+      "zh": "4 张动物涂色画",
+      "en": "Four animal coloring pages"
+    },
+    "accessLevel": "free",
+    "contentTypes": [
+      "game.coloring"
+    ]
+  },
+  "schemaVersion": 2,
+  "payloads": {
+    "coloringPages": [
+      {
+        "id": "color_cat",
+        "titleKey": "games_coloring_title",
+        "regionCount": 5
+      },
+      {
+        "id": "color_dog",
+        "titleKey": "games_coloring_title",
+        "regionCount": 5
+      },
+      {
+        "id": "color_fish",
+        "titleKey": "games_coloring_title",
+        "regionCount": 4
+      },
+      {
+        "id": "color_bird",
+        "titleKey": "games_coloring_title",
+        "regionCount": 5
+      }
+    ]
+  }
+}

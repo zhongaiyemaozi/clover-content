@@ -1,0 +1,58 @@
+{
+  "_meta": {
+    "version": 1,
+    "title": {
+      "zh": "每日一词·自然",
+      "en": "Daily Word · Nature"
+    },
+    "summary": {
+      "zh": "自然每日词",
+      "en": "Daily nature words"
+    },
+    "accessLevel": "free",
+    "contentTypes": [
+      "widget.dailyWords"
+    ]
+  },
+  "schemaVersion": 2,
+  "payloads": {
+    "widgetDailyWords": [
+      {
+        "id": "ww_sun",
+        "zh": "太阳",
+        "en": "Sun",
+        "icon": "sun.max.fill"
+      },
+      {
+        "id": "ww_moon",
+        "zh": "月亮",
+        "en": "Moon",
+        "icon": "moon.fill"
+      },
+      {
+        "id": "ww_star",
+        "zh": "星星",
+        "en": "Star",
+        "icon": "star.fill"
+      },
+      {
+        "id": "ww_cloud",
+        "zh": "云",
+        "en": "Cloud",
+        "icon": "cloud.fill"
+      },
+      {
+        "id": "ww_rain",
+        "zh": "雨",
+        "en": "Rain",
+        "icon": "cloud.rain.fill"
+      },
+      {
+        "id": "ww_snow",
+        "zh": "雪",
+        "en": "Snow",
+        "icon": "snowflake"
+      }
+    ]
+  }
+}

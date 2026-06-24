@@ -8,6 +8,246 @@
   },
   "packs": [
     {
+      "id": "coloring-animals",
+      "version": 1,
+      "title": {
+        "zh": "涂色·动物",
+        "en": "Coloring · Animals"
+      },
+      "summary": {
+        "zh": "4 张动物涂色画",
+        "en": "Four animal coloring pages"
+      },
+      "sizeBytes": 828,
+      "sha256": "2a485d2ee092b200e79824913ea5da305fbc52062b594781c3a3aa120813cb44",
+      "accessLevel": "free",
+      "contentTypes": [
+        "game.coloring"
+      ],
+      "urls": {
+        "cn": "https://gitee.com/zhongaiyemaozi_admin/clover-content/raw/content-2026-06-24-1/packs/coloring-animals.json",
+        "global": "https://raw.githubusercontent.com/zhongaiyemaozi/clover-content/content-2026-06-24-1/packs/coloring-animals.json",
+        "cdn": "https://fastly.jsdelivr.net/gh/zhongaiyemaozi/clover-content@content-2026-06-24-1/packs/coloring-animals.json",
+        "gcore": "https://gcore.jsdelivr.net/gh/zhongaiyemaozi/clover-content@content-2026-06-24-1/packs/coloring-animals.json"
+      }
+    },
+    {
+      "id": "coloring-festival",
+      "version": 1,
+      "title": {
+        "zh": "涂色·节日",
+        "en": "Coloring · Festivals"
+      },
+      "summary": {
+        "zh": "4 张节日涂色画",
+        "en": "Four festival coloring pages"
+      },
+      "sizeBytes": 850,
+      "sha256": "36a798ce418ee6bd41db74a2d49e83b5a88b7cc607e67b5d0328cef40efb19e0",
+      "accessLevel": "free",
+      "contentTypes": [
+        "game.coloring"
+      ],
+      "urls": {
+        "cn": "https://gitee.com/zhongaiyemaozi_admin/clover-content/raw/content-2026-06-24-1/packs/coloring-festival.json",
+        "global": "https://raw.githubusercontent.com/zhongaiyemaozi/clover-content/content-2026-06-24-1/packs/coloring-festival.json",
+        "cdn": "https://fastly.jsdelivr.net/gh/zhongaiyemaozi/clover-content@content-2026-06-24-1/packs/coloring-festival.json",
+        "gcore": "https://gcore.jsdelivr.net/gh/zhongaiyemaozi/clover-content@content-2026-06-24-1/packs/coloring-festival.json"
+      }
+    },
+    {
+      "id": "coloring-food",
+      "version": 1,
+      "title": {
+        "zh": "涂色·食物",
+        "en": "Coloring · Food"
+      },
+      "summary": {
+        "zh": "4 张食物涂色画",
+        "en": "Four food coloring pages"
+      },
+      "sizeBytes": 831,
+      "sha256": "4d7d6c11f93e973517acc99975f297aedcc18c35c8a9f70181639a333a1aa0c7",
+      "accessLevel": "free",
+      "contentTypes": [
+        "game.coloring"
+      ],
+      "urls": {
+        "cn": "https://gitee.com/zhongaiyemaozi_admin/clover-content/raw/content-2026-06-24-1/packs/coloring-food.json",
+        "global": "https://raw.githubusercontent.com/zhongaiyemaozi/clover-content/content-2026-06-24-1/packs/coloring-food.json",
+        "cdn": "https://fastly.jsdelivr.net/gh/zhongaiyemaozi/clover-content@content-2026-06-24-1/packs/coloring-food.json",
+        "gcore": "https://gcore.jsdelivr.net/gh/zhongaiyemaozi/clover-content@content-2026-06-24-1/packs/coloring-food.json"
+      }
+    },
+    {
+      "id": "coloring-nature",
+      "version": 1,
+      "title": {
+        "zh": "涂色·自然",
+        "en": "Coloring · Nature"
+      },
+      "summary": {
+        "zh": "4 张自然涂色画",
+        "en": "Four nature coloring pages"
+      },
+      "sizeBytes": 833,
+      "sha256": "48f3c4cc7329c76647ce3ce68e0f989ecca3fca4c15f9e2834abe920cd53a3ca",
+      "accessLevel": "free",
+      "contentTypes": [
+        "game.coloring"
+      ],
+      "urls": {
+        "cn": "https://gitee.com/zhongaiyemaozi_admin/clover-content/raw/content-2026-06-24-1/packs/coloring-nature.json",
+        "global": "https://raw.githubusercontent.com/zhongaiyemaozi/clover-content/content-2026-06-24-1/packs/coloring-nature.json",
+        "cdn": "https://fastly.jsdelivr.net/gh/zhongaiyemaozi/clover-content@content-2026-06-24-1/packs/coloring-nature.json",
+        "gcore": "https://gcore.jsdelivr.net/gh/zhongaiyemaozi/clover-content@content-2026-06-24-1/packs/coloring-nature.json"
+      }
+    },
+    {
+      "id": "coloring-vehicles",
+      "version": 1,
+      "title": {
+        "zh": "涂色·交通工具",
+        "en": "Coloring · Vehicles"
+      },
+      "summary": {
+        "zh": "4 张交通工具涂色画",
+        "en": "Four vehicle coloring pages"
+      },
+      "sizeBytes": 843,
+      "sha256": "ca51febf747a68ebdf0122d4a1e51c76ddf0037a8b0165348099cb5b5b93f375",
+      "accessLevel": "free",
+      "contentTypes": [
+        "game.coloring"
+      ],
+      "urls": {
+        "cn": "https://gitee.com/zhongaiyemaozi_admin/clover-content/raw/content-2026-06-24-1/packs/coloring-vehicles.json",
+        "global": "https://raw.githubusercontent.com/zhongaiyemaozi/clover-content/content-2026-06-24-1/packs/coloring-vehicles.json",
+        "cdn": "https://fastly.jsdelivr.net/gh/zhongaiyemaozi/clover-content@content-2026-06-24-1/packs/coloring-vehicles.json",
+        "gcore": "https://gcore.jsdelivr.net/gh/zhongaiyemaozi/clover-content@content-2026-06-24-1/packs/coloring-vehicles.json"
+      }
+    },
+    {
+      "id": "connect-boat",
+      "version": 1,
+      "title": {
+        "zh": "连线成图·小船",
+        "en": "Connect the Dots · Boat"
+      },
+      "summary": {
+        "zh": "连线画出一只小船",
+        "en": "Connect dots to draw a boat"
+      },
+      "sizeBytes": 1089,
+      "sha256": "c801811d4cb7a66a307de1140efb34f25a729b8a850c000ed67de8d12ec5423e",
+      "accessLevel": "free",
+      "contentTypes": [
+        "game.numberConnect"
+      ],
+      "urls": {
+        "cn": "https://gitee.com/zhongaiyemaozi_admin/clover-content/raw/content-2026-06-24-1/packs/connect-boat.json",
+        "global": "https://raw.githubusercontent.com/zhongaiyemaozi/clover-content/content-2026-06-24-1/packs/connect-boat.json",
+        "cdn": "https://fastly.jsdelivr.net/gh/zhongaiyemaozi/clover-content@content-2026-06-24-1/packs/connect-boat.json",
+        "gcore": "https://gcore.jsdelivr.net/gh/zhongaiyemaozi/clover-content@content-2026-06-24-1/packs/connect-boat.json"
+      }
+    },
+    {
+      "id": "connect-heart",
+      "version": 1,
+      "title": {
+        "zh": "连线成图·爱心",
+        "en": "Connect the Dots · Heart"
+      },
+      "summary": {
+        "zh": "连线画出一颗爱心",
+        "en": "Connect dots to draw a heart"
+      },
+      "sizeBytes": 1302,
+      "sha256": "a787fa231c4db5f9107081088f272cdd89ea05ed5fc6f353000a6b24f0dd0beb",
+      "accessLevel": "free",
+      "contentTypes": [
+        "game.numberConnect"
+      ],
+      "urls": {
+        "cn": "https://gitee.com/zhongaiyemaozi_admin/clover-content/raw/content-2026-06-24-1/packs/connect-heart.json",
+        "global": "https://raw.githubusercontent.com/zhongaiyemaozi/clover-content/content-2026-06-24-1/packs/connect-heart.json",
+        "cdn": "https://fastly.jsdelivr.net/gh/zhongaiyemaozi/clover-content@content-2026-06-24-1/packs/connect-heart.json",
+        "gcore": "https://gcore.jsdelivr.net/gh/zhongaiyemaozi/clover-content@content-2026-06-24-1/packs/connect-heart.json"
+      }
+    },
+    {
+      "id": "connect-house",
+      "version": 1,
+      "title": {
+        "zh": "连线成图·房子",
+        "en": "Connect the Dots · House"
+      },
+      "summary": {
+        "zh": "连线画出一座房子",
+        "en": "Connect dots to draw a house"
+      },
+      "sizeBytes": 1197,
+      "sha256": "363760cb638bd8115b4bf804a16ffec5715f37c2b8690f3e11c7173d3152d2a7",
+      "accessLevel": "free",
+      "contentTypes": [
+        "game.numberConnect"
+      ],
+      "urls": {
+        "cn": "https://gitee.com/zhongaiyemaozi_admin/clover-content/raw/content-2026-06-24-1/packs/connect-house.json",
+        "global": "https://raw.githubusercontent.com/zhongaiyemaozi/clover-content/content-2026-06-24-1/packs/connect-house.json",
+        "cdn": "https://fastly.jsdelivr.net/gh/zhongaiyemaozi/clover-content@content-2026-06-24-1/packs/connect-house.json",
+        "gcore": "https://gcore.jsdelivr.net/gh/zhongaiyemaozi/clover-content@content-2026-06-24-1/packs/connect-house.json"
+      }
+    },
+    {
+      "id": "connect-shapes-1",
+      "version": 1,
+      "title": {
+        "zh": "连线成图·形状一",
+        "en": "Connect the Dots · Shapes 1"
+      },
+      "summary": {
+        "zh": "连线画出方形和三角",
+        "en": "Connect dots to draw a square and triangle"
+      },
+      "sizeBytes": 1484,
+      "sha256": "5363db26536002819ecca67de0192d101896efb10f4c24c68f4b236e5b9e74bb",
+      "accessLevel": "free",
+      "contentTypes": [
+        "game.numberConnect"
+      ],
+      "urls": {
+        "cn": "https://gitee.com/zhongaiyemaozi_admin/clover-content/raw/content-2026-06-24-1/packs/connect-shapes-1.json",
+        "global": "https://raw.githubusercontent.com/zhongaiyemaozi/clover-content/content-2026-06-24-1/packs/connect-shapes-1.json",
+        "cdn": "https://fastly.jsdelivr.net/gh/zhongaiyemaozi/clover-content@content-2026-06-24-1/packs/connect-shapes-1.json",
+        "gcore": "https://gcore.jsdelivr.net/gh/zhongaiyemaozi/clover-content@content-2026-06-24-1/packs/connect-shapes-1.json"
+      }
+    },
+    {
+      "id": "connect-shapes-2",
+      "version": 1,
+      "title": {
+        "zh": "连线成图·形状二",
+        "en": "Connect the Dots · Shapes 2"
+      },
+      "summary": {
+        "zh": "连线画出星星和菱形",
+        "en": "Connect dots to draw a star and diamond"
+      },
+      "sizeBytes": 1692,
+      "sha256": "c9e8fb338f680933467e5fbf5677f0667ff2301479fb3812af276e52df2493b2",
+      "accessLevel": "free",
+      "contentTypes": [
+        "game.numberConnect"
+      ],
+      "urls": {
+        "cn": "https://gitee.com/zhongaiyemaozi_admin/clover-content/raw/content-2026-06-24-1/packs/connect-shapes-2.json",
+        "global": "https://raw.githubusercontent.com/zhongaiyemaozi/clover-content/content-2026-06-24-1/packs/connect-shapes-2.json",
+        "cdn": "https://fastly.jsdelivr.net/gh/zhongaiyemaozi/clover-content@content-2026-06-24-1/packs/connect-shapes-2.json",
+        "gcore": "https://gcore.jsdelivr.net/gh/zhongaiyemaozi/clover-content@content-2026-06-24-1/packs/connect-shapes-2.json"
+      }
+    },
+    {
       "id": "core-child-safety",
       "version": 1,
       "title": {
@@ -21,11 +261,14 @@
       "sizeBytes": 5549,
       "sha256": "c43394e41472f2431ba8d48e3f9dd0e5f51f5d2582cf6cb8500dc29be855c0b7",
       "accessLevel": "free",
+      "contentTypes": [
+        "learning.categories"
+      ],
       "urls": {
-        "cn": "https://gitee.com/zhongaiyemaozi_admin/clover-content/raw/content-2026-06-15-1/packs/core-child-safety.json",
-        "global": "https://raw.githubusercontent.com/zhongaiyemaozi/clover-content/content-2026-06-15-1/packs/core-child-safety.json",
-        "cdn": "https://fastly.jsdelivr.net/gh/zhongaiyemaozi/clover-content@content-2026-06-15-1/packs/core-child-safety.json",
-        "gcore": "https://gcore.jsdelivr.net/gh/zhongaiyemaozi/clover-content@content-2026-06-15-1/packs/core-child-safety.json"
+        "cn": "https://gitee.com/zhongaiyemaozi_admin/clover-content/raw/content-2026-06-24-1/packs/core-child-safety.json",
+        "global": "https://raw.githubusercontent.com/zhongaiyemaozi/clover-content/content-2026-06-24-1/packs/core-child-safety.json",
+        "cdn": "https://fastly.jsdelivr.net/gh/zhongaiyemaozi/clover-content@content-2026-06-24-1/packs/core-child-safety.json",
+        "gcore": "https://gcore.jsdelivr.net/gh/zhongaiyemaozi/clover-content@content-2026-06-24-1/packs/core-child-safety.json"
       }
     },
     {
@@ -42,11 +285,14 @@
       "sizeBytes": 5305,
       "sha256": "f26b58a5d4743d7d1061806556d0b98ba1e8ed3b3bc107e7fc572fa5a18529df",
       "accessLevel": "free",
+      "contentTypes": [
+        "learning.categories"
+      ],
       "urls": {
-        "cn": "https://gitee.com/zhongaiyemaozi_admin/clover-content/raw/content-2026-06-15-1/packs/core-emotions-social.json",
-        "global": "https://raw.githubusercontent.com/zhongaiyemaozi/clover-content/content-2026-06-15-1/packs/core-emotions-social.json",
-        "cdn": "https://fastly.jsdelivr.net/gh/zhongaiyemaozi/clover-content@content-2026-06-15-1/packs/core-emotions-social.json",
-        "gcore": "https://gcore.jsdelivr.net/gh/zhongaiyemaozi/clover-content@content-2026-06-15-1/packs/core-emotions-social.json"
+        "cn": "https://gitee.com/zhongaiyemaozi_admin/clover-content/raw/content-2026-06-24-1/packs/core-emotions-social.json",
+        "global": "https://raw.githubusercontent.com/zhongaiyemaozi/clover-content/content-2026-06-24-1/packs/core-emotions-social.json",
+        "cdn": "https://fastly.jsdelivr.net/gh/zhongaiyemaozi/clover-content@content-2026-06-24-1/packs/core-emotions-social.json",
+        "gcore": "https://gcore.jsdelivr.net/gh/zhongaiyemaozi/clover-content@content-2026-06-24-1/packs/core-emotions-social.json"
       }
     },
     {
@@ -63,11 +309,14 @@
       "sizeBytes": 5384,
       "sha256": "dba63e00cbb8bd26192ae2f46af659b2ff9ec06f9f327a2cff027d0ba4f8e3f8",
       "accessLevel": "free",
+      "contentTypes": [
+        "learning.categories"
+      ],
       "urls": {
-        "cn": "https://gitee.com/zhongaiyemaozi_admin/clover-content/raw/content-2026-06-15-1/packs/core-healthy-habits.json",
-        "global": "https://raw.githubusercontent.com/zhongaiyemaozi/clover-content/content-2026-06-15-1/packs/core-healthy-habits.json",
-        "cdn": "https://fastly.jsdelivr.net/gh/zhongaiyemaozi/clover-content@content-2026-06-15-1/packs/core-healthy-habits.json",
-        "gcore": "https://gcore.jsdelivr.net/gh/zhongaiyemaozi/clover-content@content-2026-06-15-1/packs/core-healthy-habits.json"
+        "cn": "https://gitee.com/zhongaiyemaozi_admin/clover-content/raw/content-2026-06-24-1/packs/core-healthy-habits.json",
+        "global": "https://raw.githubusercontent.com/zhongaiyemaozi/clover-content/content-2026-06-24-1/packs/core-healthy-habits.json",
+        "cdn": "https://fastly.jsdelivr.net/gh/zhongaiyemaozi/clover-content@content-2026-06-24-1/packs/core-healthy-habits.json",
+        "gcore": "https://gcore.jsdelivr.net/gh/zhongaiyemaozi/clover-content@content-2026-06-24-1/packs/core-healthy-habits.json"
       }
     },
     {
@@ -84,11 +333,134 @@
       "sizeBytes": 5444,
       "sha256": "c1d774fa1b321ce82546922d3d1e7e294ef63c4b0da58b6503cfdef44365136d",
       "accessLevel": "free",
+      "contentTypes": [
+        "learning.categories"
+      ],
       "urls": {
-        "cn": "https://gitee.com/zhongaiyemaozi_admin/clover-content/raw/content-2026-06-15-1/packs/core-kindergarten-readiness-plus.json",
-        "global": "https://raw.githubusercontent.com/zhongaiyemaozi/clover-content/content-2026-06-15-1/packs/core-kindergarten-readiness-plus.json",
-        "cdn": "https://fastly.jsdelivr.net/gh/zhongaiyemaozi/clover-content@content-2026-06-15-1/packs/core-kindergarten-readiness-plus.json",
-        "gcore": "https://gcore.jsdelivr.net/gh/zhongaiyemaozi/clover-content@content-2026-06-15-1/packs/core-kindergarten-readiness-plus.json"
+        "cn": "https://gitee.com/zhongaiyemaozi_admin/clover-content/raw/content-2026-06-24-1/packs/core-kindergarten-readiness-plus.json",
+        "global": "https://raw.githubusercontent.com/zhongaiyemaozi/clover-content/content-2026-06-24-1/packs/core-kindergarten-readiness-plus.json",
+        "cdn": "https://fastly.jsdelivr.net/gh/zhongaiyemaozi/clover-content@content-2026-06-24-1/packs/core-kindergarten-readiness-plus.json",
+        "gcore": "https://gcore.jsdelivr.net/gh/zhongaiyemaozi/clover-content@content-2026-06-24-1/packs/core-kindergarten-readiness-plus.json"
+      }
+    },
+    {
+      "id": "daily-add-1to10",
+      "version": 1,
+      "title": {
+        "zh": "每日挑战·加法10",
+        "en": "Daily · Add to 10"
+      },
+      "summary": {
+        "zh": "10 以内加法挑战",
+        "en": "Addition within 10"
+      },
+      "sizeBytes": 547,
+      "sha256": "4f6cbac92a365a5e92937ce35068c390296dc5b6438b803fcd15948e8ff3b2a6",
+      "accessLevel": "free",
+      "contentTypes": [
+        "game.dailyChallenge"
+      ],
+      "urls": {
+        "cn": "https://gitee.com/zhongaiyemaozi_admin/clover-content/raw/content-2026-06-24-1/packs/daily-add-1to10.json",
+        "global": "https://raw.githubusercontent.com/zhongaiyemaozi/clover-content/content-2026-06-24-1/packs/daily-add-1to10.json",
+        "cdn": "https://fastly.jsdelivr.net/gh/zhongaiyemaozi/clover-content@content-2026-06-24-1/packs/daily-add-1to10.json",
+        "gcore": "https://gcore.jsdelivr.net/gh/zhongaiyemaozi/clover-content@content-2026-06-24-1/packs/daily-add-1to10.json"
+      }
+    },
+    {
+      "id": "daily-add-to20",
+      "version": 1,
+      "title": {
+        "zh": "每日挑战·加法20",
+        "en": "Daily · Add to 20"
+      },
+      "summary": {
+        "zh": "20 以内加法挑战",
+        "en": "Addition within 20"
+      },
+      "sizeBytes": 550,
+      "sha256": "0ce9ae140dea4ace2058094f588c38b880ff814e4f9f296a103b399711e66fd2",
+      "accessLevel": "free",
+      "contentTypes": [
+        "game.dailyChallenge"
+      ],
+      "urls": {
+        "cn": "https://gitee.com/zhongaiyemaozi_admin/clover-content/raw/content-2026-06-24-1/packs/daily-add-to20.json",
+        "global": "https://raw.githubusercontent.com/zhongaiyemaozi/clover-content/content-2026-06-24-1/packs/daily-add-to20.json",
+        "cdn": "https://fastly.jsdelivr.net/gh/zhongaiyemaozi/clover-content@content-2026-06-24-1/packs/daily-add-to20.json",
+        "gcore": "https://gcore.jsdelivr.net/gh/zhongaiyemaozi/clover-content@content-2026-06-24-1/packs/daily-add-to20.json"
+      }
+    },
+    {
+      "id": "daily-mixed-20",
+      "version": 1,
+      "title": {
+        "zh": "每日挑战·混合20",
+        "en": "Daily · Mixed to 20"
+      },
+      "summary": {
+        "zh": "20 以内加减混合挑战",
+        "en": "Mixed add & subtract within 20"
+      },
+      "sizeBytes": 567,
+      "sha256": "7c36e9f63dfd01cb1d0e34cf13614c112111649ccfabdc4d62a8349df1db9a7d",
+      "accessLevel": "free",
+      "contentTypes": [
+        "game.dailyChallenge"
+      ],
+      "urls": {
+        "cn": "https://gitee.com/zhongaiyemaozi_admin/clover-content/raw/content-2026-06-24-1/packs/daily-mixed-20.json",
+        "global": "https://raw.githubusercontent.com/zhongaiyemaozi/clover-content/content-2026-06-24-1/packs/daily-mixed-20.json",
+        "cdn": "https://fastly.jsdelivr.net/gh/zhongaiyemaozi/clover-content@content-2026-06-24-1/packs/daily-mixed-20.json",
+        "gcore": "https://gcore.jsdelivr.net/gh/zhongaiyemaozi/clover-content@content-2026-06-24-1/packs/daily-mixed-20.json"
+      }
+    },
+    {
+      "id": "daily-mixed-50",
+      "version": 1,
+      "title": {
+        "zh": "每日挑战·进阶50",
+        "en": "Daily · Mixed to 50"
+      },
+      "summary": {
+        "zh": "50 以内加减混合挑战",
+        "en": "Mixed add & subtract within 50"
+      },
+      "sizeBytes": 569,
+      "sha256": "8a26b2a7a82057100ae53e838d7bba6828f057516ae888735478e077a12e70c5",
+      "accessLevel": "free",
+      "contentTypes": [
+        "game.dailyChallenge"
+      ],
+      "urls": {
+        "cn": "https://gitee.com/zhongaiyemaozi_admin/clover-content/raw/content-2026-06-24-1/packs/daily-mixed-50.json",
+        "global": "https://raw.githubusercontent.com/zhongaiyemaozi/clover-content/content-2026-06-24-1/packs/daily-mixed-50.json",
+        "cdn": "https://fastly.jsdelivr.net/gh/zhongaiyemaozi/clover-content@content-2026-06-24-1/packs/daily-mixed-50.json",
+        "gcore": "https://gcore.jsdelivr.net/gh/zhongaiyemaozi/clover-content@content-2026-06-24-1/packs/daily-mixed-50.json"
+      }
+    },
+    {
+      "id": "daily-sub-1to10",
+      "version": 1,
+      "title": {
+        "zh": "每日挑战·减法10",
+        "en": "Daily · Subtract to 10"
+      },
+      "summary": {
+        "zh": "10 以内减法挑战",
+        "en": "Subtraction within 10"
+      },
+      "sizeBytes": 558,
+      "sha256": "c3d047612bb8d7824c22f8ca1ea5b5874905b6e9be5253b57b3ae9e59dfeb96f",
+      "accessLevel": "free",
+      "contentTypes": [
+        "game.dailyChallenge"
+      ],
+      "urls": {
+        "cn": "https://gitee.com/zhongaiyemaozi_admin/clover-content/raw/content-2026-06-24-1/packs/daily-sub-1to10.json",
+        "global": "https://raw.githubusercontent.com/zhongaiyemaozi/clover-content/content-2026-06-24-1/packs/daily-sub-1to10.json",
+        "cdn": "https://fastly.jsdelivr.net/gh/zhongaiyemaozi/clover-content@content-2026-06-24-1/packs/daily-sub-1to10.json",
+        "gcore": "https://gcore.jsdelivr.net/gh/zhongaiyemaozi/clover-content@content-2026-06-24-1/packs/daily-sub-1to10.json"
       }
     },
     {
@@ -105,11 +477,14 @@
       "sizeBytes": 3993,
       "sha256": "cc4b4dc367a5a4b0477647dc738af04510f8a9a5a81681fa236f124454fc5ac9",
       "accessLevel": "free",
+      "contentTypes": [
+        "learning.categories"
+      ],
       "urls": {
-        "cn": "https://gitee.com/zhongaiyemaozi_admin/clover-content/raw/content-2026-06-15-1/packs/festival-christmas.json",
-        "global": "https://raw.githubusercontent.com/zhongaiyemaozi/clover-content/content-2026-06-15-1/packs/festival-christmas.json",
-        "cdn": "https://fastly.jsdelivr.net/gh/zhongaiyemaozi/clover-content@content-2026-06-15-1/packs/festival-christmas.json",
-        "gcore": "https://gcore.jsdelivr.net/gh/zhongaiyemaozi/clover-content@content-2026-06-15-1/packs/festival-christmas.json"
+        "cn": "https://gitee.com/zhongaiyemaozi_admin/clover-content/raw/content-2026-06-24-1/packs/festival-christmas.json",
+        "global": "https://raw.githubusercontent.com/zhongaiyemaozi/clover-content/content-2026-06-24-1/packs/festival-christmas.json",
+        "cdn": "https://fastly.jsdelivr.net/gh/zhongaiyemaozi/clover-content@content-2026-06-24-1/packs/festival-christmas.json",
+        "gcore": "https://gcore.jsdelivr.net/gh/zhongaiyemaozi/clover-content@content-2026-06-24-1/packs/festival-christmas.json"
       }
     },
     {
@@ -126,11 +501,14 @@
       "sizeBytes": 4889,
       "sha256": "75f443692d16c7a126734d8218c4296cb5c0dbb4bb2d79bddac40ab81284367f",
       "accessLevel": "free",
+      "contentTypes": [
+        "learning.categories"
+      ],
       "urls": {
-        "cn": "https://gitee.com/zhongaiyemaozi_admin/clover-content/raw/content-2026-06-15-1/packs/festival-cny.json",
-        "global": "https://raw.githubusercontent.com/zhongaiyemaozi/clover-content/content-2026-06-15-1/packs/festival-cny.json",
-        "cdn": "https://fastly.jsdelivr.net/gh/zhongaiyemaozi/clover-content@content-2026-06-15-1/packs/festival-cny.json",
-        "gcore": "https://gcore.jsdelivr.net/gh/zhongaiyemaozi/clover-content@content-2026-06-15-1/packs/festival-cny.json"
+        "cn": "https://gitee.com/zhongaiyemaozi_admin/clover-content/raw/content-2026-06-24-1/packs/festival-cny.json",
+        "global": "https://raw.githubusercontent.com/zhongaiyemaozi/clover-content/content-2026-06-24-1/packs/festival-cny.json",
+        "cdn": "https://fastly.jsdelivr.net/gh/zhongaiyemaozi/clover-content@content-2026-06-24-1/packs/festival-cny.json",
+        "gcore": "https://gcore.jsdelivr.net/gh/zhongaiyemaozi/clover-content@content-2026-06-24-1/packs/festival-cny.json"
       }
     },
     {
@@ -147,11 +525,1214 @@
       "sizeBytes": 4088,
       "sha256": "70197cb246764bb62fa55514a584ca46346bd42eafb6b9478d1a477d994c2c35",
       "accessLevel": "free",
+      "contentTypes": [
+        "learning.categories"
+      ],
       "urls": {
-        "cn": "https://gitee.com/zhongaiyemaozi_admin/clover-content/raw/content-2026-06-15-1/packs/festival-midautumn.json",
-        "global": "https://raw.githubusercontent.com/zhongaiyemaozi/clover-content/content-2026-06-15-1/packs/festival-midautumn.json",
-        "cdn": "https://fastly.jsdelivr.net/gh/zhongaiyemaozi/clover-content@content-2026-06-15-1/packs/festival-midautumn.json",
-        "gcore": "https://gcore.jsdelivr.net/gh/zhongaiyemaozi/clover-content@content-2026-06-15-1/packs/festival-midautumn.json"
+        "cn": "https://gitee.com/zhongaiyemaozi_admin/clover-content/raw/content-2026-06-24-1/packs/festival-midautumn.json",
+        "global": "https://raw.githubusercontent.com/zhongaiyemaozi/clover-content/content-2026-06-24-1/packs/festival-midautumn.json",
+        "cdn": "https://fastly.jsdelivr.net/gh/zhongaiyemaozi/clover-content@content-2026-06-24-1/packs/festival-midautumn.json",
+        "gcore": "https://gcore.jsdelivr.net/gh/zhongaiyemaozi/clover-content@content-2026-06-24-1/packs/festival-midautumn.json"
+      }
+    },
+    {
+      "id": "great-figures-artists",
+      "version": 1,
+      "title": {
+        "zh": "伟人·艺术与文学",
+        "en": "Great People · Artists & Writers"
+      },
+      "summary": {
+        "zh": "5 位用艺术打动世界的人",
+        "en": "Five who touched the world with art and words"
+      },
+      "sizeBytes": 5703,
+      "sha256": "a61a5a45d4060229093e717de23e9101eaf1328857a9eb066c2485bd88af77b4",
+      "accessLevel": "free",
+      "contentTypes": [
+        "great.figures"
+      ],
+      "urls": {
+        "cn": "https://gitee.com/zhongaiyemaozi_admin/clover-content/raw/content-2026-06-24-1/packs/great-figures-artists.json",
+        "global": "https://raw.githubusercontent.com/zhongaiyemaozi/clover-content/content-2026-06-24-1/packs/great-figures-artists.json",
+        "cdn": "https://fastly.jsdelivr.net/gh/zhongaiyemaozi/clover-content@content-2026-06-24-1/packs/great-figures-artists.json",
+        "gcore": "https://gcore.jsdelivr.net/gh/zhongaiyemaozi/clover-content@content-2026-06-24-1/packs/great-figures-artists.json"
+      }
+    },
+    {
+      "id": "great-figures-explorers",
+      "version": 1,
+      "title": {
+        "zh": "伟人·探索与远航",
+        "en": "Great People · Explorers & Pioneers"
+      },
+      "summary": {
+        "zh": "5 位勇敢探索世界的人",
+        "en": "Five brave people who explored the world"
+      },
+      "sizeBytes": 5660,
+      "sha256": "ee3fe73661f6ff9b836c871ba76ae9b44f9ef89eb3476a024422141909667e71",
+      "accessLevel": "free",
+      "contentTypes": [
+        "great.figures"
+      ],
+      "urls": {
+        "cn": "https://gitee.com/zhongaiyemaozi_admin/clover-content/raw/content-2026-06-24-1/packs/great-figures-explorers.json",
+        "global": "https://raw.githubusercontent.com/zhongaiyemaozi/clover-content/content-2026-06-24-1/packs/great-figures-explorers.json",
+        "cdn": "https://fastly.jsdelivr.net/gh/zhongaiyemaozi/clover-content@content-2026-06-24-1/packs/great-figures-explorers.json",
+        "gcore": "https://gcore.jsdelivr.net/gh/zhongaiyemaozi/clover-content@content-2026-06-24-1/packs/great-figures-explorers.json"
+      }
+    },
+    {
+      "id": "great-figures-inventors",
+      "version": 1,
+      "title": {
+        "zh": "伟人·发明与工程",
+        "en": "Great People · Inventors & Engineers"
+      },
+      "summary": {
+        "zh": "5 位改变生活的发明家与工程师",
+        "en": "Five inventors and engineers who changed daily life"
+      },
+      "sizeBytes": 5896,
+      "sha256": "1d92145c4af1d90f375f08ddd411b9101263b739215c143d54de111cf1bde156",
+      "accessLevel": "free",
+      "contentTypes": [
+        "great.figures"
+      ],
+      "urls": {
+        "cn": "https://gitee.com/zhongaiyemaozi_admin/clover-content/raw/content-2026-06-24-1/packs/great-figures-inventors.json",
+        "global": "https://raw.githubusercontent.com/zhongaiyemaozi/clover-content/content-2026-06-24-1/packs/great-figures-inventors.json",
+        "cdn": "https://fastly.jsdelivr.net/gh/zhongaiyemaozi/clover-content@content-2026-06-24-1/packs/great-figures-inventors.json",
+        "gcore": "https://gcore.jsdelivr.net/gh/zhongaiyemaozi/clover-content@content-2026-06-24-1/packs/great-figures-inventors.json"
+      }
+    },
+    {
+      "id": "great-figures-scientists",
+      "version": 1,
+      "title": {
+        "zh": "伟人·科学与思想",
+        "en": "Great People · Scientists & Thinkers"
+      },
+      "summary": {
+        "zh": "5 位探索世界奥秘的科学家",
+        "en": "Five scientists who explored the mysteries of the world"
+      },
+      "sizeBytes": 5850,
+      "sha256": "fb21137696e23368c1f85deb1a9658b969a746daeb963b9af51dc40ad0e4fdff",
+      "accessLevel": "free",
+      "contentTypes": [
+        "great.figures"
+      ],
+      "urls": {
+        "cn": "https://gitee.com/zhongaiyemaozi_admin/clover-content/raw/content-2026-06-24-1/packs/great-figures-scientists.json",
+        "global": "https://raw.githubusercontent.com/zhongaiyemaozi/clover-content/content-2026-06-24-1/packs/great-figures-scientists.json",
+        "cdn": "https://fastly.jsdelivr.net/gh/zhongaiyemaozi/clover-content@content-2026-06-24-1/packs/great-figures-scientists.json",
+        "gcore": "https://gcore.jsdelivr.net/gh/zhongaiyemaozi/clover-content@content-2026-06-24-1/packs/great-figures-scientists.json"
+      }
+    },
+    {
+      "id": "great-figures-world-plus",
+      "version": 1,
+      "title": {
+        "zh": "伟人殿堂·更多人物",
+        "en": "Great People · More Heroes"
+      },
+      "summary": {
+        "zh": "再认识 5 位中外伟人：孔子、蔡伦、伽利略、特斯拉、南丁格尔",
+        "en": "Meet 5 more great people from China and the world"
+      },
+      "sizeBytes": 6105,
+      "sha256": "76f72382d2c5d0c4a393a709b45a335ba55c3aa27792b38eacc111cff63bd4e0",
+      "accessLevel": "free",
+      "contentTypes": [
+        "great.figures"
+      ],
+      "urls": {
+        "cn": "https://gitee.com/zhongaiyemaozi_admin/clover-content/raw/content-2026-06-24-1/packs/great-figures-world-plus.json",
+        "global": "https://raw.githubusercontent.com/zhongaiyemaozi/clover-content/content-2026-06-24-1/packs/great-figures-world-plus.json",
+        "cdn": "https://fastly.jsdelivr.net/gh/zhongaiyemaozi/clover-content@content-2026-06-24-1/packs/great-figures-world-plus.json",
+        "gcore": "https://gcore.jsdelivr.net/gh/zhongaiyemaozi/clover-content@content-2026-06-24-1/packs/great-figures-world-plus.json"
+      }
+    },
+    {
+      "id": "learn-body",
+      "version": 1,
+      "title": {
+        "zh": "身体认知包",
+        "en": "My Body"
+      },
+      "summary": {
+        "zh": "认识 10 个身体部位",
+        "en": "10 parts of the body"
+      },
+      "sizeBytes": 4957,
+      "sha256": "469dd499b75da3701b7dfea360b15feb4432194671e2e32759d1ce782b6fa616",
+      "accessLevel": "free",
+      "contentTypes": [
+        "learning.categories"
+      ],
+      "urls": {
+        "cn": "https://gitee.com/zhongaiyemaozi_admin/clover-content/raw/content-2026-06-24-1/packs/learn-body.json",
+        "global": "https://raw.githubusercontent.com/zhongaiyemaozi/clover-content/content-2026-06-24-1/packs/learn-body.json",
+        "cdn": "https://fastly.jsdelivr.net/gh/zhongaiyemaozi/clover-content@content-2026-06-24-1/packs/learn-body.json",
+        "gcore": "https://gcore.jsdelivr.net/gh/zhongaiyemaozi/clover-content@content-2026-06-24-1/packs/learn-body.json"
+      }
+    },
+    {
+      "id": "learn-jobs",
+      "version": 1,
+      "title": {
+        "zh": "职业认知包",
+        "en": "Jobs & Helpers"
+      },
+      "summary": {
+        "zh": "认识 10 种职业",
+        "en": "10 community helpers and jobs"
+      },
+      "sizeBytes": 5211,
+      "sha256": "5ca8af8e59bbf4b1518719223f123779eecb960710e60886cb8aa509d862ce45",
+      "accessLevel": "free",
+      "contentTypes": [
+        "learning.categories"
+      ],
+      "urls": {
+        "cn": "https://gitee.com/zhongaiyemaozi_admin/clover-content/raw/content-2026-06-24-1/packs/learn-jobs.json",
+        "global": "https://raw.githubusercontent.com/zhongaiyemaozi/clover-content/content-2026-06-24-1/packs/learn-jobs.json",
+        "cdn": "https://fastly.jsdelivr.net/gh/zhongaiyemaozi/clover-content@content-2026-06-24-1/packs/learn-jobs.json",
+        "gcore": "https://gcore.jsdelivr.net/gh/zhongaiyemaozi/clover-content@content-2026-06-24-1/packs/learn-jobs.json"
+      }
+    },
+    {
+      "id": "learn-ocean-world",
+      "version": 1,
+      "title": {
+        "zh": "海洋世界包",
+        "en": "Ocean World"
+      },
+      "summary": {
+        "zh": "认识鲸鱼、海豚、章鱼等 10 个海洋动物",
+        "en": "10 ocean animals: whale, dolphin, octopus and more"
+      },
+      "sizeBytes": 5289,
+      "sha256": "0fd66fd500bb510de52733fa4febf75124fde2ab78808018a39867b05b657be5",
+      "accessLevel": "free",
+      "contentTypes": [
+        "learning.categories"
+      ],
+      "urls": {
+        "cn": "https://gitee.com/zhongaiyemaozi_admin/clover-content/raw/content-2026-06-24-1/packs/learn-ocean-world.json",
+        "global": "https://raw.githubusercontent.com/zhongaiyemaozi/clover-content/content-2026-06-24-1/packs/learn-ocean-world.json",
+        "cdn": "https://fastly.jsdelivr.net/gh/zhongaiyemaozi/clover-content@content-2026-06-24-1/packs/learn-ocean-world.json",
+        "gcore": "https://gcore.jsdelivr.net/gh/zhongaiyemaozi/clover-content@content-2026-06-24-1/packs/learn-ocean-world.json"
+      }
+    },
+    {
+      "id": "learn-space-explorers",
+      "version": 1,
+      "title": {
+        "zh": "太空探索包",
+        "en": "Space Explorers"
+      },
+      "summary": {
+        "zh": "认识太阳、月亮、行星和火箭等 10 个太空主题词",
+        "en": "10 space words: sun, moon, planets, rockets and more"
+      },
+      "sizeBytes": 5388,
+      "sha256": "14f3a341dad292e7aa2bc271881ea5951d5496ae225ac0cef2c29e1133895938",
+      "accessLevel": "free",
+      "contentTypes": [
+        "learning.categories"
+      ],
+      "urls": {
+        "cn": "https://gitee.com/zhongaiyemaozi_admin/clover-content/raw/content-2026-06-24-1/packs/learn-space-explorers.json",
+        "global": "https://raw.githubusercontent.com/zhongaiyemaozi/clover-content/content-2026-06-24-1/packs/learn-space-explorers.json",
+        "cdn": "https://fastly.jsdelivr.net/gh/zhongaiyemaozi/clover-content@content-2026-06-24-1/packs/learn-space-explorers.json",
+        "gcore": "https://gcore.jsdelivr.net/gh/zhongaiyemaozi/clover-content@content-2026-06-24-1/packs/learn-space-explorers.json"
+      }
+    },
+    {
+      "id": "learn-weather",
+      "version": 1,
+      "title": {
+        "zh": "天气认知包",
+        "en": "Weather & Sky"
+      },
+      "summary": {
+        "zh": "认识 10 种天气",
+        "en": "10 kinds of weather"
+      },
+      "sizeBytes": 5055,
+      "sha256": "e997d91f2d9402bc32750ae037834db39edd93acbe7d2441922e15edb01c9e45",
+      "accessLevel": "free",
+      "contentTypes": [
+        "learning.categories"
+      ],
+      "urls": {
+        "cn": "https://gitee.com/zhongaiyemaozi_admin/clover-content/raw/content-2026-06-24-1/packs/learn-weather.json",
+        "global": "https://raw.githubusercontent.com/zhongaiyemaozi/clover-content/content-2026-06-24-1/packs/learn-weather.json",
+        "cdn": "https://fastly.jsdelivr.net/gh/zhongaiyemaozi/clover-content@content-2026-06-24-1/packs/learn-weather.json",
+        "gcore": "https://gcore.jsdelivr.net/gh/zhongaiyemaozi/clover-content@content-2026-06-24-1/packs/learn-weather.json"
+      }
+    },
+    {
+      "id": "quiz-animals",
+      "version": 1,
+      "title": {
+        "zh": "测验·动物",
+        "en": "Quiz · Animals"
+      },
+      "summary": {
+        "zh": "动物图文听音测验",
+        "en": "Picture and sound quiz about animals"
+      },
+      "sizeBytes": 774,
+      "sha256": "039eba472259c33bdfd858091c5394d85d06fe3b6b32d89e843a2052fd030d2e",
+      "accessLevel": "free",
+      "contentTypes": [
+        "quiz.packs"
+      ],
+      "urls": {
+        "cn": "https://gitee.com/zhongaiyemaozi_admin/clover-content/raw/content-2026-06-24-1/packs/quiz-animals.json",
+        "global": "https://raw.githubusercontent.com/zhongaiyemaozi/clover-content/content-2026-06-24-1/packs/quiz-animals.json",
+        "cdn": "https://fastly.jsdelivr.net/gh/zhongaiyemaozi/clover-content@content-2026-06-24-1/packs/quiz-animals.json",
+        "gcore": "https://gcore.jsdelivr.net/gh/zhongaiyemaozi/clover-content@content-2026-06-24-1/packs/quiz-animals.json"
+      }
+    },
+    {
+      "id": "quiz-colors",
+      "version": 1,
+      "title": {
+        "zh": "测验·颜色",
+        "en": "Quiz · Colors"
+      },
+      "summary": {
+        "zh": "颜色认知测验",
+        "en": "Quiz about colors"
+      },
+      "sizeBytes": 714,
+      "sha256": "b6d96abc04493f2d03c601bc1e8bd347c74d5520997543343221e59eff3f5163",
+      "accessLevel": "free",
+      "contentTypes": [
+        "quiz.packs"
+      ],
+      "urls": {
+        "cn": "https://gitee.com/zhongaiyemaozi_admin/clover-content/raw/content-2026-06-24-1/packs/quiz-colors.json",
+        "global": "https://raw.githubusercontent.com/zhongaiyemaozi/clover-content/content-2026-06-24-1/packs/quiz-colors.json",
+        "cdn": "https://fastly.jsdelivr.net/gh/zhongaiyemaozi/clover-content@content-2026-06-24-1/packs/quiz-colors.json",
+        "gcore": "https://gcore.jsdelivr.net/gh/zhongaiyemaozi/clover-content@content-2026-06-24-1/packs/quiz-colors.json"
+      }
+    },
+    {
+      "id": "quiz-fruits",
+      "version": 1,
+      "title": {
+        "zh": "测验·水果蔬菜",
+        "en": "Quiz · Fruits & Veggies"
+      },
+      "summary": {
+        "zh": "水果蔬菜测验",
+        "en": "Quiz about fruits and vegetables"
+      },
+      "sizeBytes": 767,
+      "sha256": "1cfd8709281fcc0117b9306e44105e551d9e01b9fd11325fbb4d6d0b292b694f",
+      "accessLevel": "free",
+      "contentTypes": [
+        "quiz.packs"
+      ],
+      "urls": {
+        "cn": "https://gitee.com/zhongaiyemaozi_admin/clover-content/raw/content-2026-06-24-1/packs/quiz-fruits.json",
+        "global": "https://raw.githubusercontent.com/zhongaiyemaozi/clover-content/content-2026-06-24-1/packs/quiz-fruits.json",
+        "cdn": "https://fastly.jsdelivr.net/gh/zhongaiyemaozi/clover-content@content-2026-06-24-1/packs/quiz-fruits.json",
+        "gcore": "https://gcore.jsdelivr.net/gh/zhongaiyemaozi/clover-content@content-2026-06-24-1/packs/quiz-fruits.json"
+      }
+    },
+    {
+      "id": "quiz-numbers",
+      "version": 1,
+      "title": {
+        "zh": "测验·数字",
+        "en": "Quiz · Numbers"
+      },
+      "summary": {
+        "zh": "数字与数量测验",
+        "en": "Quiz about numbers and quantity"
+      },
+      "sizeBytes": 751,
+      "sha256": "5c9937cefba1d9d0528df7f0591fe3ec05701ea4b78e7d994a256b62b583b9e9",
+      "accessLevel": "free",
+      "contentTypes": [
+        "quiz.packs"
+      ],
+      "urls": {
+        "cn": "https://gitee.com/zhongaiyemaozi_admin/clover-content/raw/content-2026-06-24-1/packs/quiz-numbers.json",
+        "global": "https://raw.githubusercontent.com/zhongaiyemaozi/clover-content/content-2026-06-24-1/packs/quiz-numbers.json",
+        "cdn": "https://fastly.jsdelivr.net/gh/zhongaiyemaozi/clover-content@content-2026-06-24-1/packs/quiz-numbers.json",
+        "gcore": "https://gcore.jsdelivr.net/gh/zhongaiyemaozi/clover-content@content-2026-06-24-1/packs/quiz-numbers.json"
+      }
+    },
+    {
+      "id": "quiz-shapes",
+      "version": 1,
+      "title": {
+        "zh": "测验·形状",
+        "en": "Quiz · Shapes"
+      },
+      "summary": {
+        "zh": "形状认知测验",
+        "en": "Quiz about shapes"
+      },
+      "sizeBytes": 717,
+      "sha256": "dbb76ce7d46c54a248750b40871a50b6909894263977367536759a241df696c6",
+      "accessLevel": "free",
+      "contentTypes": [
+        "quiz.packs"
+      ],
+      "urls": {
+        "cn": "https://gitee.com/zhongaiyemaozi_admin/clover-content/raw/content-2026-06-24-1/packs/quiz-shapes.json",
+        "global": "https://raw.githubusercontent.com/zhongaiyemaozi/clover-content/content-2026-06-24-1/packs/quiz-shapes.json",
+        "cdn": "https://fastly.jsdelivr.net/gh/zhongaiyemaozi/clover-content@content-2026-06-24-1/packs/quiz-shapes.json",
+        "gcore": "https://gcore.jsdelivr.net/gh/zhongaiyemaozi/clover-content@content-2026-06-24-1/packs/quiz-shapes.json"
+      }
+    },
+    {
+      "id": "sorting-aesop2",
+      "version": 1,
+      "title": {
+        "zh": "故事排序·寓言二",
+        "en": "Story Sorting · Fables 2"
+      },
+      "summary": {
+        "zh": "更多寓言排序",
+        "en": "Sort more fables"
+      },
+      "sizeBytes": 436,
+      "sha256": "d504ffeafe67e12e870b2bec19a30d4041e4811dba3c20f055e0bfb2fa861338",
+      "accessLevel": "free",
+      "contentTypes": [
+        "game.storySorting"
+      ],
+      "urls": {
+        "cn": "https://gitee.com/zhongaiyemaozi_admin/clover-content/raw/content-2026-06-24-1/packs/sorting-aesop2.json",
+        "global": "https://raw.githubusercontent.com/zhongaiyemaozi/clover-content/content-2026-06-24-1/packs/sorting-aesop2.json",
+        "cdn": "https://fastly.jsdelivr.net/gh/zhongaiyemaozi/clover-content@content-2026-06-24-1/packs/sorting-aesop2.json",
+        "gcore": "https://gcore.jsdelivr.net/gh/zhongaiyemaozi/clover-content@content-2026-06-24-1/packs/sorting-aesop2.json"
+      }
+    },
+    {
+      "id": "sorting-animals",
+      "version": 1,
+      "title": {
+        "zh": "故事排序·动物",
+        "en": "Story Sorting · Animals"
+      },
+      "summary": {
+        "zh": "动物故事排序",
+        "en": "Sort animal stories"
+      },
+      "sizeBytes": 437,
+      "sha256": "8a5b51132ba404695829009e87c6c6b4dba682d63d5c8ff54788c2e3e60acbde",
+      "accessLevel": "free",
+      "contentTypes": [
+        "game.storySorting"
+      ],
+      "urls": {
+        "cn": "https://gitee.com/zhongaiyemaozi_admin/clover-content/raw/content-2026-06-24-1/packs/sorting-animals.json",
+        "global": "https://raw.githubusercontent.com/zhongaiyemaozi/clover-content/content-2026-06-24-1/packs/sorting-animals.json",
+        "cdn": "https://fastly.jsdelivr.net/gh/zhongaiyemaozi/clover-content@content-2026-06-24-1/packs/sorting-animals.json",
+        "gcore": "https://gcore.jsdelivr.net/gh/zhongaiyemaozi/clover-content@content-2026-06-24-1/packs/sorting-animals.json"
+      }
+    },
+    {
+      "id": "sorting-bedtime",
+      "version": 1,
+      "title": {
+        "zh": "故事排序·睡前",
+        "en": "Story Sorting · Bedtime"
+      },
+      "summary": {
+        "zh": "睡前故事排序",
+        "en": "Sort bedtime stories"
+      },
+      "sizeBytes": 435,
+      "sha256": "1da954486cda0f5e55ffdf933337760b0ede95b45d5c81abed2f5a8340a7af65",
+      "accessLevel": "free",
+      "contentTypes": [
+        "game.storySorting"
+      ],
+      "urls": {
+        "cn": "https://gitee.com/zhongaiyemaozi_admin/clover-content/raw/content-2026-06-24-1/packs/sorting-bedtime.json",
+        "global": "https://raw.githubusercontent.com/zhongaiyemaozi/clover-content/content-2026-06-24-1/packs/sorting-bedtime.json",
+        "cdn": "https://fastly.jsdelivr.net/gh/zhongaiyemaozi/clover-content@content-2026-06-24-1/packs/sorting-bedtime.json",
+        "gcore": "https://gcore.jsdelivr.net/gh/zhongaiyemaozi/clover-content@content-2026-06-24-1/packs/sorting-bedtime.json"
+      }
+    },
+    {
+      "id": "sorting-china",
+      "version": 1,
+      "title": {
+        "zh": "故事排序·中国",
+        "en": "Story Sorting · Chinese"
+      },
+      "summary": {
+        "zh": "中国传统故事排序",
+        "en": "Sort Chinese folk tales"
+      },
+      "sizeBytes": 448,
+      "sha256": "aefc1fb4bce8275a00f75501f4455ac111435f37ce5500dadf61af279f231f10",
+      "accessLevel": "free",
+      "contentTypes": [
+        "game.storySorting"
+      ],
+      "urls": {
+        "cn": "https://gitee.com/zhongaiyemaozi_admin/clover-content/raw/content-2026-06-24-1/packs/sorting-china.json",
+        "global": "https://raw.githubusercontent.com/zhongaiyemaozi/clover-content/content-2026-06-24-1/packs/sorting-china.json",
+        "cdn": "https://fastly.jsdelivr.net/gh/zhongaiyemaozi/clover-content@content-2026-06-24-1/packs/sorting-china.json",
+        "gcore": "https://gcore.jsdelivr.net/gh/zhongaiyemaozi/clover-content@content-2026-06-24-1/packs/sorting-china.json"
+      }
+    },
+    {
+      "id": "sorting-fables",
+      "version": 1,
+      "title": {
+        "zh": "故事排序·寓言",
+        "en": "Story Sorting · Fables"
+      },
+      "summary": {
+        "zh": "寓言故事排序",
+        "en": "Sort fable stories"
+      },
+      "sizeBytes": 466,
+      "sha256": "71b2d32c199d233f5fd86fa8d11b99d6b4b010b2f819243ff3df3615df35a657",
+      "accessLevel": "free",
+      "contentTypes": [
+        "game.storySorting"
+      ],
+      "urls": {
+        "cn": "https://gitee.com/zhongaiyemaozi_admin/clover-content/raw/content-2026-06-24-1/packs/sorting-fables.json",
+        "global": "https://raw.githubusercontent.com/zhongaiyemaozi/clover-content/content-2026-06-24-1/packs/sorting-fables.json",
+        "cdn": "https://fastly.jsdelivr.net/gh/zhongaiyemaozi/clover-content@content-2026-06-24-1/packs/sorting-fables.json",
+        "gcore": "https://gcore.jsdelivr.net/gh/zhongaiyemaozi/clover-content@content-2026-06-24-1/packs/sorting-fables.json"
+      }
+    },
+    {
+      "id": "stories-aesop-two",
+      "version": 1,
+      "title": {
+        "zh": "寓言故事·二",
+        "en": "Fables · Volume Two"
+      },
+      "summary": {
+        "zh": "2 篇双语寓言",
+        "en": "Two more bilingual fables"
+      },
+      "sizeBytes": 2457,
+      "sha256": "af4517f5da3a64d7a19d65a93e32ac699926ded5b61773e00f75f36f310cea45",
+      "accessLevel": "free",
+      "contentTypes": [
+        "stories"
+      ],
+      "urls": {
+        "cn": "https://gitee.com/zhongaiyemaozi_admin/clover-content/raw/content-2026-06-24-1/packs/stories-aesop-two.json",
+        "global": "https://raw.githubusercontent.com/zhongaiyemaozi/clover-content/content-2026-06-24-1/packs/stories-aesop-two.json",
+        "cdn": "https://fastly.jsdelivr.net/gh/zhongaiyemaozi/clover-content@content-2026-06-24-1/packs/stories-aesop-two.json",
+        "gcore": "https://gcore.jsdelivr.net/gh/zhongaiyemaozi/clover-content@content-2026-06-24-1/packs/stories-aesop-two.json"
+      }
+    },
+    {
+      "id": "stories-animals",
+      "version": 1,
+      "title": {
+        "zh": "动物小故事",
+        "en": "Animal Stories"
+      },
+      "summary": {
+        "zh": "2 篇双语动物故事",
+        "en": "Two bilingual animal stories"
+      },
+      "sizeBytes": 2489,
+      "sha256": "0e228abe46de226d94d62933c86ec65652c16edeb021dd8bc3ba716a02ab3794",
+      "accessLevel": "free",
+      "contentTypes": [
+        "stories"
+      ],
+      "urls": {
+        "cn": "https://gitee.com/zhongaiyemaozi_admin/clover-content/raw/content-2026-06-24-1/packs/stories-animals.json",
+        "global": "https://raw.githubusercontent.com/zhongaiyemaozi/clover-content/content-2026-06-24-1/packs/stories-animals.json",
+        "cdn": "https://fastly.jsdelivr.net/gh/zhongaiyemaozi/clover-content@content-2026-06-24-1/packs/stories-animals.json",
+        "gcore": "https://gcore.jsdelivr.net/gh/zhongaiyemaozi/clover-content@content-2026-06-24-1/packs/stories-animals.json"
+      }
+    },
+    {
+      "id": "stories-china",
+      "version": 1,
+      "title": {
+        "zh": "中国传统故事",
+        "en": "Chinese Folk Tales"
+      },
+      "summary": {
+        "zh": "2 篇双语中国传统故事",
+        "en": "Two bilingual Chinese folk tales"
+      },
+      "sizeBytes": 2555,
+      "sha256": "d341e608ed696598911c57e79f935908b51b19169e53d79dedfd7c584ecd5e95",
+      "accessLevel": "free",
+      "contentTypes": [
+        "stories"
+      ],
+      "urls": {
+        "cn": "https://gitee.com/zhongaiyemaozi_admin/clover-content/raw/content-2026-06-24-1/packs/stories-china.json",
+        "global": "https://raw.githubusercontent.com/zhongaiyemaozi/clover-content/content-2026-06-24-1/packs/stories-china.json",
+        "cdn": "https://fastly.jsdelivr.net/gh/zhongaiyemaozi/clover-content@content-2026-06-24-1/packs/stories-china.json",
+        "gcore": "https://gcore.jsdelivr.net/gh/zhongaiyemaozi/clover-content@content-2026-06-24-1/packs/stories-china.json"
+      }
+    },
+    {
+      "id": "stories-classic-fables",
+      "version": 1,
+      "title": {
+        "zh": "经典寓言故事",
+        "en": "Classic Fables"
+      },
+      "summary": {
+        "zh": "3 篇双语伊索寓言：狮子与老鼠、蚂蚁与蚱蜢、太阳与风",
+        "en": "Three bilingual Aesop fables for read-aloud time"
+      },
+      "sizeBytes": 3985,
+      "sha256": "e946a412f633bc050117c56f7b710ec5d46ec653ea739c1dc15caa23c08c3a1b",
+      "accessLevel": "free",
+      "contentTypes": [
+        "stories"
+      ],
+      "urls": {
+        "cn": "https://gitee.com/zhongaiyemaozi_admin/clover-content/raw/content-2026-06-24-1/packs/stories-classic-fables.json",
+        "global": "https://raw.githubusercontent.com/zhongaiyemaozi/clover-content/content-2026-06-24-1/packs/stories-classic-fables.json",
+        "cdn": "https://fastly.jsdelivr.net/gh/zhongaiyemaozi/clover-content@content-2026-06-24-1/packs/stories-classic-fables.json",
+        "gcore": "https://gcore.jsdelivr.net/gh/zhongaiyemaozi/clover-content@content-2026-06-24-1/packs/stories-classic-fables.json"
+      }
+    },
+    {
+      "id": "stories-fairy",
+      "version": 1,
+      "title": {
+        "zh": "睡前小故事",
+        "en": "Bedtime Tales"
+      },
+      "summary": {
+        "zh": "2 篇温馨双语小故事",
+        "en": "Two gentle bilingual bedtime stories"
+      },
+      "sizeBytes": 2453,
+      "sha256": "e652be5080746f434ab528079c15fe59edd8d060c1f1990a3c21da032c7c2f85",
+      "accessLevel": "free",
+      "contentTypes": [
+        "stories"
+      ],
+      "urls": {
+        "cn": "https://gitee.com/zhongaiyemaozi_admin/clover-content/raw/content-2026-06-24-1/packs/stories-fairy.json",
+        "global": "https://raw.githubusercontent.com/zhongaiyemaozi/clover-content/content-2026-06-24-1/packs/stories-fairy.json",
+        "cdn": "https://fastly.jsdelivr.net/gh/zhongaiyemaozi/clover-content@content-2026-06-24-1/packs/stories-fairy.json",
+        "gcore": "https://gcore.jsdelivr.net/gh/zhongaiyemaozi/clover-content@content-2026-06-24-1/packs/stories-fairy.json"
+      }
+    },
+    {
+      "id": "strokes-basic2",
+      "version": 1,
+      "title": {
+        "zh": "笔顺复习·基础",
+        "en": "Stroke Order · Basics"
+      },
+      "summary": {
+        "zh": "基础常用字笔顺复习",
+        "en": "Stroke order for basic characters"
+      },
+      "sizeBytes": 42141,
+      "sha256": "1dfcc3efc9dce58cc90cf788a81f6d456c9b8da200786228ab99539b53385f5b",
+      "accessLevel": "free",
+      "contentTypes": [
+        "stroke.order"
+      ],
+      "urls": {
+        "cn": "https://gitee.com/zhongaiyemaozi_admin/clover-content/raw/content-2026-06-24-1/packs/strokes-basic2.json",
+        "global": "https://raw.githubusercontent.com/zhongaiyemaozi/clover-content/content-2026-06-24-1/packs/strokes-basic2.json",
+        "cdn": "https://fastly.jsdelivr.net/gh/zhongaiyemaozi/clover-content@content-2026-06-24-1/packs/strokes-basic2.json",
+        "gcore": "https://gcore.jsdelivr.net/gh/zhongaiyemaozi/clover-content@content-2026-06-24-1/packs/strokes-basic2.json"
+      }
+    },
+    {
+      "id": "strokes-body",
+      "version": 1,
+      "title": {
+        "zh": "笔顺复习·身体",
+        "en": "Stroke Order · Body"
+      },
+      "summary": {
+        "zh": "身体汉字笔顺复习",
+        "en": "Stroke order for body characters"
+      },
+      "sizeBytes": 31284,
+      "sha256": "856f2eec9becc0f688ffcf8742b6e1361ecab2b735442b71ee82ee52e8a4b755",
+      "accessLevel": "free",
+      "contentTypes": [
+        "stroke.order"
+      ],
+      "urls": {
+        "cn": "https://gitee.com/zhongaiyemaozi_admin/clover-content/raw/content-2026-06-24-1/packs/strokes-body.json",
+        "global": "https://raw.githubusercontent.com/zhongaiyemaozi/clover-content/content-2026-06-24-1/packs/strokes-body.json",
+        "cdn": "https://fastly.jsdelivr.net/gh/zhongaiyemaozi/clover-content@content-2026-06-24-1/packs/strokes-body.json",
+        "gcore": "https://gcore.jsdelivr.net/gh/zhongaiyemaozi/clover-content@content-2026-06-24-1/packs/strokes-body.json"
+      }
+    },
+    {
+      "id": "strokes-nature",
+      "version": 1,
+      "title": {
+        "zh": "笔顺复习·自然",
+        "en": "Stroke Order · Nature"
+      },
+      "summary": {
+        "zh": "自然汉字笔顺复习",
+        "en": "Stroke order for nature characters"
+      },
+      "sizeBytes": 29819,
+      "sha256": "561311843d93601a12e7a9c2f9c1941141ff9591fe1d73bee19de7127055275b",
+      "accessLevel": "free",
+      "contentTypes": [
+        "stroke.order"
+      ],
+      "urls": {
+        "cn": "https://gitee.com/zhongaiyemaozi_admin/clover-content/raw/content-2026-06-24-1/packs/strokes-nature.json",
+        "global": "https://raw.githubusercontent.com/zhongaiyemaozi/clover-content/content-2026-06-24-1/packs/strokes-nature.json",
+        "cdn": "https://fastly.jsdelivr.net/gh/zhongaiyemaozi/clover-content@content-2026-06-24-1/packs/strokes-nature.json",
+        "gcore": "https://gcore.jsdelivr.net/gh/zhongaiyemaozi/clover-content@content-2026-06-24-1/packs/strokes-nature.json"
+      }
+    },
+    {
+      "id": "strokes-numbers",
+      "version": 1,
+      "title": {
+        "zh": "笔顺复习·数字",
+        "en": "Stroke Order · Numbers"
+      },
+      "summary": {
+        "zh": "数字汉字笔顺复习",
+        "en": "Stroke order for number characters"
+      },
+      "sizeBytes": 20594,
+      "sha256": "f499cd8c0483c2d56b3274a1f933edbedc42bcf1e45318166534eb74c3c99ead",
+      "accessLevel": "free",
+      "contentTypes": [
+        "stroke.order"
+      ],
+      "urls": {
+        "cn": "https://gitee.com/zhongaiyemaozi_admin/clover-content/raw/content-2026-06-24-1/packs/strokes-numbers.json",
+        "global": "https://raw.githubusercontent.com/zhongaiyemaozi/clover-content/content-2026-06-24-1/packs/strokes-numbers.json",
+        "cdn": "https://fastly.jsdelivr.net/gh/zhongaiyemaozi/clover-content@content-2026-06-24-1/packs/strokes-numbers.json",
+        "gcore": "https://gcore.jsdelivr.net/gh/zhongaiyemaozi/clover-content@content-2026-06-24-1/packs/strokes-numbers.json"
+      }
+    },
+    {
+      "id": "strokes-people",
+      "version": 1,
+      "title": {
+        "zh": "笔顺复习·人物",
+        "en": "Stroke Order · People"
+      },
+      "summary": {
+        "zh": "人物汉字笔顺复习",
+        "en": "Stroke order for people characters"
+      },
+      "sizeBytes": 27544,
+      "sha256": "5f2f42f6402f2cc3731e273036bf9f28b8cf055fbb36692faa734f4d69f16640",
+      "accessLevel": "free",
+      "contentTypes": [
+        "stroke.order"
+      ],
+      "urls": {
+        "cn": "https://gitee.com/zhongaiyemaozi_admin/clover-content/raw/content-2026-06-24-1/packs/strokes-people.json",
+        "global": "https://raw.githubusercontent.com/zhongaiyemaozi/clover-content/content-2026-06-24-1/packs/strokes-people.json",
+        "cdn": "https://fastly.jsdelivr.net/gh/zhongaiyemaozi/clover-content@content-2026-06-24-1/packs/strokes-people.json",
+        "gcore": "https://gcore.jsdelivr.net/gh/zhongaiyemaozi/clover-content@content-2026-06-24-1/packs/strokes-people.json"
+      }
+    },
+    {
+      "id": "tracing-chinese",
+      "version": 1,
+      "title": {
+        "zh": "描红·汉字一二三",
+        "en": "Tracing · Chinese 一二三"
+      },
+      "summary": {
+        "zh": "描红汉字 一 二 三 十",
+        "en": "Trace Chinese 一 二 三 十"
+      },
+      "sizeBytes": 2211,
+      "sha256": "3eb2d6288ed0ce415966bb21b4650bb0894f658aa343a14e6737e147f0f19ff1",
+      "accessLevel": "free",
+      "contentTypes": [
+        "game.tracing"
+      ],
+      "urls": {
+        "cn": "https://gitee.com/zhongaiyemaozi_admin/clover-content/raw/content-2026-06-24-1/packs/tracing-chinese.json",
+        "global": "https://raw.githubusercontent.com/zhongaiyemaozi/clover-content/content-2026-06-24-1/packs/tracing-chinese.json",
+        "cdn": "https://fastly.jsdelivr.net/gh/zhongaiyemaozi/clover-content@content-2026-06-24-1/packs/tracing-chinese.json",
+        "gcore": "https://gcore.jsdelivr.net/gh/zhongaiyemaozi/clover-content@content-2026-06-24-1/packs/tracing-chinese.json"
+      }
+    },
+    {
+      "id": "tracing-letters-1",
+      "version": 1,
+      "title": {
+        "zh": "描红·字母 A-E",
+        "en": "Tracing · Letters A–E"
+      },
+      "summary": {
+        "zh": "描红大写字母 A 到 E",
+        "en": "Trace uppercase letters A to E"
+      },
+      "sizeBytes": 3429,
+      "sha256": "c2c1e2a0dc9efce1eb1511d79fe9b0a954848f3bca95ad63edbd2bad48ce8af4",
+      "accessLevel": "free",
+      "contentTypes": [
+        "game.tracing"
+      ],
+      "urls": {
+        "cn": "https://gitee.com/zhongaiyemaozi_admin/clover-content/raw/content-2026-06-24-1/packs/tracing-letters-1.json",
+        "global": "https://raw.githubusercontent.com/zhongaiyemaozi/clover-content/content-2026-06-24-1/packs/tracing-letters-1.json",
+        "cdn": "https://fastly.jsdelivr.net/gh/zhongaiyemaozi/clover-content@content-2026-06-24-1/packs/tracing-letters-1.json",
+        "gcore": "https://gcore.jsdelivr.net/gh/zhongaiyemaozi/clover-content@content-2026-06-24-1/packs/tracing-letters-1.json"
+      }
+    },
+    {
+      "id": "tracing-letters-2",
+      "version": 1,
+      "title": {
+        "zh": "描红·字母 L-T",
+        "en": "Tracing · Letters L–T"
+      },
+      "summary": {
+        "zh": "描红大写字母 L 到 T",
+        "en": "Trace uppercase letters L to T"
+      },
+      "sizeBytes": 2737,
+      "sha256": "d970f8fb3dd30720e9817cfe50b6804081abb83dae19c7369f187a48db79b2f2",
+      "accessLevel": "free",
+      "contentTypes": [
+        "game.tracing"
+      ],
+      "urls": {
+        "cn": "https://gitee.com/zhongaiyemaozi_admin/clover-content/raw/content-2026-06-24-1/packs/tracing-letters-2.json",
+        "global": "https://raw.githubusercontent.com/zhongaiyemaozi/clover-content/content-2026-06-24-1/packs/tracing-letters-2.json",
+        "cdn": "https://fastly.jsdelivr.net/gh/zhongaiyemaozi/clover-content@content-2026-06-24-1/packs/tracing-letters-2.json",
+        "gcore": "https://gcore.jsdelivr.net/gh/zhongaiyemaozi/clover-content@content-2026-06-24-1/packs/tracing-letters-2.json"
+      }
+    },
+    {
+      "id": "tracing-letters-3",
+      "version": 1,
+      "title": {
+        "zh": "描红·字母 K-Z",
+        "en": "Tracing · Letters K–Z"
+      },
+      "summary": {
+        "zh": "描红大写字母 K M N W Z",
+        "en": "Trace uppercase letters K M N W Z"
+      },
+      "sizeBytes": 3562,
+      "sha256": "ed5c4d674a5bf0c04f6e65c0a8110b7845e2ef06d8c05b6da2eccc4a60cfbd70",
+      "accessLevel": "free",
+      "contentTypes": [
+        "game.tracing"
+      ],
+      "urls": {
+        "cn": "https://gitee.com/zhongaiyemaozi_admin/clover-content/raw/content-2026-06-24-1/packs/tracing-letters-3.json",
+        "global": "https://raw.githubusercontent.com/zhongaiyemaozi/clover-content/content-2026-06-24-1/packs/tracing-letters-3.json",
+        "cdn": "https://fastly.jsdelivr.net/gh/zhongaiyemaozi/clover-content@content-2026-06-24-1/packs/tracing-letters-3.json",
+        "gcore": "https://gcore.jsdelivr.net/gh/zhongaiyemaozi/clover-content@content-2026-06-24-1/packs/tracing-letters-3.json"
+      }
+    },
+    {
+      "id": "tracing-numbers",
+      "version": 1,
+      "title": {
+        "zh": "描红·数字 1-5",
+        "en": "Tracing · Numbers 1–5"
+      },
+      "summary": {
+        "zh": "描红数字 1 到 5",
+        "en": "Trace numbers 1 to 5"
+      },
+      "sizeBytes": 3276,
+      "sha256": "6f50040a9d6aeb1e047c744f0cfd627f579fbbedf348c7cffab4f685394e8ca6",
+      "accessLevel": "free",
+      "contentTypes": [
+        "game.tracing"
+      ],
+      "urls": {
+        "cn": "https://gitee.com/zhongaiyemaozi_admin/clover-content/raw/content-2026-06-24-1/packs/tracing-numbers.json",
+        "global": "https://raw.githubusercontent.com/zhongaiyemaozi/clover-content/content-2026-06-24-1/packs/tracing-numbers.json",
+        "cdn": "https://fastly.jsdelivr.net/gh/zhongaiyemaozi/clover-content@content-2026-06-24-1/packs/tracing-numbers.json",
+        "gcore": "https://gcore.jsdelivr.net/gh/zhongaiyemaozi/clover-content@content-2026-06-24-1/packs/tracing-numbers.json"
+      }
+    },
+    {
+      "id": "voice-en-phrases",
+      "version": 1,
+      "title": {
+        "zh": "英文跟读·日常句",
+        "en": "Read Aloud · English Phrases"
+      },
+      "summary": {
+        "zh": "8 句英文日常用语",
+        "en": "Read 8 everyday English phrases"
+      },
+      "sizeBytes": 2985,
+      "sha256": "690a6b8eefaab1cf1229bde78d7dc1f3c890147317c94d7dbb7a215d25501811",
+      "accessLevel": "free",
+      "contentTypes": [
+        "voice.practice"
+      ],
+      "urls": {
+        "cn": "https://gitee.com/zhongaiyemaozi_admin/clover-content/raw/content-2026-06-24-1/packs/voice-en-phrases.json",
+        "global": "https://raw.githubusercontent.com/zhongaiyemaozi/clover-content/content-2026-06-24-1/packs/voice-en-phrases.json",
+        "cdn": "https://fastly.jsdelivr.net/gh/zhongaiyemaozi/clover-content@content-2026-06-24-1/packs/voice-en-phrases.json",
+        "gcore": "https://gcore.jsdelivr.net/gh/zhongaiyemaozi/clover-content@content-2026-06-24-1/packs/voice-en-phrases.json"
+      }
+    },
+    {
+      "id": "voice-en-words",
+      "version": 1,
+      "title": {
+        "zh": "英文跟读·常用词",
+        "en": "Read Aloud · English Words"
+      },
+      "summary": {
+        "zh": "10 个英文常用词跟读",
+        "en": "Read 10 common English words"
+      },
+      "sizeBytes": 3354,
+      "sha256": "32c7899a597e4b6d033048aa863afaf4bea866b757b9bcacfb8e6605ed7401da",
+      "accessLevel": "free",
+      "contentTypes": [
+        "voice.practice"
+      ],
+      "urls": {
+        "cn": "https://gitee.com/zhongaiyemaozi_admin/clover-content/raw/content-2026-06-24-1/packs/voice-en-words.json",
+        "global": "https://raw.githubusercontent.com/zhongaiyemaozi/clover-content/content-2026-06-24-1/packs/voice-en-words.json",
+        "cdn": "https://fastly.jsdelivr.net/gh/zhongaiyemaozi/clover-content@content-2026-06-24-1/packs/voice-en-words.json",
+        "gcore": "https://gcore.jsdelivr.net/gh/zhongaiyemaozi/clover-content@content-2026-06-24-1/packs/voice-en-words.json"
+      }
+    },
+    {
+      "id": "voice-zh-animals",
+      "version": 1,
+      "title": {
+        "zh": "中文跟读·动物",
+        "en": "Read Aloud · Chinese Animals"
+      },
+      "summary": {
+        "zh": "8 个动物名跟读",
+        "en": "Read 8 Chinese animal words"
+      },
+      "sizeBytes": 2982,
+      "sha256": "2815e1d09c59a29c92ba6f29d5600104ceb9e8d97f831908cb91f4c910d576a8",
+      "accessLevel": "free",
+      "contentTypes": [
+        "voice.practice"
+      ],
+      "urls": {
+        "cn": "https://gitee.com/zhongaiyemaozi_admin/clover-content/raw/content-2026-06-24-1/packs/voice-zh-animals.json",
+        "global": "https://raw.githubusercontent.com/zhongaiyemaozi/clover-content/content-2026-06-24-1/packs/voice-zh-animals.json",
+        "cdn": "https://fastly.jsdelivr.net/gh/zhongaiyemaozi/clover-content@content-2026-06-24-1/packs/voice-zh-animals.json",
+        "gcore": "https://gcore.jsdelivr.net/gh/zhongaiyemaozi/clover-content@content-2026-06-24-1/packs/voice-zh-animals.json"
+      }
+    },
+    {
+      "id": "voice-zh-sentences",
+      "version": 1,
+      "title": {
+        "zh": "中文跟读·句子",
+        "en": "Read Aloud · Chinese Sentences"
+      },
+      "summary": {
+        "zh": "8 句中文日常句",
+        "en": "Read 8 everyday Chinese sentences"
+      },
+      "sizeBytes": 3142,
+      "sha256": "67dfba53330a187406f6353a0c4f5f885f8098e92905f1564294606ddfb6fb8f",
+      "accessLevel": "free",
+      "contentTypes": [
+        "voice.practice"
+      ],
+      "urls": {
+        "cn": "https://gitee.com/zhongaiyemaozi_admin/clover-content/raw/content-2026-06-24-1/packs/voice-zh-sentences.json",
+        "global": "https://raw.githubusercontent.com/zhongaiyemaozi/clover-content/content-2026-06-24-1/packs/voice-zh-sentences.json",
+        "cdn": "https://fastly.jsdelivr.net/gh/zhongaiyemaozi/clover-content@content-2026-06-24-1/packs/voice-zh-sentences.json",
+        "gcore": "https://gcore.jsdelivr.net/gh/zhongaiyemaozi/clover-content@content-2026-06-24-1/packs/voice-zh-sentences.json"
+      }
+    },
+    {
+      "id": "voice-zh-words",
+      "version": 1,
+      "title": {
+        "zh": "中文跟读·词语",
+        "en": "Read Aloud · Chinese Words"
+      },
+      "summary": {
+        "zh": "10 个中文词语跟读",
+        "en": "Read 10 Chinese words aloud"
+      },
+      "sizeBytes": 3573,
+      "sha256": "0470159de2a4f7440a5fa8535d26983385c033ee2d44f10baa9fe45b71725104",
+      "accessLevel": "free",
+      "contentTypes": [
+        "voice.practice"
+      ],
+      "urls": {
+        "cn": "https://gitee.com/zhongaiyemaozi_admin/clover-content/raw/content-2026-06-24-1/packs/voice-zh-words.json",
+        "global": "https://raw.githubusercontent.com/zhongaiyemaozi/clover-content/content-2026-06-24-1/packs/voice-zh-words.json",
+        "cdn": "https://fastly.jsdelivr.net/gh/zhongaiyemaozi/clover-content@content-2026-06-24-1/packs/voice-zh-words.json",
+        "gcore": "https://gcore.jsdelivr.net/gh/zhongaiyemaozi/clover-content@content-2026-06-24-1/packs/voice-zh-words.json"
+      }
+    },
+    {
+      "id": "widget-words-animals",
+      "version": 1,
+      "title": {
+        "zh": "每日一词·动物",
+        "en": "Daily Word · Animals"
+      },
+      "summary": {
+        "zh": "动物每日词",
+        "en": "Daily animal words"
+      },
+      "sizeBytes": 1060,
+      "sha256": "d34cd8cd6935e4cfe0c7b1b3454b6cfeb7e721c3744d9a0363cc7a5127761d1b",
+      "accessLevel": "free",
+      "contentTypes": [
+        "widget.dailyWords"
+      ],
+      "urls": {
+        "cn": "https://gitee.com/zhongaiyemaozi_admin/clover-content/raw/content-2026-06-24-1/packs/widget-words-animals.json",
+        "global": "https://raw.githubusercontent.com/zhongaiyemaozi/clover-content/content-2026-06-24-1/packs/widget-words-animals.json",
+        "cdn": "https://fastly.jsdelivr.net/gh/zhongaiyemaozi/clover-content@content-2026-06-24-1/packs/widget-words-animals.json",
+        "gcore": "https://gcore.jsdelivr.net/gh/zhongaiyemaozi/clover-content@content-2026-06-24-1/packs/widget-words-animals.json"
+      }
+    },
+    {
+      "id": "widget-words-body",
+      "version": 1,
+      "title": {
+        "zh": "每日一词·身体",
+        "en": "Daily Word · Body"
+      },
+      "summary": {
+        "zh": "身体每日词",
+        "en": "Daily body words"
+      },
+      "sizeBytes": 1079,
+      "sha256": "c6667c6ddb0661a25f97c32166f36a53a0a49ac7d52c492a7a6fefc412cfbedf",
+      "accessLevel": "free",
+      "contentTypes": [
+        "widget.dailyWords"
+      ],
+      "urls": {
+        "cn": "https://gitee.com/zhongaiyemaozi_admin/clover-content/raw/content-2026-06-24-1/packs/widget-words-body.json",
+        "global": "https://raw.githubusercontent.com/zhongaiyemaozi/clover-content/content-2026-06-24-1/packs/widget-words-body.json",
+        "cdn": "https://fastly.jsdelivr.net/gh/zhongaiyemaozi/clover-content@content-2026-06-24-1/packs/widget-words-body.json",
+        "gcore": "https://gcore.jsdelivr.net/gh/zhongaiyemaozi/clover-content@content-2026-06-24-1/packs/widget-words-body.json"
+      }
+    },
+    {
+      "id": "widget-words-food",
+      "version": 1,
+      "title": {
+        "zh": "每日一词·食物",
+        "en": "Daily Word · Food"
+      },
+      "summary": {
+        "zh": "食物每日词",
+        "en": "Daily food words"
+      },
+      "sizeBytes": 1099,
+      "sha256": "ab47b08bc13e7a58e8e29ac8738010c824d21184bd70089630e3585de94b5cd6",
+      "accessLevel": "free",
+      "contentTypes": [
+        "widget.dailyWords"
+      ],
+      "urls": {
+        "cn": "https://gitee.com/zhongaiyemaozi_admin/clover-content/raw/content-2026-06-24-1/packs/widget-words-food.json",
+        "global": "https://raw.githubusercontent.com/zhongaiyemaozi/clover-content/content-2026-06-24-1/packs/widget-words-food.json",
+        "cdn": "https://fastly.jsdelivr.net/gh/zhongaiyemaozi/clover-content@content-2026-06-24-1/packs/widget-words-food.json",
+        "gcore": "https://gcore.jsdelivr.net/gh/zhongaiyemaozi/clover-content@content-2026-06-24-1/packs/widget-words-food.json"
+      }
+    },
+    {
+      "id": "widget-words-nature",
+      "version": 1,
+      "title": {
+        "zh": "每日一词·自然",
+        "en": "Daily Word · Nature"
+      },
+      "summary": {
+        "zh": "自然每日词",
+        "en": "Daily nature words"
+      },
+      "sizeBytes": 1072,
+      "sha256": "a0cea55fcacaacca1b77c3e1812a7e9426634863e28b6ce564e48f9fe5ccc1dd",
+      "accessLevel": "free",
+      "contentTypes": [
+        "widget.dailyWords"
+      ],
+      "urls": {
+        "cn": "https://gitee.com/zhongaiyemaozi_admin/clover-content/raw/content-2026-06-24-1/packs/widget-words-nature.json",
+        "global": "https://raw.githubusercontent.com/zhongaiyemaozi/clover-content/content-2026-06-24-1/packs/widget-words-nature.json",
+        "cdn": "https://fastly.jsdelivr.net/gh/zhongaiyemaozi/clover-content@content-2026-06-24-1/packs/widget-words-nature.json",
+        "gcore": "https://gcore.jsdelivr.net/gh/zhongaiyemaozi/clover-content@content-2026-06-24-1/packs/widget-words-nature.json"
+      }
+    },
+    {
+      "id": "widget-words-school",
+      "version": 1,
+      "title": {
+        "zh": "每日一词·学习",
+        "en": "Daily Word · School"
+      },
+      "summary": {
+        "zh": "学习每日词",
+        "en": "Daily school words"
+      },
+      "sizeBytes": 1103,
+      "sha256": "71ee973895d7bae135e6487ccb3e645fc7f69093b34f40fd9398d5825c9ff829",
+      "accessLevel": "free",
+      "contentTypes": [
+        "widget.dailyWords"
+      ],
+      "urls": {
+        "cn": "https://gitee.com/zhongaiyemaozi_admin/clover-content/raw/content-2026-06-24-1/packs/widget-words-school.json",
+        "global": "https://raw.githubusercontent.com/zhongaiyemaozi/clover-content/content-2026-06-24-1/packs/widget-words-school.json",
+        "cdn": "https://fastly.jsdelivr.net/gh/zhongaiyemaozi/clover-content@content-2026-06-24-1/packs/widget-words-school.json",
+        "gcore": "https://gcore.jsdelivr.net/gh/zhongaiyemaozi/clover-content@content-2026-06-24-1/packs/widget-words-school.json"
+      }
+    },
+    {
+      "id": "writing-basic-1",
+      "version": 1,
+      "title": {
+        "zh": "练字·口日",
+        "en": "Writing · 口 日"
+      },
+      "summary": {
+        "zh": "练写 口 日 两个字",
+        "en": "Practice writing 口 日"
+      },
+      "sizeBytes": 2057,
+      "sha256": "b16896c295d1f97b604f2e76822bb32e42e2ac8933f831be83f2172ee18cc01c",
+      "accessLevel": "free",
+      "contentTypes": [
+        "writing.practice"
+      ],
+      "urls": {
+        "cn": "https://gitee.com/zhongaiyemaozi_admin/clover-content/raw/content-2026-06-24-1/packs/writing-basic-1.json",
+        "global": "https://raw.githubusercontent.com/zhongaiyemaozi/clover-content/content-2026-06-24-1/packs/writing-basic-1.json",
+        "cdn": "https://fastly.jsdelivr.net/gh/zhongaiyemaozi/clover-content@content-2026-06-24-1/packs/writing-basic-1.json",
+        "gcore": "https://gcore.jsdelivr.net/gh/zhongaiyemaozi/clover-content@content-2026-06-24-1/packs/writing-basic-1.json"
+      }
+    },
+    {
+      "id": "writing-basic-2",
+      "version": 1,
+      "title": {
+        "zh": "练字·人大",
+        "en": "Writing · 人 大"
+      },
+      "summary": {
+        "zh": "练写 人 大 两个字",
+        "en": "Practice writing 人 大"
+      },
+      "sizeBytes": 1511,
+      "sha256": "da6385784dfd18b2e2cd92426a879cb3c519a6d101948b3e0b9c03a88af71b26",
+      "accessLevel": "free",
+      "contentTypes": [
+        "writing.practice"
+      ],
+      "urls": {
+        "cn": "https://gitee.com/zhongaiyemaozi_admin/clover-content/raw/content-2026-06-24-1/packs/writing-basic-2.json",
+        "global": "https://raw.githubusercontent.com/zhongaiyemaozi/clover-content/content-2026-06-24-1/packs/writing-basic-2.json",
+        "cdn": "https://fastly.jsdelivr.net/gh/zhongaiyemaozi/clover-content@content-2026-06-24-1/packs/writing-basic-2.json",
+        "gcore": "https://gcore.jsdelivr.net/gh/zhongaiyemaozi/clover-content@content-2026-06-24-1/packs/writing-basic-2.json"
+      }
+    },
+    {
+      "id": "writing-basic-3",
+      "version": 1,
+      "title": {
+        "zh": "练字·中王",
+        "en": "Writing · 中 王"
+      },
+      "summary": {
+        "zh": "练写 中 王 两个字",
+        "en": "Practice writing 中 王"
+      },
+      "sizeBytes": 2061,
+      "sha256": "7e23067b75936f38a3792a7c2faaea1947d0dadc4054b77e8b4c9ed5a7a5dca3",
+      "accessLevel": "free",
+      "contentTypes": [
+        "writing.practice"
+      ],
+      "urls": {
+        "cn": "https://gitee.com/zhongaiyemaozi_admin/clover-content/raw/content-2026-06-24-1/packs/writing-basic-3.json",
+        "global": "https://raw.githubusercontent.com/zhongaiyemaozi/clover-content/content-2026-06-24-1/packs/writing-basic-3.json",
+        "cdn": "https://fastly.jsdelivr.net/gh/zhongaiyemaozi/clover-content@content-2026-06-24-1/packs/writing-basic-3.json",
+        "gcore": "https://gcore.jsdelivr.net/gh/zhongaiyemaozi/clover-content@content-2026-06-24-1/packs/writing-basic-3.json"
+      }
+    },
+    {
+      "id": "writing-numbers-1",
+      "version": 1,
+      "title": {
+        "zh": "练字·一二三",
+        "en": "Writing · 1 2 3"
+      },
+      "summary": {
+        "zh": "练写 一二三 三个字",
+        "en": "Practice writing 一 二 三"
+      },
+      "sizeBytes": 1879,
+      "sha256": "74e98db86c63f4fd8a43064e382997de7af20119001b6c33d6012a40a3c6da78",
+      "accessLevel": "free",
+      "contentTypes": [
+        "writing.practice"
+      ],
+      "urls": {
+        "cn": "https://gitee.com/zhongaiyemaozi_admin/clover-content/raw/content-2026-06-24-1/packs/writing-numbers-1.json",
+        "global": "https://raw.githubusercontent.com/zhongaiyemaozi/clover-content/content-2026-06-24-1/packs/writing-numbers-1.json",
+        "cdn": "https://fastly.jsdelivr.net/gh/zhongaiyemaozi/clover-content@content-2026-06-24-1/packs/writing-numbers-1.json",
+        "gcore": "https://gcore.jsdelivr.net/gh/zhongaiyemaozi/clover-content@content-2026-06-24-1/packs/writing-numbers-1.json"
+      }
+    },
+    {
+      "id": "writing-numbers-2",
+      "version": 1,
+      "title": {
+        "zh": "练字·十丁",
+        "en": "Writing · 十 丁"
+      },
+      "summary": {
+        "zh": "练写 十 丁 两个字",
+        "en": "Practice writing 十 丁"
+      },
+      "sizeBytes": 1377,
+      "sha256": "97c7dfdd8890cf0a9eff20b0df7c1551a46d9ce9055fe0b39a4404b0f64cbdae",
+      "accessLevel": "free",
+      "contentTypes": [
+        "writing.practice"
+      ],
+      "urls": {
+        "cn": "https://gitee.com/zhongaiyemaozi_admin/clover-content/raw/content-2026-06-24-1/packs/writing-numbers-2.json",
+        "global": "https://raw.githubusercontent.com/zhongaiyemaozi/clover-content/content-2026-06-24-1/packs/writing-numbers-2.json",
+        "cdn": "https://fastly.jsdelivr.net/gh/zhongaiyemaozi/clover-content@content-2026-06-24-1/packs/writing-numbers-2.json",
+        "gcore": "https://gcore.jsdelivr.net/gh/zhongaiyemaozi/clover-content@content-2026-06-24-1/packs/writing-numbers-2.json"
       }
     }
   ]

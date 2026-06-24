@@ -1,0 +1,114 @@
+{
+  "_meta": {
+    "version": 1,
+    "title": {
+      "zh": "练字·中王",
+      "en": "Writing · 中 王"
+    },
+    "summary": {
+      "zh": "练写 中 王 两个字",
+      "en": "Practice writing 中 王"
+    },
+    "accessLevel": "free",
+    "contentTypes": [
+      "writing.practice"
+    ]
+  },
+  "schemaVersion": 2,
+  "payloads": {
+    "writingPracticeItems": [
+      {
+        "id": "w_zhong",
+        "level": "gradeOne",
+        "character": "中",
+        "pinyin": "zhōng",
+        "meaning": "middle",
+        "targetStrokeCount": 4,
+        "guidePoints": [
+          {
+            "x": 0.3,
+            "y": 0.25
+          },
+          {
+            "x": 0.7,
+            "y": 0.25
+          },
+          {
+            "x": 0.7,
+            "y": 0.25
+          },
+          {
+            "x": 0.7,
+            "y": 0.7
+          },
+          {
+            "x": 0.3,
+            "y": 0.25
+          },
+          {
+            "x": 0.3,
+            "y": 0.7
+          },
+          {
+            "x": 0.3,
+            "y": 0.7
+          },
+          {
+            "x": 0.7,
+            "y": 0.7
+          },
+          {
+            "x": 0.5,
+            "y": 0.1
+          },
+          {
+            "x": 0.5,
+            "y": 0.9
+          }
+        ]
+      },
+      {
+        "id": "w_wang",
+        "level": "gradeOne",
+        "character": "王",
+        "pinyin": "wáng",
+        "meaning": "king",
+        "targetStrokeCount": 4,
+        "guidePoints": [
+          {
+            "x": 0.15,
+            "y": 0.3
+          },
+          {
+            "x": 0.85,
+            "y": 0.3
+          },
+          {
+            "x": 0.15,
+            "y": 0.55
+          },
+          {
+            "x": 0.85,
+            "y": 0.55
+          },
+          {
+            "x": 0.15,
+            "y": 0.8
+          },
+          {
+            "x": 0.85,
+            "y": 0.8
+          },
+          {
+            "x": 0.5,
+            "y": 0.3
+          },
+          {
+            "x": 0.5,
+            "y": 0.8
+          }
+        ]
+      }
+    ]
+  }
+}

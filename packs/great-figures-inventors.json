@@ -1,0 +1,167 @@
+{
+  "_meta": {
+    "version": 1,
+    "title": {
+      "zh": "伟人·发明与工程",
+      "en": "Great People · Inventors & Engineers"
+    },
+    "summary": {
+      "zh": "5 位改变生活的发明家与工程师",
+      "en": "Five inventors and engineers who changed daily life"
+    },
+    "accessLevel": "free",
+    "contentTypes": [
+      "great.figures"
+    ]
+  },
+  "schemaVersion": 2,
+  "payloads": {
+    "greatFigures": [
+      {
+        "id": "fig_zhan_tianyou",
+        "nameZh": "詹天佑",
+        "nameEn": "Zhan Tianyou",
+        "emoji": "🧑‍🔧",
+        "region": "china",
+        "years": "1861–1919",
+        "fieldZh": "中国铁路工程先驱",
+        "fieldEn": "Pioneer of China's railways",
+        "achievementEmoji": "🚂",
+        "themeColor": "#58C472",
+        "sections": [
+          {
+            "zh": "詹天佑是中国第一位伟大的铁路工程师。",
+            "en": "Zhan Tianyou was China's first great railway engineer.",
+            "emoji": "🚂"
+          },
+          {
+            "zh": "他主持修建了京张铁路，在陡峭的山里设计了聪明的「人」字形铁路。",
+            "en": "He built the Beijing–Zhangjiakou railway, with a clever zigzag track up steep mountains.",
+            "emoji": "⛰️"
+          },
+          {
+            "zh": "他证明了中国人能自己修铁路，激励了许多后来的工程师。",
+            "en": "He proved Chinese engineers could build railways themselves, inspiring many who came after.",
+            "emoji": "🌟"
+          }
+        ]
+      },
+      {
+        "id": "fig_bi_sheng",
+        "nameZh": "毕昇",
+        "nameEn": "Bi Sheng",
+        "emoji": "🧑‍🎨",
+        "region": "china",
+        "years": "约970–1051",
+        "fieldZh": "活字印刷术发明人",
+        "fieldEn": "Inventor of movable-type printing",
+        "achievementEmoji": "📰",
+        "themeColor": "#FFC84A",
+        "sections": [
+          {
+            "zh": "毕昇是中国宋朝的发明家。",
+            "en": "Bi Sheng was an inventor in China's Song dynasty.",
+            "emoji": "🧑‍🎨"
+          },
+          {
+            "zh": "他用一个个小泥字拼成文章，印完还能重新排列再用。",
+            "en": "He made tiny clay characters that could be arranged, printed, and reused.",
+            "emoji": "🔤"
+          },
+          {
+            "zh": "他发明的活字印刷，让书籍更容易印制和传播。",
+            "en": "His movable-type printing made books far easier to make and share.",
+            "emoji": "📚"
+          }
+        ]
+      },
+      {
+        "id": "fig_watt",
+        "nameZh": "瓦特",
+        "nameEn": "James Watt",
+        "emoji": "🧑‍🔧",
+        "region": "world",
+        "years": "1736–1819",
+        "fieldZh": "改进蒸汽机的工程师",
+        "fieldEn": "Engineer who improved the steam engine",
+        "achievementEmoji": "⚙️",
+        "themeColor": "#4FB6F5",
+        "sections": [
+          {
+            "zh": "瓦特是英国的发明家和工程师。",
+            "en": "James Watt was a British inventor and engineer.",
+            "emoji": "⚙️"
+          },
+          {
+            "zh": "他大大改进了蒸汽机，让机器更省力、更好用。",
+            "en": "He greatly improved the steam engine, making machines stronger and more useful.",
+            "emoji": "💨"
+          },
+          {
+            "zh": "他的蒸汽机推动了工厂、火车和轮船，开启了工业时代。",
+            "en": "His steam engine powered factories, trains, and ships, starting the industrial age.",
+            "emoji": "🏭"
+          }
+        ]
+      },
+      {
+        "id": "fig_gutenberg",
+        "nameZh": "古腾堡",
+        "nameEn": "Johannes Gutenberg",
+        "emoji": "🧔",
+        "region": "world",
+        "years": "约1400–1468",
+        "fieldZh": "欧洲活字印刷发明人",
+        "fieldEn": "Inventor of the European printing press",
+        "achievementEmoji": "🖨️",
+        "themeColor": "#B08BF0",
+        "sections": [
+          {
+            "zh": "古腾堡是德国的发明家。",
+            "en": "Johannes Gutenberg was a German inventor.",
+            "emoji": "🧔"
+          },
+          {
+            "zh": "他发明了金属活字印刷机，能快速印出很多书。",
+            "en": "He invented a metal movable-type press that could print many books quickly.",
+            "emoji": "🖨️"
+          },
+          {
+            "zh": "书籍变得便宜了，更多人能读书学习。",
+            "en": "Books became cheaper, so many more people could read and learn.",
+            "emoji": "📖"
+          }
+        ]
+      },
+      {
+        "id": "fig_franklin",
+        "nameZh": "富兰克林",
+        "nameEn": "Benjamin Franklin",
+        "emoji": "🧓",
+        "region": "world",
+        "years": "1706–1790",
+        "fieldZh": "研究电的科学家与发明家",
+        "fieldEn": "Scientist and inventor who studied electricity",
+        "achievementEmoji": "🪁",
+        "themeColor": "#FF8A80",
+        "sections": [
+          {
+            "zh": "富兰克林是美国的科学家、发明家。",
+            "en": "Benjamin Franklin was an American scientist and inventor.",
+            "emoji": "🧓"
+          },
+          {
+            "zh": "传说他在雷雨天放风筝，研究闪电其实是电。",
+            "en": "The story says he flew a kite in a storm to show that lightning is electricity.",
+            "emoji": "🪁"
+          },
+          {
+            "zh": "他还发明了避雷针和双焦点眼镜，帮助了很多人。",
+            "en": "He also invented the lightning rod and bifocal glasses, helping many people.",
+            "emoji": "⚡"
+          }
+        ]
+      }
+    ]
+  }
+}

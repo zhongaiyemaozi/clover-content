@@ -1,0 +1,188 @@
+{
+  "_meta": {
+    "version": 1,
+    "title": {
+      "zh": "职业认知包",
+      "en": "Jobs & Helpers"
+    },
+    "summary": {
+      "zh": "认识 10 种职业",
+      "en": "10 community helpers and jobs"
+    },
+    "accessLevel": "free",
+    "contentTypes": [
+      "learning.categories"
+    ]
+  },
+  "schemaVersion": 2,
+  "categories": [
+    {
+      "id": "pack_jobs",
+      "titleKey": "职业认知",
+      "icon": "person.2.fill",
+      "themeColor": "#FF9EC8",
+      "items": [
+        {
+          "id": "job_doctor",
+          "type": "custom",
+          "zhText": "医生",
+          "enText": "Doctor",
+          "pinyin": null,
+          "emoji": "🧑‍⚕️",
+          "descriptionZh": "医生帮助生病的人恢复健康。",
+          "descriptionEn": "A doctor helps sick people get well.",
+          "difficulty": 1,
+          "tags": [
+            "theme"
+          ],
+          "hexColor": null,
+          "example": null
+        },
+        {
+          "id": "job_teacher",
+          "type": "custom",
+          "zhText": "老师",
+          "enText": "Teacher",
+          "pinyin": null,
+          "emoji": "🧑‍🏫",
+          "descriptionZh": "老师教小朋友学习新知识。",
+          "descriptionEn": "A teacher helps children learn new things.",
+          "difficulty": 1,
+          "tags": [
+            "theme"
+          ],
+          "hexColor": null,
+          "example": null
+        },
+        {
+          "id": "job_firefighter",
+          "type": "custom",
+          "zhText": "消防员",
+          "enText": "Firefighter",
+          "pinyin": null,
+          "emoji": "🧑‍🚒",
+          "descriptionZh": "消防员勇敢地扑灭大火。",
+          "descriptionEn": "A firefighter bravely puts out fires.",
+          "difficulty": 1,
+          "tags": [
+            "theme"
+          ],
+          "hexColor": null,
+          "example": null
+        },
+        {
+          "id": "job_police",
+          "type": "custom",
+          "zhText": "警察",
+          "enText": "Police Officer",
+          "pinyin": null,
+          "emoji": "👮",
+          "descriptionZh": "警察保护大家的安全。",
+          "descriptionEn": "A police officer keeps everyone safe.",
+          "difficulty": 1,
+          "tags": [
+            "theme"
+          ],
+          "hexColor": null,
+          "example": null
+        },
+        {
+          "id": "job_farmer",
+          "type": "custom",
+          "zhText": "农民",
+          "enText": "Farmer",
+          "pinyin": null,
+          "emoji": "🧑‍🌾",
+          "descriptionZh": "农民种庄稼，给我们食物。",
+          "descriptionEn": "A farmer grows the food we eat.",
+          "difficulty": 1,
+          "tags": [
+            "theme"
+          ],
+          "hexColor": null,
+          "example": null
+        },
+        {
+          "id": "job_chef",
+          "type": "custom",
+          "zhText": "厨师",
+          "enText": "Chef",
+          "pinyin": null,
+          "emoji": "🧑‍🍳",
+          "descriptionZh": "厨师做出美味的饭菜。",
+          "descriptionEn": "A chef cooks delicious meals.",
+          "difficulty": 1,
+          "tags": [
+            "theme"
+          ],
+          "hexColor": null,
+          "example": null
+        },
+        {
+          "id": "job_pilot",
+          "type": "custom",
+          "zhText": "飞行员",
+          "enText": "Pilot",
+          "pinyin": null,
+          "emoji": "🧑‍✈️",
+          "descriptionZh": "飞行员驾驶飞机带我们去远方。",
+          "descriptionEn": "A pilot flies the plane to faraway places.",
+          "difficulty": 1,
+          "tags": [
+            "theme"
+          ],
+          "hexColor": null,
+          "example": null
+        },
+        {
+          "id": "job_nurse",
+          "type": "custom",
+          "zhText": "护士",
+          "enText": "Nurse",
+          "pinyin": null,
+          "emoji": "🧑‍⚕️",
+          "descriptionZh": "护士细心照顾病人。",
+          "descriptionEn": "A nurse takes gentle care of patients.",
+          "difficulty": 1,
+          "tags": [
+            "theme"
+          ],
+          "hexColor": null,
+          "example": null
+        },
+        {
+          "id": "job_scientist",
+          "type": "custom",
+          "zhText": "科学家",
+          "enText": "Scientist",
+          "pinyin": null,
+          "emoji": "🧑‍🔬",
+          "descriptionZh": "科学家做实验，探索世界。",
+          "descriptionEn": "A scientist does experiments to explore the world.",
+          "difficulty": 1,
+          "tags": [
+            "theme"
+          ],
+          "hexColor": null,
+          "example": null
+        },
+        {
+          "id": "job_artist",
+          "type": "custom",
+          "zhText": "画家",
+          "enText": "Artist",
+          "pinyin": null,
+          "emoji": "🧑‍🎨",
+          "descriptionZh": "画家用画笔画出美丽的图画。",
+          "descriptionEn": "An artist paints beautiful pictures.",
+          "difficulty": 1,
+          "tags": [
+            "theme"
+          ],
+          "hexColor": null,
+          "example": null
+        }
+      ]
+    }
+  ]
+}

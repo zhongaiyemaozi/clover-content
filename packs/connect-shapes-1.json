@@ -1,0 +1,80 @@
+{
+  "_meta": {
+    "version": 1,
+    "title": {
+      "zh": "连线成图·形状一",
+      "en": "Connect the Dots · Shapes 1"
+    },
+    "summary": {
+      "zh": "连线画出方形和三角",
+      "en": "Connect dots to draw a square and triangle"
+    },
+    "accessLevel": "free",
+    "contentTypes": [
+      "game.numberConnect"
+    ]
+  },
+  "schemaVersion": 2,
+  "payloads": {
+    "numberConnectBoards": [
+      {
+        "id": "nc_square",
+        "titleKey": "games_number_connect_title",
+        "numbers": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "nodes": [
+          {
+            "number": 1,
+            "x": 0.25,
+            "y": 0.25
+          },
+          {
+            "number": 2,
+            "x": 0.75,
+            "y": 0.25
+          },
+          {
+            "number": 3,
+            "x": 0.75,
+            "y": 0.75
+          },
+          {
+            "number": 4,
+            "x": 0.25,
+            "y": 0.75
+          }
+        ]
+      },
+      {
+        "id": "nc_triangle",
+        "titleKey": "games_number_connect_title",
+        "numbers": [
+          1,
+          2,
+          3
+        ],
+        "nodes": [
+          {
+            "number": 1,
+            "x": 0.5,
+            "y": 0.2
+          },
+          {
+            "number": 2,
+            "x": 0.8,
+            "y": 0.8
+          },
+          {
+            "number": 3,
+            "x": 0.2,
+            "y": 0.8
+          }
+        ]
+      }
+    ]
+  }
+}

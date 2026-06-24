@@ -1,0 +1,36 @@
+{
+  "_meta": {
+    "version": 1,
+    "title": {
+      "zh": "测验·形状",
+      "en": "Quiz · Shapes"
+    },
+    "summary": {
+      "zh": "形状认知测验",
+      "en": "Quiz about shapes"
+    },
+    "accessLevel": "free",
+    "contentTypes": [
+      "quiz.packs"
+    ]
+  },
+  "schemaVersion": 2,
+  "payloads": {
+    "quizPacks": [
+      {
+        "id": "quiz_shapes",
+        "title": "形状测验 Shapes Quiz",
+        "subtitle": "找出正确的形状 / Find the right shape",
+        "icon": "triangle.fill",
+        "themeColor": "#6DB8F7",
+        "categoryIDs": [
+          "shapes"
+        ],
+        "supportedTypes": [
+          "pictureToWord",
+          "findSame"
+        ]
+      }
+    ]
+  }
+}

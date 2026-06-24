@@ -1,0 +1,29 @@
+{
+  "_meta": {
+    "version": 1,
+    "title": {
+      "zh": "每日挑战·混合20",
+      "en": "Daily · Mixed to 20"
+    },
+    "summary": {
+      "zh": "20 以内加减混合挑战",
+      "en": "Mixed add & subtract within 20"
+    },
+    "accessLevel": "free",
+    "contentTypes": [
+      "game.dailyChallenge"
+    ]
+  },
+  "schemaVersion": 2,
+  "payloads": {
+    "dailyChallengeSets": [
+      {
+        "id": "dc_mix20",
+        "operation": "mixed",
+        "range": "tenToTwenty",
+        "questionCount": 6,
+        "starsPerCorrect": 2
+      }
+    ]
+  }
+}
